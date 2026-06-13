@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Crorepati Party Edition</title>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="bg-glow bg-glow-1"></div>
+  <div class="bg-glow bg-glow-2"></div>
+
+  <main class="app">
+
+    <!-- HOME -->
+    <section id="homeScreen" class="screen active">
+      <div class="hero-card">
+        <div class="logo">💰</div>
+        <h1>Crorepati Party Edition</h1>
+        <p class="subtitle">
+          3 players • Room code • Funny questions • Lifelines • Full party mode
+        </p>
+
+        <div class="home-grid">
+          <div class="panel">
+            <h2>Create Room</h2>
+            <input id="createNameInput" type="text" placeholder="Your name" maxlength="18" />
+            <select id="createAvatarSelect">
+              <option value="😎">😎 Cool</option>
+              <option value="😂">😂 Funny</option>
+              <option value="🧠">🧠 Smart</option>
+              <option value="🔥">🔥 Fire</option>
+              <option value="👑">👑 King</option>
+              <option value="💃">💃 Queen</option>
+            </select>
+            <button id="createRoomBtn" class="btn primary">Create Room</button>
+          </div>
+
+          <div class="panel">
+            <h2>Join Room</h2>
+            <input id="joinNameInput" type="text" placeholder="Your name" maxlength="18" />
+            <input id="roomCodeInput" type="text" placeholder="Room code" maxlength="8" />
+            <select id="joinAvatarSelect">
+              <option value="😎">😎 Cool</option>
+              <option value="😂">😂 Funny</option>
+              <option value="🧠">🧠 Smart</option>
+              <option value="🔥">🔥 Fire</option>
+              <option value="👑">👑 King</option>
+              <option value="💃">💃 Queen</option>
+            </select>
+            <button id="joinRoomBtn" class="btn secondary">Join Room</button>
+          </div>
+        </div>
+
+        <p id="homeMessage" class="message"></p>
+      </div>
+    </section>
+
+    <!-- LOBBY -->
+    <section id="lobbyScreen" class="screen">
+      <div class="top-bar">
+        <div>
+          <small>Room Code</small>
+          <h2 id="roomCodeText">------</h2>
+        </div>
+        <button id="copyRoomBtn" class="btn small">Copy Code</button>
+      </div>
+
+      <div class="card">
+        <h2>Players Waiting</h2>
+        <div id="lobbyPlayers" class="players-grid"></div>
+        <p class="hint">Need exactly 3 players to start.</p>
+      </div>
+
+      <div class="card">
+        <h2>Game Settings</h2>
+
+        <label>Question Category</label>
+        <select id="categorySelect">
+          <option value="mixed">🎲 Mixed Party</option>
+          <option value="funny">😂 Funny Life</option>
+          <option value="love">❤️ Love & Relationship</option>
+          <option value="college">🏫 School / College</option>
+          <option value="movies">🎬 Movies</option>
+          <option value="football">⚽ Football Fun</option>
+          <option value="food">🍔 Food</option>
+        </select>
+
+        <label>Timer</label>
+        <select id="timerSelect">
+          <option value="15">15 seconds - Speed Mode</option>
+          <option value="30" selected>30 seconds - Normal</option>
+          <option value="45">45 seconds - Chill</option>
+        </select>
+
+        <label>Game Mode</label>
+        <select id="modeSelect">
+          <option value="classic">Classic Crorepati</option>
+          <option value="party">Party Mode with Funny Punishments</option>
+        </select>
+
+        <button id="startGameBtn" class="btn primary">Start Game</button>
+        <p id="lobbyMessage" class="message"></p>
+      </div>
+    </section>
+
+    <!-- FASTEST FINGER -->
+    <section id="fastestScreen" class="screen">
+      <div class="card host-card">
+        <div class="host-avatar">🎙️</div>
+        <div>
+          <h2>Fastest Finger First</h2>
+          <p id="fastestHostText">
+            Fastest correct player gets the first hot seat.
+          </p>
+        </div>
+      </div>
+
+      <div class="card">
+        <div id="fastestTimer" class="timer">10</div>
+        <h2 id="fastestQuestion" class="question-text"></h2>
+        <div id="fastestOptions" class="options-grid"></div>
+      </div>
+
+      <div class="card">
+        <h3>Fastest Status</h3>
+        <div id="fastestStatus" class="status-list"></div>
+      </div>
+    </section>
+
+    <!-- GAME -->
+    <section id="gameScreen" class="screen">
+      <div class="game-layout">
+
+        <div class="main-column">
+          <div class="card host-card">
+            <div class="host-avatar">🎙️</div>
+            <div>
+              <h2>Host</h2>
+              <p id="hostText">Computer ji, question screen par laya jaye!</p>
+            </div>
+          </div>
+
+          <div class="card question-card">
+            <div class="question-meta">
+              <span id="currentTurnBadge" class="pill">Turn</span>
+              <span id="questionNumberBadge" class="pill">Q1</span>
+              <span id="categoryBadge" class="pill">Mixed</span>
+            </div>
+
+            <div id="gameTimer" class="timer">30</div>
+
+            <h2 id="questionText" class="question-text"></h2>
+
+            <div id="optionsGrid" class="options-grid"></div>
+          </div>
+
+          <div class="card">
+            <h3>Lifelines</h3>
+            <div class="lifeline-grid">
+              <button id="fiftyBtn" class="btn lifeline">50:50 ✂️</button>
+              <button id="audienceBtn" class="btn lifeline">Audience Poll 👥</button>
+              <button id="friendBtn" class="btn lifeline">Call Friend ☎️</button>
+              <button id="aiBtn" class="btn lifeline">AI Friend 🤖</button>
+              <button id="swapBtn" class="btn lifeline">Swap Question 🔄</button>
+              <button id="skipBtn" class="btn lifeline">Skip ⏭️</button>
+            </div>
+          </div>
+
+          <div class="card hidden" id="lifelineResultCard">
+            <h3 id="lifelineTitle">Lifeline</h3>
+            <div id="lifelineResult"></div>
+          </div>
+        </div>
+
+        <aside class="side-column">
+          <div class="card">
+            <h3>Players</h3>
+            <div id="scoreBoard" class="players-list"></div>
+          </div>
+
+          <div class="card">
+            <h3>Money Ladder</h3>
+            <div id="moneyLadder" class="money-ladder"></div>
+          </div>
+
+          <div class="card">
+            <h3>Room Chat</h3>
+            <div id="chatBox" class="chat-box"></div>
+            <div class="chat-row">
+              <input id="chatInput" type="text" placeholder="Type message..." maxlength="80" />
+              <button id="sendChatBtn" class="btn small">Send</button>
+            </div>
+          </div>
+        </aside>
+
+      </div>
+    </section>
+
+    <!-- WHEEL -->
+    <section id="wheelScreen" class="screen">
+      <div class="card center-card">
+        <h2>Lucky Wheel 🎡</h2>
+        <p>Bonus round unlocked!</p>
+
+        <div id="wheel" class="wheel">
+          <span>🎁</span>
+        </div>
+
+        <button id="spinWheelBtn" class="btn primary">Spin Wheel</button>
+        <h3 id="wheelResult"></h3>
+      </div>
+    </section>
+
+    <!-- FINAL -->
+    <section id="finalScreen" class="screen">
+      <div class="card center-card">
+        <div class="trophy">🏆</div>
+        <h1>Game Over</h1>
+        <div id="winnerBox" class="winner-box"></div>
+
+        <h3>Achievements</h3>
+        <div id="achievementsBox" class="achievement-grid"></div>
+
+        <button id="playAgainBtn" class="btn primary">Play Again</button>
+      </div>
+    </section>
+
+  </main>
+
+  <audio id="soundCorrect" src="sounds/correct.mp3"></audio>
+  <audio id="soundWrong" src="sounds/wrong.mp3"></audio>
+  <audio id="soundWin" src="sounds/win.mp3"></audio>
+  <audio id="soundTick" src="sounds/timer.mp3"></audio>
+  <audio id="soundLifeline" src="sounds/lifeline.mp3"></audio>
+
+  <script src="questions.js"></script>
+  <script type="module" src="firebase.js"></script>
+  <script type="module" src="script.js"></script>
+</body>
+</html>
