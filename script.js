@@ -1,3 +1,13 @@
+window.CURRENT_AFFAIRS = [];
+
+fetch("data/current-affairs.json")
+  .then(res => res.json())
+  .then(data => {
+    window.CURRENT_AFFAIRS = data;
+    console.log("Current Affairs loaded:", data.length);
+  })
+  .catch(err => console.error("Current Affairs load failed:", err));
+
 const {
   db, ref, set, update, onValue, get, push, serverTimestamp
 } = window.FirebaseGame;
@@ -29,9 +39,17 @@ function makePlayerId() {
 }
 
 function getQuestions(category) {
-  if (category === "mixed") {
-    return Object.values(window.QUESTION_BANK).flat();
+  if (category === "currentAffairs") {
+    return window.CURRENT_AFFAIRS || [];
   }
+
+  if (category === "mixed") {
+    return [
+      ...Object.values(window.QUESTION_BANK).flat(),
+      ...(window.CURRENT_AFFAIRS || [])
+    ];
+  }
+
   return window.QUESTION_BANK[category] || window.QUESTION_BANK.funny;
 }
 
