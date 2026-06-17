@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "Which month has 28 days?",
+    "options": [
+      "January",
+      "All months",
+      "February only",
+      "March"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If you overtake the second person in a race, what position are you in?",
+    "options": [
+      "Last",
+      "First",
+      "Second",
+      "Third"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many sides does a triangle have?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is half of 100?",
+    "options": [
+      "90",
+      "50",
+      "25",
+      "10"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 1: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "25",
+      "22",
+      "30",
+      "40"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 2: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "6 minutes",
+      "3 minutes",
+      "1 minute",
+      "9 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 3: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Same weight",
+      "Iron",
+      "Cotton",
+      "Cannot compare"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 4: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "30",
+      "20",
+      "25",
+      "24"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 5: If A=1, B=2, what is C?",
+    "options": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 6: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "40",
+      "22",
+      "25",
+      "30"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 7: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "1 minute",
+      "3 minutes",
+      "6 minutes",
+      "9 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 8: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Iron",
+      "Cotton",
+      "Cannot compare",
+      "Same weight"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 9: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "30",
+      "24",
+      "20",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 10: If A=1, B=2, what is C?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 11: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "40",
+      "22",
+      "30",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 12: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "1 minute",
+      "9 minutes",
+      "6 minutes",
+      "3 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 13: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cotton",
+      "Iron",
+      "Same weight",
+      "Cannot compare"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 14: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "20",
+      "24",
+      "25",
+      "30"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 15: If A=1, B=2, what is C?",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 16: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "25",
+      "22",
+      "30",
+      "40"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 17: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "3 minutes",
+      "6 minutes",
+      "1 minute",
+      "9 minutes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 18: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cannot compare",
+      "Cotton",
+      "Same weight",
+      "Iron"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 19: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "30",
+      "25",
+      "24",
+      "20"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 20: If A=1, B=2, what is C?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 21: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "22",
+      "40",
+      "25",
+      "30"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 22: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "6 minutes",
+      "9 minutes",
+      "3 minutes",
+      "1 minute"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 23: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cannot compare",
+      "Cotton",
+      "Same weight",
+      "Iron"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 24: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "30",
+      "24",
+      "20",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 25: If A=1, B=2, what is C?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 26: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "25",
+      "22",
+      "30",
+      "40"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 27: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "1 minute",
+      "3 minutes",
+      "9 minutes",
+      "6 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 28: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cotton",
+      "Same weight",
+      "Cannot compare",
+      "Iron"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 29: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "30",
+      "24",
+      "20",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 30: If A=1, B=2, what is C?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 31: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "25",
+      "40",
+      "30",
+      "22"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 32: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "1 minute",
+      "9 minutes",
+      "3 minutes",
+      "6 minutes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 33: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cotton",
+      "Cannot compare",
+      "Iron",
+      "Same weight"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 34: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "24",
+      "25",
+      "30",
+      "20"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 35: If A=1, B=2, what is C?",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 36: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "40",
+      "30",
+      "22",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 37: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "1 minute",
+      "9 minutes",
+      "6 minutes",
+      "3 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 38: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cannot compare",
+      "Cotton",
+      "Same weight",
+      "Iron"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 39: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "30",
+      "20",
+      "25",
+      "24"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 40: If A=1, B=2, what is C?",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 41: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "22",
+      "30",
+      "40",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 42: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "9 minutes",
+      "3 minutes",
+      "1 minute",
+      "6 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 43: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Same weight",
+      "Cannot compare",
+      "Cotton",
+      "Iron"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 44: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "24",
+      "30",
+      "25",
+      "20"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 45: If A=1, B=2, what is C?",
+    "options": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 46: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "22",
+      "25",
+      "30",
+      "40"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 47: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "1 minute",
+      "3 minutes",
+      "9 minutes",
+      "6 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 48: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Iron",
+      "Cannot compare",
+      "Cotton",
+      "Same weight"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 49: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "30",
+      "20",
+      "25",
+      "24"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 50: If A=1, B=2, what is C?",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 51: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "25",
+      "40",
+      "22",
+      "30"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 52: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "6 minutes",
+      "9 minutes",
+      "3 minutes",
+      "1 minute"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 53: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Same weight",
+      "Cannot compare",
+      "Iron",
+      "Cotton"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 54: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "20",
+      "30",
+      "24",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 55: If A=1, B=2, what is C?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 56: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "30",
+      "40",
+      "22",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 57: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "9 minutes",
+      "1 minute",
+      "6 minutes",
+      "3 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 58: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cannot compare",
+      "Iron",
+      "Same weight",
+      "Cotton"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 59: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "30",
+      "24",
+      "20",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 60: If A=1, B=2, what is C?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 61: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "40",
+      "22",
+      "25",
+      "30"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 62: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "3 minutes",
+      "6 minutes",
+      "1 minute",
+      "9 minutes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 63: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cannot compare",
+      "Same weight",
+      "Iron",
+      "Cotton"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 64: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "25",
+      "24",
+      "20",
+      "30"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 65: If A=1, B=2, what is C?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 66: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "40",
+      "30",
+      "22",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 67: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "1 minute",
+      "3 minutes",
+      "6 minutes",
+      "9 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 68: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Same weight",
+      "Iron",
+      "Cannot compare",
+      "Cotton"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 69: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "20",
+      "25",
+      "24",
+      "30"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 70: If A=1, B=2, what is C?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 71: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "40",
+      "30",
+      "25",
+      "22"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 72: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "3 minutes",
+      "1 minute",
+      "6 minutes",
+      "9 minutes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 73: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Same weight",
+      "Cotton",
+      "Iron",
+      "Cannot compare"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 74: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "30",
+      "25",
+      "20",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 75: If A=1, B=2, what is C?",
+    "options": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 76: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "40",
+      "22",
+      "30",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 77: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "1 minute",
+      "3 minutes",
+      "9 minutes",
+      "6 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 78: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cotton",
+      "Iron",
+      "Cannot compare",
+      "Same weight"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 79: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "25",
+      "30",
+      "24",
+      "20"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 80: If A=1, B=2, what is C?",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 81: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "30",
+      "25",
+      "40",
+      "22"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 82: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "1 minute",
+      "6 minutes",
+      "3 minutes",
+      "9 minutes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 83: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cannot compare",
+      "Same weight",
+      "Cotton",
+      "Iron"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 84: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "30",
+      "24",
+      "20",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 85: If A=1, B=2, what is C?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 86: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "30",
+      "25",
+      "40",
+      "22"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 87: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "6 minutes",
+      "9 minutes",
+      "1 minute",
+      "3 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 88: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cannot compare",
+      "Cotton",
+      "Same weight",
+      "Iron"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 89: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "24",
+      "25",
+      "20",
+      "30"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 90: If A=1, B=2, what is C?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 91: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "25",
+      "30",
+      "40",
+      "22"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 92: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "6 minutes",
+      "1 minute",
+      "3 minutes",
+      "9 minutes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 93: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Same weight",
+      "Iron",
+      "Cotton",
+      "Cannot compare"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 94: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "30",
+      "24",
+      "25",
+      "20"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 95: If A=1, B=2, what is C?",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 96: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "40",
+      "22",
+      "30",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 97: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "9 minutes",
+      "6 minutes",
+      "1 minute",
+      "3 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 98: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Same weight",
+      "Cotton",
+      "Cannot compare",
+      "Iron"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 99: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "25",
+      "20",
+      "24",
+      "30"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 100: If A=1, B=2, what is C?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 101: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "25",
+      "22",
+      "30",
+      "40"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 102: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "1 minute",
+      "3 minutes",
+      "6 minutes",
+      "9 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 103: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cotton",
+      "Cannot compare",
+      "Same weight",
+      "Iron"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 104: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "25",
+      "24",
+      "30",
+      "20"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 105: If A=1, B=2, what is C?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 106: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "22",
+      "30",
+      "40",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 107: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "6 minutes",
+      "1 minute",
+      "9 minutes",
+      "3 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 108: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Same weight",
+      "Cotton",
+      "Cannot compare",
+      "Iron"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 109: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "20",
+      "25",
+      "24",
+      "30"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 110: If A=1, B=2, what is C?",
+    "options": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Brain Teaser 111: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "30",
+      "25",
+      "22",
+      "40"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 112: If 3 cats catch 3 mice in 3 minutes, 1 cat catches 1 mouse in?",
+    "options": [
+      "3 minutes",
+      "1 minute",
+      "6 minutes",
+      "9 minutes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Brain Teaser 113: Which is heavier, 1 kg cotton or 1 kg iron?",
+    "options": [
+      "Cannot compare",
+      "Same weight",
+      "Iron",
+      "Cotton"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 114: What number is missing: 1, 4, 9, 16, ?",
+    "options": [
+      "30",
+      "25",
+      "20",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Brain Teaser 115: If A=1, B=2, what is C?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Brain Teaser 116: What comes next: 5, 10, 15, 20?",
+    "options": [
+      "22",
+      "30",
+      "25",
+      "40"
+    ],
+    "answer": 2
+  }
+]
