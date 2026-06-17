@@ -1,0 +1,2202 @@
+[
+  {
+    "category": "love",
+    "question": "Partner says 'I'm fine'. What is safest reply?",
+    "options": [
+      "LOL",
+      "Are you sure?",
+      "Good night",
+      "Okay"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "What is better than expensive gift?",
+    "options": [
+      "Argument",
+      "Late reply",
+      "Ignoring",
+      "Attention"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Most dangerous message?",
+    "options": [
+      "Love you",
+      "Hi",
+      "Reached",
+      "K"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Best date plan depends on?",
+    "options": [
+      "Budget only",
+      "Weather only",
+      "Traffic only",
+      "Mood"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "What keeps relationship strong?",
+    "options": [
+      "Trust",
+      "Jealousy",
+      "Secrets",
+      "Ego"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "What should you do after mistake?",
+    "options": [
+      "Ignore",
+      "Say sorry",
+      "Argue",
+      "Block"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Which is important in love?",
+    "options": [
+      "Respect",
+      "Control",
+      "Suspicion",
+      "Comparison"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Long distance needs?",
+    "options": [
+      "Silence",
+      "Doubt",
+      "Drama",
+      "Communication"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "What is a green flag?",
+    "options": [
+      "Lies",
+      "Anger",
+      "Late always",
+      "Kindness"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Best love language for many people?",
+    "options": [
+      "Testing",
+      "Care",
+      "Ignoring",
+      "Fighting"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "If partner sends one-word reply, what should you do?",
+    "options": [
+      "Send 100 messages",
+      "Fight immediately",
+      "Ask gently",
+      "Ignore forever"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "A healthy relationship needs?",
+    "options": [
+      "Jealousy only",
+      "Password checking",
+      "Control",
+      "Space and trust"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Best apology includes?",
+    "options": [
+      "Blame shifting",
+      "Only sorry text",
+      "Changed behaviour",
+      "Silence"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "If your partner is upset, first step?",
+    "options": [
+      "Leave",
+      "Joke",
+      "Listen",
+      "Defend"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Good morning text means?",
+    "options": [
+      "Spam",
+      "Care",
+      "Attendance",
+      "Duty only"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #16: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Laugh",
+      "Show care",
+      "Act careless",
+      "Block"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #17: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Be honest",
+      "Hide",
+      "Blame friends",
+      "Lie"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #18: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Control",
+      "Respect feelings",
+      "Mock feelings",
+      "Compare"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #19: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Disappear",
+      "Apologize properly",
+      "Say 'whatever'",
+      "Fight more"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #20: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Ignore",
+      "Communicate calmly",
+      "Post status",
+      "Argue loudly"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #21: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Act careless",
+      "Show care",
+      "Laugh",
+      "Block"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #22: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Hide",
+      "Be honest",
+      "Blame friends",
+      "Lie"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #23: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Control",
+      "Compare",
+      "Respect feelings",
+      "Mock feelings"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #24: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Fight more",
+      "Say 'whatever'",
+      "Disappear",
+      "Apologize properly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #25: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Communicate calmly",
+      "Post status",
+      "Argue loudly",
+      "Ignore"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #26: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Block",
+      "Laugh",
+      "Act careless",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #27: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Be honest",
+      "Blame friends",
+      "Lie",
+      "Hide"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #28: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Mock feelings",
+      "Compare",
+      "Respect feelings",
+      "Control"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #29: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Disappear",
+      "Apologize properly",
+      "Fight more",
+      "Say 'whatever'"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #30: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Post status",
+      "Ignore",
+      "Communicate calmly",
+      "Argue loudly"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #31: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Block",
+      "Show care",
+      "Laugh",
+      "Act careless"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #32: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Blame friends",
+      "Be honest",
+      "Hide",
+      "Lie"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #33: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Control",
+      "Compare",
+      "Mock feelings",
+      "Respect feelings"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #34: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Disappear",
+      "Say 'whatever'",
+      "Fight more",
+      "Apologize properly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #35: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Communicate calmly",
+      "Post status",
+      "Ignore",
+      "Argue loudly"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #36: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Block",
+      "Laugh",
+      "Show care",
+      "Act careless"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #37: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Lie",
+      "Be honest",
+      "Hide",
+      "Blame friends"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #38: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Compare",
+      "Respect feelings",
+      "Mock feelings",
+      "Control"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #39: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Disappear",
+      "Fight more",
+      "Say 'whatever'",
+      "Apologize properly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #40: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Ignore",
+      "Argue loudly",
+      "Communicate calmly",
+      "Post status"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #41: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Act careless",
+      "Block",
+      "Show care",
+      "Laugh"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #42: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Be honest",
+      "Blame friends",
+      "Lie",
+      "Hide"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #43: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Compare",
+      "Mock feelings",
+      "Control",
+      "Respect feelings"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #44: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Say 'whatever'",
+      "Disappear",
+      "Fight more",
+      "Apologize properly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #45: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Post status",
+      "Ignore",
+      "Communicate calmly",
+      "Argue loudly"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #46: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Block",
+      "Show care",
+      "Act careless",
+      "Laugh"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #47: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Be honest",
+      "Hide",
+      "Blame friends",
+      "Lie"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #48: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Control",
+      "Mock feelings",
+      "Compare",
+      "Respect feelings"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #49: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Say 'whatever'",
+      "Disappear",
+      "Fight more",
+      "Apologize properly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #50: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Ignore",
+      "Post status",
+      "Communicate calmly",
+      "Argue loudly"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #51: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Act careless",
+      "Laugh",
+      "Block",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #52: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Be honest",
+      "Lie",
+      "Blame friends",
+      "Hide"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #53: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Control",
+      "Mock feelings",
+      "Respect feelings",
+      "Compare"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #54: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Apologize properly",
+      "Say 'whatever'",
+      "Disappear",
+      "Fight more"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #55: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Argue loudly",
+      "Ignore",
+      "Communicate calmly",
+      "Post status"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #56: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Act careless",
+      "Laugh",
+      "Show care",
+      "Block"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #57: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Lie",
+      "Be honest",
+      "Hide",
+      "Blame friends"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #58: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Respect feelings",
+      "Control",
+      "Mock feelings",
+      "Compare"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #59: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Fight more",
+      "Apologize properly",
+      "Say 'whatever'",
+      "Disappear"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #60: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Communicate calmly",
+      "Post status",
+      "Argue loudly",
+      "Ignore"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #61: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Laugh",
+      "Block",
+      "Act careless",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #62: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Blame friends",
+      "Hide",
+      "Lie",
+      "Be honest"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #63: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Respect feelings",
+      "Compare",
+      "Control",
+      "Mock feelings"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #64: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Disappear",
+      "Apologize properly",
+      "Fight more",
+      "Say 'whatever'"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #65: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Argue loudly",
+      "Ignore",
+      "Communicate calmly",
+      "Post status"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #66: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Laugh",
+      "Act careless",
+      "Show care",
+      "Block"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #67: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Be honest",
+      "Blame friends",
+      "Hide",
+      "Lie"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #68: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Respect feelings",
+      "Mock feelings",
+      "Control",
+      "Compare"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #69: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Apologize properly",
+      "Disappear",
+      "Say 'whatever'",
+      "Fight more"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #70: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Argue loudly",
+      "Post status",
+      "Communicate calmly",
+      "Ignore"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #71: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Laugh",
+      "Block",
+      "Show care",
+      "Act careless"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #72: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Blame friends",
+      "Lie",
+      "Be honest",
+      "Hide"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #73: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Respect feelings",
+      "Compare",
+      "Mock feelings",
+      "Control"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #74: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Apologize properly",
+      "Say 'whatever'",
+      "Fight more",
+      "Disappear"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #75: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Post status",
+      "Ignore",
+      "Argue loudly",
+      "Communicate calmly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #76: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Block",
+      "Show care",
+      "Act careless",
+      "Laugh"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #77: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Blame friends",
+      "Hide",
+      "Lie",
+      "Be honest"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #78: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Control",
+      "Respect feelings",
+      "Mock feelings",
+      "Compare"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #79: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Apologize properly",
+      "Fight more",
+      "Say 'whatever'",
+      "Disappear"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #80: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Communicate calmly",
+      "Ignore",
+      "Argue loudly",
+      "Post status"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #81: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Act careless",
+      "Block",
+      "Laugh",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #82: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Lie",
+      "Blame friends",
+      "Hide",
+      "Be honest"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #83: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Respect feelings",
+      "Mock feelings",
+      "Control",
+      "Compare"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #84: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Disappear",
+      "Say 'whatever'",
+      "Apologize properly",
+      "Fight more"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #85: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Communicate calmly",
+      "Argue loudly",
+      "Post status",
+      "Ignore"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #86: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Act careless",
+      "Show care",
+      "Block",
+      "Laugh"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #87: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Hide",
+      "Blame friends",
+      "Lie",
+      "Be honest"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #88: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Control",
+      "Compare",
+      "Mock feelings",
+      "Respect feelings"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #89: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Apologize properly",
+      "Say 'whatever'",
+      "Fight more",
+      "Disappear"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #90: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Ignore",
+      "Argue loudly",
+      "Post status",
+      "Communicate calmly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #91: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Act careless",
+      "Laugh",
+      "Block",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #92: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Blame friends",
+      "Be honest",
+      "Hide",
+      "Lie"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #93: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Control",
+      "Compare",
+      "Mock feelings",
+      "Respect feelings"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #94: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Say 'whatever'",
+      "Fight more",
+      "Apologize properly",
+      "Disappear"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #95: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Argue loudly",
+      "Post status",
+      "Ignore",
+      "Communicate calmly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #96: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Laugh",
+      "Act careless",
+      "Show care",
+      "Block"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #97: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Lie",
+      "Be honest",
+      "Hide",
+      "Blame friends"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #98: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Control",
+      "Mock feelings",
+      "Respect feelings",
+      "Compare"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #99: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Say 'whatever'",
+      "Disappear",
+      "Apologize properly",
+      "Fight more"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #100: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Communicate calmly",
+      "Ignore",
+      "Argue loudly",
+      "Post status"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #101: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Act careless",
+      "Laugh",
+      "Block",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #102: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Lie",
+      "Hide",
+      "Blame friends",
+      "Be honest"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #103: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Compare",
+      "Mock feelings",
+      "Respect feelings",
+      "Control"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #104: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Disappear",
+      "Apologize properly",
+      "Fight more",
+      "Say 'whatever'"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #105: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Argue loudly",
+      "Communicate calmly",
+      "Ignore",
+      "Post status"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #106: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Act careless",
+      "Show care",
+      "Laugh",
+      "Block"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #107: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Blame friends",
+      "Be honest",
+      "Lie",
+      "Hide"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #108: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Mock feelings",
+      "Control",
+      "Respect feelings",
+      "Compare"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #109: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Disappear",
+      "Say 'whatever'",
+      "Fight more",
+      "Apologize properly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #110: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Post status",
+      "Communicate calmly",
+      "Ignore",
+      "Argue loudly"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #111: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Act careless",
+      "Laugh",
+      "Show care",
+      "Block"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #112: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Be honest",
+      "Blame friends",
+      "Lie",
+      "Hide"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #113: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Compare",
+      "Mock feelings",
+      "Respect feelings",
+      "Control"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #114: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Disappear",
+      "Apologize properly",
+      "Fight more",
+      "Say 'whatever'"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #115: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Ignore",
+      "Communicate calmly",
+      "Post status",
+      "Argue loudly"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #116: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Laugh",
+      "Block",
+      "Act careless",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #117: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Blame friends",
+      "Hide",
+      "Lie",
+      "Be honest"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #118: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Respect feelings",
+      "Control",
+      "Compare",
+      "Mock feelings"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #119: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Fight more",
+      "Apologize properly",
+      "Disappear",
+      "Say 'whatever'"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #120: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Communicate calmly",
+      "Post status",
+      "Ignore",
+      "Argue loudly"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #121: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Laugh",
+      "Show care",
+      "Block",
+      "Act careless"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #122: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Blame friends",
+      "Lie",
+      "Hide",
+      "Be honest"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #123: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Control",
+      "Compare",
+      "Respect feelings",
+      "Mock feelings"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #124: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Say 'whatever'",
+      "Disappear",
+      "Apologize properly",
+      "Fight more"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #125: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Post status",
+      "Argue loudly",
+      "Ignore",
+      "Communicate calmly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #126: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Block",
+      "Show care",
+      "Laugh",
+      "Act careless"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #127: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Blame friends",
+      "Be honest",
+      "Hide",
+      "Lie"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #128: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Respect feelings",
+      "Mock feelings",
+      "Control",
+      "Compare"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #129: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Say 'whatever'",
+      "Disappear",
+      "Apologize properly",
+      "Fight more"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #130: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Ignore",
+      "Post status",
+      "Argue loudly",
+      "Communicate calmly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #131: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Laugh",
+      "Act careless",
+      "Show care",
+      "Block"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #132: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Be honest",
+      "Blame friends",
+      "Hide",
+      "Lie"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #133: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Compare",
+      "Respect feelings",
+      "Control",
+      "Mock feelings"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #134: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Fight more",
+      "Disappear",
+      "Apologize properly",
+      "Say 'whatever'"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #135: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Ignore",
+      "Communicate calmly",
+      "Post status",
+      "Argue loudly"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #136: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Laugh",
+      "Block",
+      "Show care",
+      "Act careless"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #137: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Be honest",
+      "Hide",
+      "Lie",
+      "Blame friends"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #138: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Respect feelings",
+      "Control",
+      "Mock feelings",
+      "Compare"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #139: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Disappear",
+      "Apologize properly",
+      "Say 'whatever'",
+      "Fight more"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #140: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Argue loudly",
+      "Communicate calmly",
+      "Post status",
+      "Ignore"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #141: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Laugh",
+      "Act careless",
+      "Block",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #142: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Blame friends",
+      "Lie",
+      "Hide",
+      "Be honest"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #143: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Mock feelings",
+      "Respect feelings",
+      "Compare",
+      "Control"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #144: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Say 'whatever'",
+      "Fight more",
+      "Disappear",
+      "Apologize properly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #145: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Post status",
+      "Ignore",
+      "Communicate calmly",
+      "Argue loudly"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #146: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Laugh",
+      "Show care",
+      "Block",
+      "Act careless"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #147: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Lie",
+      "Hide",
+      "Be honest",
+      "Blame friends"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #148: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Compare",
+      "Mock feelings",
+      "Respect feelings",
+      "Control"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #149: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Fight more",
+      "Disappear",
+      "Say 'whatever'",
+      "Apologize properly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #150: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Communicate calmly",
+      "Argue loudly",
+      "Ignore",
+      "Post status"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #151: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Show care",
+      "Block",
+      "Laugh",
+      "Act careless"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #152: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Blame friends",
+      "Lie",
+      "Hide",
+      "Be honest"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #153: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Compare",
+      "Mock feelings",
+      "Control",
+      "Respect feelings"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #154: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Disappear",
+      "Apologize properly",
+      "Say 'whatever'",
+      "Fight more"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #155: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Argue loudly",
+      "Post status",
+      "Communicate calmly",
+      "Ignore"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #156: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Act careless",
+      "Show care",
+      "Laugh",
+      "Block"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #157: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Lie",
+      "Hide",
+      "Be honest",
+      "Blame friends"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #158: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Control",
+      "Compare",
+      "Respect feelings",
+      "Mock feelings"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #159: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Say 'whatever'",
+      "Fight more",
+      "Disappear",
+      "Apologize properly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #160: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Ignore",
+      "Post status",
+      "Communicate calmly",
+      "Argue loudly"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #161: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Act careless",
+      "Block",
+      "Show care",
+      "Laugh"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #162: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Hide",
+      "Lie",
+      "Be honest",
+      "Blame friends"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #163: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Control",
+      "Mock feelings",
+      "Compare",
+      "Respect feelings"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #164: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Say 'whatever'",
+      "Apologize properly",
+      "Fight more",
+      "Disappear"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #165: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Post status",
+      "Ignore",
+      "Argue loudly",
+      "Communicate calmly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #166: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Laugh",
+      "Act careless",
+      "Show care",
+      "Block"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #167: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Be honest",
+      "Lie",
+      "Blame friends",
+      "Hide"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #168: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Respect feelings",
+      "Mock feelings",
+      "Compare",
+      "Control"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #169: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Disappear",
+      "Say 'whatever'",
+      "Fight more",
+      "Apologize properly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #170: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Ignore",
+      "Post status",
+      "Argue loudly",
+      "Communicate calmly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #171: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Block",
+      "Laugh",
+      "Act careless",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #172: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Be honest",
+      "Lie",
+      "Hide",
+      "Blame friends"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #173: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Respect feelings",
+      "Control",
+      "Mock feelings",
+      "Compare"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #174: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Disappear",
+      "Fight more",
+      "Say 'whatever'",
+      "Apologize properly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #175: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Post status",
+      "Argue loudly",
+      "Ignore",
+      "Communicate calmly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #176: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Act careless",
+      "Laugh",
+      "Block",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #177: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Lie",
+      "Blame friends",
+      "Hide",
+      "Be honest"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #178: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Mock feelings",
+      "Compare",
+      "Control",
+      "Respect feelings"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #179: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Say 'whatever'",
+      "Fight more",
+      "Disappear",
+      "Apologize properly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #180: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Argue loudly",
+      "Communicate calmly",
+      "Ignore",
+      "Post status"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #181: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Act careless",
+      "Laugh",
+      "Block",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #182: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Hide",
+      "Lie",
+      "Be honest",
+      "Blame friends"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #183: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Compare",
+      "Control",
+      "Respect feelings",
+      "Mock feelings"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #184: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Apologize properly",
+      "Fight more",
+      "Disappear",
+      "Say 'whatever'"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #185: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Communicate calmly",
+      "Argue loudly",
+      "Post status",
+      "Ignore"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #186: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Block",
+      "Laugh",
+      "Act careless",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #187: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Be honest",
+      "Blame friends",
+      "Hide",
+      "Lie"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #188: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Compare",
+      "Mock feelings",
+      "Respect feelings",
+      "Control"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "love",
+    "question": "Love #189: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Apologize properly",
+      "Say 'whatever'",
+      "Disappear",
+      "Fight more"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #190: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Post status",
+      "Ignore",
+      "Argue loudly",
+      "Communicate calmly"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #191: In a relationship, what is best during a missed call situation?",
+    "options": [
+      "Block",
+      "Laugh",
+      "Act careless",
+      "Show care"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "love",
+    "question": "Love #192: In a relationship, what is best during a forgot anniversary situation?",
+    "options": [
+      "Blame friends",
+      "Be honest",
+      "Hide",
+      "Lie"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #193: In a relationship, what is best during a small fight situation?",
+    "options": [
+      "Mock feelings",
+      "Respect feelings",
+      "Control",
+      "Compare"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #194: In a relationship, what is best during a long distance day situation?",
+    "options": [
+      "Fight more",
+      "Apologize properly",
+      "Disappear",
+      "Say 'whatever'"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #195: In a relationship, what is best during a bad mood situation?",
+    "options": [
+      "Ignore",
+      "Communicate calmly",
+      "Argue loudly",
+      "Post status"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #196: In a relationship, what is best during a jealous moment situation?",
+    "options": [
+      "Laugh",
+      "Show care",
+      "Block",
+      "Act careless"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #197: In a relationship, what is best during a date planning situation?",
+    "options": [
+      "Be honest",
+      "Blame friends",
+      "Lie",
+      "Hide"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "love",
+    "question": "Love #198: In a relationship, what is best during a sorry message situation?",
+    "options": [
+      "Mock feelings",
+      "Respect feelings",
+      "Control",
+      "Compare"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #199: In a relationship, what is best during a cute surprise situation?",
+    "options": [
+      "Say 'whatever'",
+      "Apologize properly",
+      "Disappear",
+      "Fight more"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "love",
+    "question": "Love #200: In a relationship, what is best during a late reply situation?",
+    "options": [
+      "Post status",
+      "Ignore",
+      "Argue loudly",
+      "Communicate calmly"
+    ],
+    "answer": 3
+  }
+]
