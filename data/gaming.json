@@ -1,0 +1,802 @@
+[
+  {
+    "question": "Which company makes eFootball?",
+    "options": [
+      "Ubisoft",
+      "Konami",
+      "Valve",
+      "EA"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "PUBG/BGMI is which type of game?",
+    "options": [
+      "Racing only",
+      "Puzzle",
+      "Battle Royale",
+      "Card game"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Minecraft is famous for?",
+    "options": [
+      "Cars",
+      "Blocks",
+      "Football",
+      "Cooking"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which game has impostors?",
+    "options": [
+      "Sudoku",
+      "Among Us",
+      "Ludo",
+      "Chess"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 1: In most games, HP usually means what?",
+    "options": [
+      "Health Points",
+      "Hard Play",
+      "High Power",
+      "Hero Pass"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 2: A speedrun means what?",
+    "options": [
+      "Running outside",
+      "Slow gaming",
+      "Deleting game",
+      "Finishing fast"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 3: A noob usually means what?",
+    "options": [
+      "Referee",
+      "Coach",
+      "Expert",
+      "Beginner"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 4: Lag mainly means what?",
+    "options": [
+      "Delay",
+      "New skin",
+      "Win",
+      "High score"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 5: A leaderboard shows what?",
+    "options": [
+      "Rankings",
+      "Recipes",
+      "Movies",
+      "Weather"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 6: In most games, HP usually means what?",
+    "options": [
+      "Hard Play",
+      "Health Points",
+      "High Power",
+      "Hero Pass"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 7: A speedrun means what?",
+    "options": [
+      "Slow gaming",
+      "Deleting game",
+      "Running outside",
+      "Finishing fast"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 8: A noob usually means what?",
+    "options": [
+      "Referee",
+      "Expert",
+      "Coach",
+      "Beginner"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 9: Lag mainly means what?",
+    "options": [
+      "Delay",
+      "High score",
+      "New skin",
+      "Win"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 10: A leaderboard shows what?",
+    "options": [
+      "Weather",
+      "Rankings",
+      "Movies",
+      "Recipes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 11: In most games, HP usually means what?",
+    "options": [
+      "Health Points",
+      "Hard Play",
+      "High Power",
+      "Hero Pass"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 12: A speedrun means what?",
+    "options": [
+      "Slow gaming",
+      "Running outside",
+      "Deleting game",
+      "Finishing fast"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 13: A noob usually means what?",
+    "options": [
+      "Coach",
+      "Referee",
+      "Beginner",
+      "Expert"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 14: Lag mainly means what?",
+    "options": [
+      "Win",
+      "Delay",
+      "New skin",
+      "High score"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 15: A leaderboard shows what?",
+    "options": [
+      "Weather",
+      "Recipes",
+      "Movies",
+      "Rankings"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 16: In most games, HP usually means what?",
+    "options": [
+      "Hard Play",
+      "Health Points",
+      "High Power",
+      "Hero Pass"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 17: A speedrun means what?",
+    "options": [
+      "Deleting game",
+      "Slow gaming",
+      "Running outside",
+      "Finishing fast"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 18: A noob usually means what?",
+    "options": [
+      "Coach",
+      "Beginner",
+      "Expert",
+      "Referee"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 19: Lag mainly means what?",
+    "options": [
+      "High score",
+      "Delay",
+      "Win",
+      "New skin"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 20: A leaderboard shows what?",
+    "options": [
+      "Recipes",
+      "Weather",
+      "Movies",
+      "Rankings"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 21: In most games, HP usually means what?",
+    "options": [
+      "Health Points",
+      "Hard Play",
+      "High Power",
+      "Hero Pass"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 22: A speedrun means what?",
+    "options": [
+      "Deleting game",
+      "Slow gaming",
+      "Running outside",
+      "Finishing fast"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 23: A noob usually means what?",
+    "options": [
+      "Coach",
+      "Referee",
+      "Beginner",
+      "Expert"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 24: Lag mainly means what?",
+    "options": [
+      "Win",
+      "High score",
+      "New skin",
+      "Delay"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 25: A leaderboard shows what?",
+    "options": [
+      "Recipes",
+      "Weather",
+      "Movies",
+      "Rankings"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 26: In most games, HP usually means what?",
+    "options": [
+      "Hero Pass",
+      "Health Points",
+      "Hard Play",
+      "High Power"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 27: A speedrun means what?",
+    "options": [
+      "Finishing fast",
+      "Slow gaming",
+      "Deleting game",
+      "Running outside"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 28: A noob usually means what?",
+    "options": [
+      "Expert",
+      "Coach",
+      "Beginner",
+      "Referee"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 29: Lag mainly means what?",
+    "options": [
+      "High score",
+      "Win",
+      "New skin",
+      "Delay"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 30: A leaderboard shows what?",
+    "options": [
+      "Weather",
+      "Recipes",
+      "Rankings",
+      "Movies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 31: In most games, HP usually means what?",
+    "options": [
+      "Health Points",
+      "Hard Play",
+      "High Power",
+      "Hero Pass"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 32: A speedrun means what?",
+    "options": [
+      "Finishing fast",
+      "Running outside",
+      "Slow gaming",
+      "Deleting game"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 33: A noob usually means what?",
+    "options": [
+      "Coach",
+      "Expert",
+      "Referee",
+      "Beginner"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 34: Lag mainly means what?",
+    "options": [
+      "New skin",
+      "Win",
+      "High score",
+      "Delay"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 35: A leaderboard shows what?",
+    "options": [
+      "Rankings",
+      "Weather",
+      "Movies",
+      "Recipes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 36: In most games, HP usually means what?",
+    "options": [
+      "Hero Pass",
+      "Hard Play",
+      "Health Points",
+      "High Power"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 37: A speedrun means what?",
+    "options": [
+      "Deleting game",
+      "Slow gaming",
+      "Finishing fast",
+      "Running outside"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 38: A noob usually means what?",
+    "options": [
+      "Beginner",
+      "Referee",
+      "Coach",
+      "Expert"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 39: Lag mainly means what?",
+    "options": [
+      "New skin",
+      "Delay",
+      "Win",
+      "High score"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 40: A leaderboard shows what?",
+    "options": [
+      "Recipes",
+      "Movies",
+      "Weather",
+      "Rankings"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 41: In most games, HP usually means what?",
+    "options": [
+      "High Power",
+      "Health Points",
+      "Hard Play",
+      "Hero Pass"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 42: A speedrun means what?",
+    "options": [
+      "Slow gaming",
+      "Finishing fast",
+      "Running outside",
+      "Deleting game"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 43: A noob usually means what?",
+    "options": [
+      "Referee",
+      "Coach",
+      "Expert",
+      "Beginner"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 44: Lag mainly means what?",
+    "options": [
+      "Win",
+      "New skin",
+      "High score",
+      "Delay"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 45: A leaderboard shows what?",
+    "options": [
+      "Movies",
+      "Weather",
+      "Rankings",
+      "Recipes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 46: In most games, HP usually means what?",
+    "options": [
+      "Hard Play",
+      "Health Points",
+      "Hero Pass",
+      "High Power"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 47: A speedrun means what?",
+    "options": [
+      "Running outside",
+      "Finishing fast",
+      "Slow gaming",
+      "Deleting game"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 48: A noob usually means what?",
+    "options": [
+      "Expert",
+      "Coach",
+      "Beginner",
+      "Referee"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 49: Lag mainly means what?",
+    "options": [
+      "High score",
+      "New skin",
+      "Delay",
+      "Win"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 50: A leaderboard shows what?",
+    "options": [
+      "Movies",
+      "Weather",
+      "Rankings",
+      "Recipes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 51: In most games, HP usually means what?",
+    "options": [
+      "Hero Pass",
+      "Health Points",
+      "High Power",
+      "Hard Play"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 52: A speedrun means what?",
+    "options": [
+      "Running outside",
+      "Finishing fast",
+      "Deleting game",
+      "Slow gaming"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 53: A noob usually means what?",
+    "options": [
+      "Coach",
+      "Referee",
+      "Expert",
+      "Beginner"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 54: Lag mainly means what?",
+    "options": [
+      "Delay",
+      "Win",
+      "New skin",
+      "High score"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 55: A leaderboard shows what?",
+    "options": [
+      "Movies",
+      "Weather",
+      "Rankings",
+      "Recipes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 56: In most games, HP usually means what?",
+    "options": [
+      "Health Points",
+      "Hard Play",
+      "Hero Pass",
+      "High Power"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Gaming 57: A speedrun means what?",
+    "options": [
+      "Deleting game",
+      "Finishing fast",
+      "Slow gaming",
+      "Running outside"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 58: A noob usually means what?",
+    "options": [
+      "Referee",
+      "Coach",
+      "Beginner",
+      "Expert"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 59: Lag mainly means what?",
+    "options": [
+      "New skin",
+      "High score",
+      "Win",
+      "Delay"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 60: A leaderboard shows what?",
+    "options": [
+      "Movies",
+      "Weather",
+      "Recipes",
+      "Rankings"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 61: In most games, HP usually means what?",
+    "options": [
+      "Hero Pass",
+      "Hard Play",
+      "High Power",
+      "Health Points"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 62: A speedrun means what?",
+    "options": [
+      "Slow gaming",
+      "Finishing fast",
+      "Running outside",
+      "Deleting game"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 63: A noob usually means what?",
+    "options": [
+      "Referee",
+      "Coach",
+      "Expert",
+      "Beginner"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 64: Lag mainly means what?",
+    "options": [
+      "New skin",
+      "Delay",
+      "Win",
+      "High score"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 65: A leaderboard shows what?",
+    "options": [
+      "Movies",
+      "Rankings",
+      "Recipes",
+      "Weather"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 66: In most games, HP usually means what?",
+    "options": [
+      "High Power",
+      "Hard Play",
+      "Health Points",
+      "Hero Pass"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 67: A speedrun means what?",
+    "options": [
+      "Slow gaming",
+      "Running outside",
+      "Finishing fast",
+      "Deleting game"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 68: A noob usually means what?",
+    "options": [
+      "Expert",
+      "Beginner",
+      "Coach",
+      "Referee"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 69: Lag mainly means what?",
+    "options": [
+      "New skin",
+      "Delay",
+      "Win",
+      "High score"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 70: A leaderboard shows what?",
+    "options": [
+      "Weather",
+      "Movies",
+      "Recipes",
+      "Rankings"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 71: In most games, HP usually means what?",
+    "options": [
+      "Hard Play",
+      "Hero Pass",
+      "High Power",
+      "Health Points"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 72: A speedrun means what?",
+    "options": [
+      "Slow gaming",
+      "Running outside",
+      "Deleting game",
+      "Finishing fast"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 73: A noob usually means what?",
+    "options": [
+      "Expert",
+      "Referee",
+      "Coach",
+      "Beginner"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gaming 74: Lag mainly means what?",
+    "options": [
+      "New skin",
+      "Delay",
+      "Win",
+      "High score"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gaming 75: A leaderboard shows what?",
+    "options": [
+      "Movies",
+      "Weather",
+      "Rankings",
+      "Recipes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gaming 76: In most games, HP usually means what?",
+    "options": [
+      "Hard Play",
+      "Health Points",
+      "Hero Pass",
+      "High Power"
+    ],
+    "answer": 1
+  }
+]
