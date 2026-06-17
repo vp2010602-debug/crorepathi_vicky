@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "Partner says 'I'm fine'. What is safest reply?",
+    "options": [
+      "Are you sure?",
+      "LOL",
+      "Good night",
+      "Okay"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is better than expensive gift?",
+    "options": [
+      "Ignoring",
+      "Argument",
+      "Attention",
+      "Late reply"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Most dangerous message?",
+    "options": [
+      "Hi",
+      "Reached",
+      "Love you",
+      "K"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Best date plan depends on?",
+    "options": [
+      "Weather only",
+      "Traffic only",
+      "Budget only",
+      "Mood"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What keeps relationship strong?",
+    "options": [
+      "Trust",
+      "Secrets",
+      "Ego",
+      "Jealousy"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What should you do after mistake?",
+    "options": [
+      "Say sorry and change behaviour",
+      "Block",
+      "Argue",
+      "Ignore"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 1: What is best during a small fight?",
+    "options": [
+      "Post status",
+      "Ignore forever",
+      "Shout louder",
+      "Listen calmly"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 2: What is a green flag?",
+    "options": [
+      "Kindness and respect",
+      "Possessiveness",
+      "Lies",
+      "Anger"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 3: Best reply to partner's bad mood?",
+    "options": [
+      "I'm here, tell me",
+      "Okay bye",
+      "Not my problem",
+      "LOL"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 4: What makes apology meaningful?",
+    "options": [
+      "Blame shifting",
+      "Changed behaviour",
+      "Silence",
+      "Only emoji"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 5: What does healthy love need?",
+    "options": [
+      "Control",
+      "Jealousy",
+      "Trust and space",
+      "Password checking"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 6: What should you do if you forgot an important date?",
+    "options": [
+      "Fight",
+      "Accept mistake and make up",
+      "Deny it",
+      "Disappear"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 7: What matters more than constant texting?",
+    "options": [
+      "Testing",
+      "Doubt",
+      "Anger",
+      "Understanding"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 8: Best relationship habit?",
+    "options": [
+      "Comparisons",
+      "Ego",
+      "Honest communication",
+      "Silent treatment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 9: What is best during a small fight?",
+    "options": [
+      "Post status",
+      "Listen calmly",
+      "Ignore forever",
+      "Shout louder"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 10: What is a green flag?",
+    "options": [
+      "Anger",
+      "Possessiveness",
+      "Lies",
+      "Kindness and respect"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 11: Best reply to partner's bad mood?",
+    "options": [
+      "Okay bye",
+      "I'm here, tell me",
+      "Not my problem",
+      "LOL"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 12: What makes apology meaningful?",
+    "options": [
+      "Changed behaviour",
+      "Only emoji",
+      "Blame shifting",
+      "Silence"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 13: What does healthy love need?",
+    "options": [
+      "Jealousy",
+      "Control",
+      "Password checking",
+      "Trust and space"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 14: What should you do if you forgot an important date?",
+    "options": [
+      "Fight",
+      "Deny it",
+      "Accept mistake and make up",
+      "Disappear"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 15: What matters more than constant texting?",
+    "options": [
+      "Anger",
+      "Testing",
+      "Doubt",
+      "Understanding"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 16: Best relationship habit?",
+    "options": [
+      "Ego",
+      "Comparisons",
+      "Honest communication",
+      "Silent treatment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 17: What is best during a small fight?",
+    "options": [
+      "Shout louder",
+      "Post status",
+      "Ignore forever",
+      "Listen calmly"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 18: What is a green flag?",
+    "options": [
+      "Kindness and respect",
+      "Lies",
+      "Possessiveness",
+      "Anger"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 19: Best reply to partner's bad mood?",
+    "options": [
+      "Okay bye",
+      "I'm here, tell me",
+      "LOL",
+      "Not my problem"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 20: What makes apology meaningful?",
+    "options": [
+      "Blame shifting",
+      "Silence",
+      "Only emoji",
+      "Changed behaviour"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 21: What does healthy love need?",
+    "options": [
+      "Trust and space",
+      "Jealousy",
+      "Control",
+      "Password checking"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 22: What should you do if you forgot an important date?",
+    "options": [
+      "Accept mistake and make up",
+      "Disappear",
+      "Fight",
+      "Deny it"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 23: What matters more than constant texting?",
+    "options": [
+      "Understanding",
+      "Anger",
+      "Testing",
+      "Doubt"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 24: Best relationship habit?",
+    "options": [
+      "Silent treatment",
+      "Honest communication",
+      "Ego",
+      "Comparisons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 25: What is best during a small fight?",
+    "options": [
+      "Listen calmly",
+      "Shout louder",
+      "Ignore forever",
+      "Post status"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 26: What is a green flag?",
+    "options": [
+      "Possessiveness",
+      "Anger",
+      "Lies",
+      "Kindness and respect"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 27: Best reply to partner's bad mood?",
+    "options": [
+      "Not my problem",
+      "I'm here, tell me",
+      "Okay bye",
+      "LOL"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 28: What makes apology meaningful?",
+    "options": [
+      "Only emoji",
+      "Changed behaviour",
+      "Blame shifting",
+      "Silence"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 29: What does healthy love need?",
+    "options": [
+      "Control",
+      "Jealousy",
+      "Password checking",
+      "Trust and space"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 30: What should you do if you forgot an important date?",
+    "options": [
+      "Fight",
+      "Accept mistake and make up",
+      "Disappear",
+      "Deny it"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 31: What matters more than constant texting?",
+    "options": [
+      "Testing",
+      "Understanding",
+      "Anger",
+      "Doubt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 32: Best relationship habit?",
+    "options": [
+      "Honest communication",
+      "Ego",
+      "Comparisons",
+      "Silent treatment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 33: What is best during a small fight?",
+    "options": [
+      "Listen calmly",
+      "Shout louder",
+      "Post status",
+      "Ignore forever"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 34: What is a green flag?",
+    "options": [
+      "Anger",
+      "Lies",
+      "Kindness and respect",
+      "Possessiveness"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 35: Best reply to partner's bad mood?",
+    "options": [
+      "Okay bye",
+      "LOL",
+      "Not my problem",
+      "I'm here, tell me"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 36: What makes apology meaningful?",
+    "options": [
+      "Changed behaviour",
+      "Only emoji",
+      "Blame shifting",
+      "Silence"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 37: What does healthy love need?",
+    "options": [
+      "Password checking",
+      "Control",
+      "Trust and space",
+      "Jealousy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 38: What should you do if you forgot an important date?",
+    "options": [
+      "Disappear",
+      "Accept mistake and make up",
+      "Deny it",
+      "Fight"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 39: What matters more than constant texting?",
+    "options": [
+      "Testing",
+      "Anger",
+      "Understanding",
+      "Doubt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 40: Best relationship habit?",
+    "options": [
+      "Silent treatment",
+      "Ego",
+      "Comparisons",
+      "Honest communication"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 41: What is best during a small fight?",
+    "options": [
+      "Ignore forever",
+      "Listen calmly",
+      "Shout louder",
+      "Post status"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 42: What is a green flag?",
+    "options": [
+      "Possessiveness",
+      "Kindness and respect",
+      "Lies",
+      "Anger"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 43: Best reply to partner's bad mood?",
+    "options": [
+      "LOL",
+      "Okay bye",
+      "I'm here, tell me",
+      "Not my problem"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 44: What makes apology meaningful?",
+    "options": [
+      "Silence",
+      "Only emoji",
+      "Changed behaviour",
+      "Blame shifting"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 45: What does healthy love need?",
+    "options": [
+      "Trust and space",
+      "Password checking",
+      "Jealousy",
+      "Control"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 46: What should you do if you forgot an important date?",
+    "options": [
+      "Deny it",
+      "Accept mistake and make up",
+      "Disappear",
+      "Fight"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 47: What matters more than constant texting?",
+    "options": [
+      "Testing",
+      "Doubt",
+      "Anger",
+      "Understanding"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 48: Best relationship habit?",
+    "options": [
+      "Ego",
+      "Honest communication",
+      "Silent treatment",
+      "Comparisons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 49: What is best during a small fight?",
+    "options": [
+      "Ignore forever",
+      "Post status",
+      "Shout louder",
+      "Listen calmly"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 50: What is a green flag?",
+    "options": [
+      "Kindness and respect",
+      "Anger",
+      "Lies",
+      "Possessiveness"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 51: Best reply to partner's bad mood?",
+    "options": [
+      "I'm here, tell me",
+      "Okay bye",
+      "LOL",
+      "Not my problem"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 52: What makes apology meaningful?",
+    "options": [
+      "Only emoji",
+      "Blame shifting",
+      "Changed behaviour",
+      "Silence"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 53: What does healthy love need?",
+    "options": [
+      "Control",
+      "Password checking",
+      "Jealousy",
+      "Trust and space"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 54: What should you do if you forgot an important date?",
+    "options": [
+      "Deny it",
+      "Disappear",
+      "Accept mistake and make up",
+      "Fight"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 55: What matters more than constant texting?",
+    "options": [
+      "Anger",
+      "Understanding",
+      "Doubt",
+      "Testing"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 56: Best relationship habit?",
+    "options": [
+      "Silent treatment",
+      "Comparisons",
+      "Honest communication",
+      "Ego"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 57: What is best during a small fight?",
+    "options": [
+      "Listen calmly",
+      "Ignore forever",
+      "Shout louder",
+      "Post status"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 58: What is a green flag?",
+    "options": [
+      "Kindness and respect",
+      "Lies",
+      "Anger",
+      "Possessiveness"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 59: Best reply to partner's bad mood?",
+    "options": [
+      "I'm here, tell me",
+      "Okay bye",
+      "Not my problem",
+      "LOL"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 60: What makes apology meaningful?",
+    "options": [
+      "Only emoji",
+      "Changed behaviour",
+      "Silence",
+      "Blame shifting"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 61: What does healthy love need?",
+    "options": [
+      "Password checking",
+      "Trust and space",
+      "Control",
+      "Jealousy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 62: What should you do if you forgot an important date?",
+    "options": [
+      "Fight",
+      "Accept mistake and make up",
+      "Disappear",
+      "Deny it"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 63: What matters more than constant texting?",
+    "options": [
+      "Testing",
+      "Understanding",
+      "Doubt",
+      "Anger"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 64: Best relationship habit?",
+    "options": [
+      "Silent treatment",
+      "Honest communication",
+      "Comparisons",
+      "Ego"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 65: What is best during a small fight?",
+    "options": [
+      "Shout louder",
+      "Listen calmly",
+      "Post status",
+      "Ignore forever"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 66: What is a green flag?",
+    "options": [
+      "Kindness and respect",
+      "Anger",
+      "Possessiveness",
+      "Lies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 67: Best reply to partner's bad mood?",
+    "options": [
+      "Okay bye",
+      "LOL",
+      "Not my problem",
+      "I'm here, tell me"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 68: What makes apology meaningful?",
+    "options": [
+      "Only emoji",
+      "Silence",
+      "Blame shifting",
+      "Changed behaviour"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 69: What does healthy love need?",
+    "options": [
+      "Jealousy",
+      "Control",
+      "Trust and space",
+      "Password checking"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 70: What should you do if you forgot an important date?",
+    "options": [
+      "Deny it",
+      "Fight",
+      "Accept mistake and make up",
+      "Disappear"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 71: What matters more than constant texting?",
+    "options": [
+      "Understanding",
+      "Anger",
+      "Testing",
+      "Doubt"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 72: Best relationship habit?",
+    "options": [
+      "Silent treatment",
+      "Comparisons",
+      "Honest communication",
+      "Ego"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 73: What is best during a small fight?",
+    "options": [
+      "Listen calmly",
+      "Post status",
+      "Ignore forever",
+      "Shout louder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 74: What is a green flag?",
+    "options": [
+      "Possessiveness",
+      "Kindness and respect",
+      "Lies",
+      "Anger"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 75: Best reply to partner's bad mood?",
+    "options": [
+      "I'm here, tell me",
+      "Okay bye",
+      "Not my problem",
+      "LOL"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 76: What makes apology meaningful?",
+    "options": [
+      "Only emoji",
+      "Changed behaviour",
+      "Silence",
+      "Blame shifting"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 77: What does healthy love need?",
+    "options": [
+      "Jealousy",
+      "Trust and space",
+      "Password checking",
+      "Control"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 78: What should you do if you forgot an important date?",
+    "options": [
+      "Fight",
+      "Deny it",
+      "Accept mistake and make up",
+      "Disappear"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 79: What matters more than constant texting?",
+    "options": [
+      "Anger",
+      "Understanding",
+      "Doubt",
+      "Testing"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 80: Best relationship habit?",
+    "options": [
+      "Comparisons",
+      "Honest communication",
+      "Silent treatment",
+      "Ego"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 81: What is best during a small fight?",
+    "options": [
+      "Listen calmly",
+      "Shout louder",
+      "Post status",
+      "Ignore forever"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 82: What is a green flag?",
+    "options": [
+      "Anger",
+      "Kindness and respect",
+      "Possessiveness",
+      "Lies"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 83: Best reply to partner's bad mood?",
+    "options": [
+      "Okay bye",
+      "Not my problem",
+      "LOL",
+      "I'm here, tell me"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 84: What makes apology meaningful?",
+    "options": [
+      "Silence",
+      "Changed behaviour",
+      "Blame shifting",
+      "Only emoji"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 85: What does healthy love need?",
+    "options": [
+      "Control",
+      "Password checking",
+      "Trust and space",
+      "Jealousy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 86: What should you do if you forgot an important date?",
+    "options": [
+      "Deny it",
+      "Disappear",
+      "Accept mistake and make up",
+      "Fight"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 87: What matters more than constant texting?",
+    "options": [
+      "Doubt",
+      "Understanding",
+      "Testing",
+      "Anger"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 88: Best relationship habit?",
+    "options": [
+      "Ego",
+      "Comparisons",
+      "Silent treatment",
+      "Honest communication"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 89: What is best during a small fight?",
+    "options": [
+      "Ignore forever",
+      "Post status",
+      "Listen calmly",
+      "Shout louder"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 90: What is a green flag?",
+    "options": [
+      "Lies",
+      "Possessiveness",
+      "Anger",
+      "Kindness and respect"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 91: Best reply to partner's bad mood?",
+    "options": [
+      "Okay bye",
+      "I'm here, tell me",
+      "LOL",
+      "Not my problem"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 92: What makes apology meaningful?",
+    "options": [
+      "Only emoji",
+      "Silence",
+      "Blame shifting",
+      "Changed behaviour"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 93: What does healthy love need?",
+    "options": [
+      "Control",
+      "Jealousy",
+      "Password checking",
+      "Trust and space"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 94: What should you do if you forgot an important date?",
+    "options": [
+      "Fight",
+      "Accept mistake and make up",
+      "Disappear",
+      "Deny it"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 95: What matters more than constant texting?",
+    "options": [
+      "Doubt",
+      "Testing",
+      "Anger",
+      "Understanding"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 96: Best relationship habit?",
+    "options": [
+      "Silent treatment",
+      "Comparisons",
+      "Ego",
+      "Honest communication"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 97: What is best during a small fight?",
+    "options": [
+      "Listen calmly",
+      "Post status",
+      "Shout louder",
+      "Ignore forever"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 98: What is a green flag?",
+    "options": [
+      "Anger",
+      "Lies",
+      "Kindness and respect",
+      "Possessiveness"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 99: Best reply to partner's bad mood?",
+    "options": [
+      "LOL",
+      "Not my problem",
+      "I'm here, tell me",
+      "Okay bye"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 100: What makes apology meaningful?",
+    "options": [
+      "Blame shifting",
+      "Changed behaviour",
+      "Only emoji",
+      "Silence"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 101: What does healthy love need?",
+    "options": [
+      "Control",
+      "Jealousy",
+      "Trust and space",
+      "Password checking"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 102: What should you do if you forgot an important date?",
+    "options": [
+      "Accept mistake and make up",
+      "Disappear",
+      "Fight",
+      "Deny it"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 103: What matters more than constant texting?",
+    "options": [
+      "Anger",
+      "Understanding",
+      "Doubt",
+      "Testing"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 104: Best relationship habit?",
+    "options": [
+      "Comparisons",
+      "Ego",
+      "Honest communication",
+      "Silent treatment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 105: What is best during a small fight?",
+    "options": [
+      "Post status",
+      "Ignore forever",
+      "Listen calmly",
+      "Shout louder"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 106: What is a green flag?",
+    "options": [
+      "Kindness and respect",
+      "Anger",
+      "Lies",
+      "Possessiveness"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 107: Best reply to partner's bad mood?",
+    "options": [
+      "I'm here, tell me",
+      "Okay bye",
+      "LOL",
+      "Not my problem"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 108: What makes apology meaningful?",
+    "options": [
+      "Only emoji",
+      "Changed behaviour",
+      "Blame shifting",
+      "Silence"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 109: What does healthy love need?",
+    "options": [
+      "Trust and space",
+      "Jealousy",
+      "Password checking",
+      "Control"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 110: What should you do if you forgot an important date?",
+    "options": [
+      "Accept mistake and make up",
+      "Fight",
+      "Deny it",
+      "Disappear"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Love 111: What matters more than constant texting?",
+    "options": [
+      "Anger",
+      "Testing",
+      "Doubt",
+      "Understanding"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Love 112: Best relationship habit?",
+    "options": [
+      "Ego",
+      "Silent treatment",
+      "Honest communication",
+      "Comparisons"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Love 113: What is best during a small fight?",
+    "options": [
+      "Shout louder",
+      "Listen calmly",
+      "Post status",
+      "Ignore forever"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Love 114: What is a green flag?",
+    "options": [
+      "Possessiveness",
+      "Lies",
+      "Anger",
+      "Kindness and respect"
+    ],
+    "answer": 3
+  }
+]
