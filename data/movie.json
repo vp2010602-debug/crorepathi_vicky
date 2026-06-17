@@ -1,0 +1,802 @@
+[
+  {
+    "question": "Which movie universe has Iron Man?",
+    "options": [
+      "Marvel",
+      "DC",
+      "Fast Saga",
+      "Avatar"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Batman belongs to which universe?",
+    "options": [
+      "Pixar",
+      "DC",
+      "Marvel",
+      "DreamWorks"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian movie won Oscar for Naatu Naatu song?",
+    "options": [
+      "Baahubali",
+      "RRR",
+      "Pushpa",
+      "KGF"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who says 'I am inevitable'?",
+    "options": [
+      "Iron Man",
+      "Batman",
+      "Thanos",
+      "Joker"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 1: A trailer is mainly for what?",
+    "options": [
+      "Preview",
+      "Interval",
+      "Full movie",
+      "Credits"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 2: Horror movies are made mainly to create what?",
+    "options": [
+      "Sleep",
+      "Fear",
+      "Math",
+      "Cooking"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 3: A climax usually comes at which part?",
+    "options": [
+      "Beginning",
+      "Before title",
+      "Interval only",
+      "End"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 4: Subtitles help viewers understand what?",
+    "options": [
+      "Popcorn",
+      "Ticket price",
+      "Dialogue",
+      "Lighting"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 5: A director mainly controls what?",
+    "options": [
+      "Film making",
+      "Ticket counter",
+      "Snacks",
+      "Parking"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 6: A trailer is mainly for what?",
+    "options": [
+      "Full movie",
+      "Credits",
+      "Preview",
+      "Interval"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 7: Horror movies are made mainly to create what?",
+    "options": [
+      "Sleep",
+      "Fear",
+      "Cooking",
+      "Math"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 8: A climax usually comes at which part?",
+    "options": [
+      "Before title",
+      "End",
+      "Interval only",
+      "Beginning"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 9: Subtitles help viewers understand what?",
+    "options": [
+      "Dialogue",
+      "Popcorn",
+      "Lighting",
+      "Ticket price"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 10: A director mainly controls what?",
+    "options": [
+      "Film making",
+      "Snacks",
+      "Parking",
+      "Ticket counter"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 11: A trailer is mainly for what?",
+    "options": [
+      "Credits",
+      "Interval",
+      "Full movie",
+      "Preview"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 12: Horror movies are made mainly to create what?",
+    "options": [
+      "Math",
+      "Fear",
+      "Cooking",
+      "Sleep"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 13: A climax usually comes at which part?",
+    "options": [
+      "Before title",
+      "End",
+      "Interval only",
+      "Beginning"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 14: Subtitles help viewers understand what?",
+    "options": [
+      "Ticket price",
+      "Lighting",
+      "Dialogue",
+      "Popcorn"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 15: A director mainly controls what?",
+    "options": [
+      "Film making",
+      "Snacks",
+      "Parking",
+      "Ticket counter"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 16: A trailer is mainly for what?",
+    "options": [
+      "Credits",
+      "Preview",
+      "Full movie",
+      "Interval"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 17: Horror movies are made mainly to create what?",
+    "options": [
+      "Fear",
+      "Cooking",
+      "Sleep",
+      "Math"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 18: A climax usually comes at which part?",
+    "options": [
+      "End",
+      "Beginning",
+      "Interval only",
+      "Before title"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 19: Subtitles help viewers understand what?",
+    "options": [
+      "Lighting",
+      "Popcorn",
+      "Dialogue",
+      "Ticket price"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 20: A director mainly controls what?",
+    "options": [
+      "Film making",
+      "Parking",
+      "Ticket counter",
+      "Snacks"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 21: A trailer is mainly for what?",
+    "options": [
+      "Full movie",
+      "Preview",
+      "Interval",
+      "Credits"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 22: Horror movies are made mainly to create what?",
+    "options": [
+      "Sleep",
+      "Cooking",
+      "Fear",
+      "Math"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 23: A climax usually comes at which part?",
+    "options": [
+      "End",
+      "Before title",
+      "Interval only",
+      "Beginning"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 24: Subtitles help viewers understand what?",
+    "options": [
+      "Popcorn",
+      "Dialogue",
+      "Lighting",
+      "Ticket price"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 25: A director mainly controls what?",
+    "options": [
+      "Ticket counter",
+      "Snacks",
+      "Film making",
+      "Parking"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 26: A trailer is mainly for what?",
+    "options": [
+      "Preview",
+      "Credits",
+      "Full movie",
+      "Interval"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 27: Horror movies are made mainly to create what?",
+    "options": [
+      "Math",
+      "Sleep",
+      "Fear",
+      "Cooking"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 28: A climax usually comes at which part?",
+    "options": [
+      "Before title",
+      "End",
+      "Interval only",
+      "Beginning"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 29: Subtitles help viewers understand what?",
+    "options": [
+      "Dialogue",
+      "Ticket price",
+      "Lighting",
+      "Popcorn"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 30: A director mainly controls what?",
+    "options": [
+      "Ticket counter",
+      "Parking",
+      "Snacks",
+      "Film making"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 31: A trailer is mainly for what?",
+    "options": [
+      "Full movie",
+      "Credits",
+      "Interval",
+      "Preview"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 32: Horror movies are made mainly to create what?",
+    "options": [
+      "Math",
+      "Sleep",
+      "Fear",
+      "Cooking"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 33: A climax usually comes at which part?",
+    "options": [
+      "Beginning",
+      "Before title",
+      "Interval only",
+      "End"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 34: Subtitles help viewers understand what?",
+    "options": [
+      "Popcorn",
+      "Ticket price",
+      "Dialogue",
+      "Lighting"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 35: A director mainly controls what?",
+    "options": [
+      "Ticket counter",
+      "Snacks",
+      "Film making",
+      "Parking"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 36: A trailer is mainly for what?",
+    "options": [
+      "Interval",
+      "Preview",
+      "Full movie",
+      "Credits"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 37: Horror movies are made mainly to create what?",
+    "options": [
+      "Fear",
+      "Sleep",
+      "Cooking",
+      "Math"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 38: A climax usually comes at which part?",
+    "options": [
+      "End",
+      "Beginning",
+      "Before title",
+      "Interval only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 39: Subtitles help viewers understand what?",
+    "options": [
+      "Dialogue",
+      "Ticket price",
+      "Lighting",
+      "Popcorn"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 40: A director mainly controls what?",
+    "options": [
+      "Ticket counter",
+      "Snacks",
+      "Parking",
+      "Film making"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 41: A trailer is mainly for what?",
+    "options": [
+      "Interval",
+      "Credits",
+      "Full movie",
+      "Preview"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 42: Horror movies are made mainly to create what?",
+    "options": [
+      "Math",
+      "Fear",
+      "Sleep",
+      "Cooking"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 43: A climax usually comes at which part?",
+    "options": [
+      "Before title",
+      "End",
+      "Interval only",
+      "Beginning"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 44: Subtitles help viewers understand what?",
+    "options": [
+      "Lighting",
+      "Dialogue",
+      "Ticket price",
+      "Popcorn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 45: A director mainly controls what?",
+    "options": [
+      "Film making",
+      "Parking",
+      "Ticket counter",
+      "Snacks"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 46: A trailer is mainly for what?",
+    "options": [
+      "Preview",
+      "Full movie",
+      "Credits",
+      "Interval"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 47: Horror movies are made mainly to create what?",
+    "options": [
+      "Sleep",
+      "Fear",
+      "Cooking",
+      "Math"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 48: A climax usually comes at which part?",
+    "options": [
+      "End",
+      "Beginning",
+      "Before title",
+      "Interval only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 49: Subtitles help viewers understand what?",
+    "options": [
+      "Popcorn",
+      "Ticket price",
+      "Dialogue",
+      "Lighting"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 50: A director mainly controls what?",
+    "options": [
+      "Snacks",
+      "Film making",
+      "Parking",
+      "Ticket counter"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 51: A trailer is mainly for what?",
+    "options": [
+      "Interval",
+      "Full movie",
+      "Credits",
+      "Preview"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 52: Horror movies are made mainly to create what?",
+    "options": [
+      "Sleep",
+      "Cooking",
+      "Fear",
+      "Math"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 53: A climax usually comes at which part?",
+    "options": [
+      "Before title",
+      "Interval only",
+      "Beginning",
+      "End"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 54: Subtitles help viewers understand what?",
+    "options": [
+      "Dialogue",
+      "Ticket price",
+      "Popcorn",
+      "Lighting"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 55: A director mainly controls what?",
+    "options": [
+      "Ticket counter",
+      "Parking",
+      "Film making",
+      "Snacks"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 56: A trailer is mainly for what?",
+    "options": [
+      "Full movie",
+      "Interval",
+      "Preview",
+      "Credits"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 57: Horror movies are made mainly to create what?",
+    "options": [
+      "Sleep",
+      "Cooking",
+      "Math",
+      "Fear"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 58: A climax usually comes at which part?",
+    "options": [
+      "End",
+      "Beginning",
+      "Interval only",
+      "Before title"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 59: Subtitles help viewers understand what?",
+    "options": [
+      "Dialogue",
+      "Ticket price",
+      "Lighting",
+      "Popcorn"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 60: A director mainly controls what?",
+    "options": [
+      "Snacks",
+      "Parking",
+      "Ticket counter",
+      "Film making"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 61: A trailer is mainly for what?",
+    "options": [
+      "Interval",
+      "Credits",
+      "Full movie",
+      "Preview"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 62: Horror movies are made mainly to create what?",
+    "options": [
+      "Cooking",
+      "Fear",
+      "Sleep",
+      "Math"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 63: A climax usually comes at which part?",
+    "options": [
+      "Before title",
+      "Beginning",
+      "End",
+      "Interval only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Movies 64: Subtitles help viewers understand what?",
+    "options": [
+      "Ticket price",
+      "Lighting",
+      "Popcorn",
+      "Dialogue"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 65: A director mainly controls what?",
+    "options": [
+      "Film making",
+      "Ticket counter",
+      "Snacks",
+      "Parking"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 66: A trailer is mainly for what?",
+    "options": [
+      "Interval",
+      "Credits",
+      "Full movie",
+      "Preview"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 67: Horror movies are made mainly to create what?",
+    "options": [
+      "Cooking",
+      "Sleep",
+      "Math",
+      "Fear"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 68: A climax usually comes at which part?",
+    "options": [
+      "Before title",
+      "End",
+      "Interval only",
+      "Beginning"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Movies 69: Subtitles help viewers understand what?",
+    "options": [
+      "Dialogue",
+      "Ticket price",
+      "Lighting",
+      "Popcorn"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 70: A director mainly controls what?",
+    "options": [
+      "Snacks",
+      "Ticket counter",
+      "Parking",
+      "Film making"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 71: A trailer is mainly for what?",
+    "options": [
+      "Full movie",
+      "Credits",
+      "Interval",
+      "Preview"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 72: Horror movies are made mainly to create what?",
+    "options": [
+      "Math",
+      "Sleep",
+      "Cooking",
+      "Fear"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 73: A climax usually comes at which part?",
+    "options": [
+      "Interval only",
+      "Before title",
+      "Beginning",
+      "End"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Movies 74: Subtitles help viewers understand what?",
+    "options": [
+      "Dialogue",
+      "Popcorn",
+      "Lighting",
+      "Ticket price"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 75: A director mainly controls what?",
+    "options": [
+      "Film making",
+      "Snacks",
+      "Parking",
+      "Ticket counter"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Movies 76: A trailer is mainly for what?",
+    "options": [
+      "Full movie",
+      "Interval",
+      "Preview",
+      "Credits"
+    ],
+    "answer": 2
+  }
+]
