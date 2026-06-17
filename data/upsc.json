@@ -1,0 +1,2202 @@
+[
+  {
+    "question": "Which Article abolishes untouchability?",
+    "options": [
+      "Article 16",
+      "Article 14",
+      "Article 17",
+      "Article 15"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": [
+      "Mahatma Gandhi",
+      "Nehru",
+      "B. R. Ambedkar",
+      "Patel"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Fundamental Rights are in which Part?",
+    "options": [
+      "Part IV",
+      "Part III",
+      "Part II",
+      "Part V"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Directive Principles are in which Part?",
+    "options": [
+      "Part IV",
+      "Part VI",
+      "Part V",
+      "Part III"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Right to life is under which Article?",
+    "options": [
+      "Article 21",
+      "Article 19",
+      "Article 20",
+      "Article 22"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Money Bill can be introduced only in?",
+    "options": [
+      "President House",
+      "Lok Sabha",
+      "Supreme Court",
+      "Rajya Sabha"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which schedule contains languages?",
+    "options": [
+      "10th Schedule",
+      "7th Schedule",
+      "8th Schedule",
+      "5th Schedule"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Panchayati Raj is related to which amendment?",
+    "options": [
+      "73rd",
+      "42nd",
+      "44th",
+      "74th"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Anti-defection law is in which schedule?",
+    "options": [
+      "8th",
+      "9th",
+      "10th",
+      "11th"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Black soil is best suited for which crop?",
+    "options": [
+      "Cotton",
+      "Rubber",
+      "Tea",
+      "Jute"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Polity 1: Fundamental Duties were added by which amendment?",
+    "options": [
+      "86th Amendment",
+      "44th Amendment",
+      "42nd Amendment",
+      "73rd Amendment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Economy 2: Inflation means what?",
+    "options": [
+      "General rise in prices",
+      "Fall in population",
+      "Rise in rainfall",
+      "Increase in forests"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Environment 3: Ramsar Convention is related to what?",
+    "options": [
+      "Mines",
+      "Deserts",
+      "Wetlands",
+      "Mountains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC History 4: Ashoka belonged to which dynasty?",
+    "options": [
+      "Maurya",
+      "Mughal",
+      "Chola",
+      "Gupta"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Art 5: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Punjab",
+      "Assam",
+      "Tamil Nadu",
+      "Gujarat"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Science 6: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Leaves",
+      "Stem only",
+      "Roots",
+      "Flowers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Economy 7: RBI is the central bank of which country?",
+    "options": [
+      "Brazil",
+      "India",
+      "Japan",
+      "USA"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Environment 8: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Radio waves",
+      "Ultraviolet rays",
+      "X-rays only",
+      "Sound waves"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Geography 9: Western Ghats are known as what?",
+    "options": [
+      "Oil field",
+      "Biodiversity hotspot",
+      "Plain only",
+      "Cold desert"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 10: The Constitution is the supreme law of which country here?",
+    "options": [
+      "India",
+      "Japan",
+      "Brazil",
+      "France"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Polity 11: Fundamental Duties were added by which amendment?",
+    "options": [
+      "44th Amendment",
+      "73rd Amendment",
+      "42nd Amendment",
+      "86th Amendment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Economy 12: Inflation means what?",
+    "options": [
+      "Fall in population",
+      "Rise in rainfall",
+      "Increase in forests",
+      "General rise in prices"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 13: Ramsar Convention is related to what?",
+    "options": [
+      "Mountains",
+      "Mines",
+      "Deserts",
+      "Wetlands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC History 14: Ashoka belonged to which dynasty?",
+    "options": [
+      "Chola",
+      "Maurya",
+      "Gupta",
+      "Mughal"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Art 15: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Assam",
+      "Tamil Nadu",
+      "Gujarat",
+      "Punjab"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Science 16: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Roots",
+      "Leaves",
+      "Stem only",
+      "Flowers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Economy 17: RBI is the central bank of which country?",
+    "options": [
+      "Japan",
+      "Brazil",
+      "USA",
+      "India"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 18: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Ultraviolet rays",
+      "Radio waves",
+      "X-rays only",
+      "Sound waves"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Geography 19: Western Ghats are known as what?",
+    "options": [
+      "Oil field",
+      "Biodiversity hotspot",
+      "Cold desert",
+      "Plain only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 20: The Constitution is the supreme law of which country here?",
+    "options": [
+      "India",
+      "France",
+      "Brazil",
+      "Japan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Polity 21: Fundamental Duties were added by which amendment?",
+    "options": [
+      "73rd Amendment",
+      "44th Amendment",
+      "42nd Amendment",
+      "86th Amendment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Economy 22: Inflation means what?",
+    "options": [
+      "Increase in forests",
+      "Fall in population",
+      "Rise in rainfall",
+      "General rise in prices"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 23: Ramsar Convention is related to what?",
+    "options": [
+      "Deserts",
+      "Mountains",
+      "Mines",
+      "Wetlands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC History 24: Ashoka belonged to which dynasty?",
+    "options": [
+      "Gupta",
+      "Maurya",
+      "Chola",
+      "Mughal"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Art 25: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Gujarat",
+      "Assam",
+      "Tamil Nadu",
+      "Punjab"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Science 26: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Leaves",
+      "Roots",
+      "Flowers",
+      "Stem only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Economy 27: RBI is the central bank of which country?",
+    "options": [
+      "USA",
+      "Brazil",
+      "Japan",
+      "India"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 28: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Sound waves",
+      "Radio waves",
+      "X-rays only",
+      "Ultraviolet rays"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Geography 29: Western Ghats are known as what?",
+    "options": [
+      "Plain only",
+      "Cold desert",
+      "Biodiversity hotspot",
+      "Oil field"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Polity 30: The Constitution is the supreme law of which country here?",
+    "options": [
+      "France",
+      "India",
+      "Japan",
+      "Brazil"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 31: Fundamental Duties were added by which amendment?",
+    "options": [
+      "86th Amendment",
+      "73rd Amendment",
+      "42nd Amendment",
+      "44th Amendment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Economy 32: Inflation means what?",
+    "options": [
+      "Increase in forests",
+      "Fall in population",
+      "General rise in prices",
+      "Rise in rainfall"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 33: Ramsar Convention is related to what?",
+    "options": [
+      "Wetlands",
+      "Mines",
+      "Mountains",
+      "Deserts"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC History 34: Ashoka belonged to which dynasty?",
+    "options": [
+      "Gupta",
+      "Maurya",
+      "Mughal",
+      "Chola"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Art 35: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Tamil Nadu",
+      "Gujarat",
+      "Punjab",
+      "Assam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Science 36: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Stem only",
+      "Flowers",
+      "Roots",
+      "Leaves"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Economy 37: RBI is the central bank of which country?",
+    "options": [
+      "Japan",
+      "USA",
+      "India",
+      "Brazil"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 38: Ozone layer protects Earth from which rays?",
+    "options": [
+      "X-rays only",
+      "Ultraviolet rays",
+      "Sound waves",
+      "Radio waves"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Geography 39: Western Ghats are known as what?",
+    "options": [
+      "Oil field",
+      "Biodiversity hotspot",
+      "Cold desert",
+      "Plain only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 40: The Constitution is the supreme law of which country here?",
+    "options": [
+      "Brazil",
+      "France",
+      "Japan",
+      "India"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Polity 41: Fundamental Duties were added by which amendment?",
+    "options": [
+      "86th Amendment",
+      "73rd Amendment",
+      "42nd Amendment",
+      "44th Amendment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Economy 42: Inflation means what?",
+    "options": [
+      "Rise in rainfall",
+      "Fall in population",
+      "Increase in forests",
+      "General rise in prices"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 43: Ramsar Convention is related to what?",
+    "options": [
+      "Wetlands",
+      "Mountains",
+      "Deserts",
+      "Mines"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC History 44: Ashoka belonged to which dynasty?",
+    "options": [
+      "Mughal",
+      "Gupta",
+      "Maurya",
+      "Chola"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Art 45: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Punjab",
+      "Tamil Nadu",
+      "Assam",
+      "Gujarat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Science 46: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Roots",
+      "Flowers",
+      "Stem only",
+      "Leaves"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Economy 47: RBI is the central bank of which country?",
+    "options": [
+      "USA",
+      "Japan",
+      "India",
+      "Brazil"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 48: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Radio waves",
+      "X-rays only",
+      "Ultraviolet rays",
+      "Sound waves"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Geography 49: Western Ghats are known as what?",
+    "options": [
+      "Cold desert",
+      "Oil field",
+      "Biodiversity hotspot",
+      "Plain only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Polity 50: The Constitution is the supreme law of which country here?",
+    "options": [
+      "Japan",
+      "India",
+      "France",
+      "Brazil"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 51: Fundamental Duties were added by which amendment?",
+    "options": [
+      "42nd Amendment",
+      "73rd Amendment",
+      "86th Amendment",
+      "44th Amendment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Economy 52: Inflation means what?",
+    "options": [
+      "Rise in rainfall",
+      "Fall in population",
+      "General rise in prices",
+      "Increase in forests"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 53: Ramsar Convention is related to what?",
+    "options": [
+      "Mines",
+      "Deserts",
+      "Mountains",
+      "Wetlands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC History 54: Ashoka belonged to which dynasty?",
+    "options": [
+      "Chola",
+      "Gupta",
+      "Maurya",
+      "Mughal"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Art 55: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Assam",
+      "Gujarat",
+      "Tamil Nadu",
+      "Punjab"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Science 56: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Stem only",
+      "Leaves",
+      "Flowers",
+      "Roots"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Economy 57: RBI is the central bank of which country?",
+    "options": [
+      "USA",
+      "Japan",
+      "Brazil",
+      "India"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 58: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Sound waves",
+      "X-rays only",
+      "Ultraviolet rays",
+      "Radio waves"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Geography 59: Western Ghats are known as what?",
+    "options": [
+      "Oil field",
+      "Cold desert",
+      "Biodiversity hotspot",
+      "Plain only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Polity 60: The Constitution is the supreme law of which country here?",
+    "options": [
+      "India",
+      "France",
+      "Japan",
+      "Brazil"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Polity 61: Fundamental Duties were added by which amendment?",
+    "options": [
+      "42nd Amendment",
+      "86th Amendment",
+      "44th Amendment",
+      "73rd Amendment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Economy 62: Inflation means what?",
+    "options": [
+      "Rise in rainfall",
+      "Fall in population",
+      "Increase in forests",
+      "General rise in prices"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 63: Ramsar Convention is related to what?",
+    "options": [
+      "Mountains",
+      "Deserts",
+      "Mines",
+      "Wetlands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC History 64: Ashoka belonged to which dynasty?",
+    "options": [
+      "Mughal",
+      "Maurya",
+      "Gupta",
+      "Chola"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Art 65: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Punjab",
+      "Tamil Nadu",
+      "Gujarat",
+      "Assam"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Science 66: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Leaves",
+      "Roots",
+      "Stem only",
+      "Flowers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Economy 67: RBI is the central bank of which country?",
+    "options": [
+      "USA",
+      "Japan",
+      "India",
+      "Brazil"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 68: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Ultraviolet rays",
+      "X-rays only",
+      "Sound waves",
+      "Radio waves"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Geography 69: Western Ghats are known as what?",
+    "options": [
+      "Plain only",
+      "Cold desert",
+      "Biodiversity hotspot",
+      "Oil field"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Polity 70: The Constitution is the supreme law of which country here?",
+    "options": [
+      "Brazil",
+      "Japan",
+      "India",
+      "France"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Polity 71: Fundamental Duties were added by which amendment?",
+    "options": [
+      "86th Amendment",
+      "42nd Amendment",
+      "44th Amendment",
+      "73rd Amendment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Economy 72: Inflation means what?",
+    "options": [
+      "Rise in rainfall",
+      "Increase in forests",
+      "General rise in prices",
+      "Fall in population"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 73: Ramsar Convention is related to what?",
+    "options": [
+      "Deserts",
+      "Mines",
+      "Mountains",
+      "Wetlands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC History 74: Ashoka belonged to which dynasty?",
+    "options": [
+      "Mughal",
+      "Chola",
+      "Maurya",
+      "Gupta"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Art 75: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Tamil Nadu",
+      "Punjab",
+      "Gujarat",
+      "Assam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Science 76: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Flowers",
+      "Stem only",
+      "Leaves",
+      "Roots"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Economy 77: RBI is the central bank of which country?",
+    "options": [
+      "India",
+      "Japan",
+      "Brazil",
+      "USA"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Environment 78: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Ultraviolet rays",
+      "Radio waves",
+      "X-rays only",
+      "Sound waves"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Geography 79: Western Ghats are known as what?",
+    "options": [
+      "Plain only",
+      "Biodiversity hotspot",
+      "Cold desert",
+      "Oil field"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 80: The Constitution is the supreme law of which country here?",
+    "options": [
+      "Japan",
+      "India",
+      "France",
+      "Brazil"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 81: Fundamental Duties were added by which amendment?",
+    "options": [
+      "86th Amendment",
+      "73rd Amendment",
+      "42nd Amendment",
+      "44th Amendment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Economy 82: Inflation means what?",
+    "options": [
+      "Increase in forests",
+      "Rise in rainfall",
+      "General rise in prices",
+      "Fall in population"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 83: Ramsar Convention is related to what?",
+    "options": [
+      "Mines",
+      "Mountains",
+      "Wetlands",
+      "Deserts"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC History 84: Ashoka belonged to which dynasty?",
+    "options": [
+      "Gupta",
+      "Chola",
+      "Mughal",
+      "Maurya"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Art 85: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Assam",
+      "Tamil Nadu",
+      "Gujarat",
+      "Punjab"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Science 86: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Leaves",
+      "Flowers",
+      "Stem only",
+      "Roots"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Economy 87: RBI is the central bank of which country?",
+    "options": [
+      "USA",
+      "Japan",
+      "Brazil",
+      "India"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 88: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Ultraviolet rays",
+      "X-rays only",
+      "Radio waves",
+      "Sound waves"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Geography 89: Western Ghats are known as what?",
+    "options": [
+      "Oil field",
+      "Cold desert",
+      "Biodiversity hotspot",
+      "Plain only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Polity 90: The Constitution is the supreme law of which country here?",
+    "options": [
+      "India",
+      "France",
+      "Japan",
+      "Brazil"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Polity 91: Fundamental Duties were added by which amendment?",
+    "options": [
+      "44th Amendment",
+      "86th Amendment",
+      "73rd Amendment",
+      "42nd Amendment"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Economy 92: Inflation means what?",
+    "options": [
+      "Increase in forests",
+      "Rise in rainfall",
+      "General rise in prices",
+      "Fall in population"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 93: Ramsar Convention is related to what?",
+    "options": [
+      "Deserts",
+      "Wetlands",
+      "Mountains",
+      "Mines"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC History 94: Ashoka belonged to which dynasty?",
+    "options": [
+      "Gupta",
+      "Maurya",
+      "Mughal",
+      "Chola"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Art 95: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Tamil Nadu",
+      "Punjab",
+      "Gujarat",
+      "Assam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Science 96: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Leaves",
+      "Roots",
+      "Stem only",
+      "Flowers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Economy 97: RBI is the central bank of which country?",
+    "options": [
+      "USA",
+      "Japan",
+      "Brazil",
+      "India"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 98: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Radio waves",
+      "Ultraviolet rays",
+      "Sound waves",
+      "X-rays only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Geography 99: Western Ghats are known as what?",
+    "options": [
+      "Plain only",
+      "Cold desert",
+      "Biodiversity hotspot",
+      "Oil field"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Polity 100: The Constitution is the supreme law of which country here?",
+    "options": [
+      "France",
+      "Brazil",
+      "Japan",
+      "India"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Polity 101: Fundamental Duties were added by which amendment?",
+    "options": [
+      "86th Amendment",
+      "44th Amendment",
+      "73rd Amendment",
+      "42nd Amendment"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Economy 102: Inflation means what?",
+    "options": [
+      "Increase in forests",
+      "Rise in rainfall",
+      "General rise in prices",
+      "Fall in population"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 103: Ramsar Convention is related to what?",
+    "options": [
+      "Mountains",
+      "Deserts",
+      "Wetlands",
+      "Mines"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC History 104: Ashoka belonged to which dynasty?",
+    "options": [
+      "Mughal",
+      "Gupta",
+      "Chola",
+      "Maurya"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Art 105: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Gujarat",
+      "Tamil Nadu",
+      "Assam",
+      "Punjab"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Science 106: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Roots",
+      "Flowers",
+      "Stem only",
+      "Leaves"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Economy 107: RBI is the central bank of which country?",
+    "options": [
+      "Brazil",
+      "USA",
+      "India",
+      "Japan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 108: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Sound waves",
+      "Ultraviolet rays",
+      "X-rays only",
+      "Radio waves"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Geography 109: Western Ghats are known as what?",
+    "options": [
+      "Cold desert",
+      "Oil field",
+      "Plain only",
+      "Biodiversity hotspot"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Polity 110: The Constitution is the supreme law of which country here?",
+    "options": [
+      "India",
+      "Japan",
+      "Brazil",
+      "France"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Polity 111: Fundamental Duties were added by which amendment?",
+    "options": [
+      "73rd Amendment",
+      "44th Amendment",
+      "86th Amendment",
+      "42nd Amendment"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Economy 112: Inflation means what?",
+    "options": [
+      "Increase in forests",
+      "Fall in population",
+      "General rise in prices",
+      "Rise in rainfall"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 113: Ramsar Convention is related to what?",
+    "options": [
+      "Mines",
+      "Wetlands",
+      "Mountains",
+      "Deserts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC History 114: Ashoka belonged to which dynasty?",
+    "options": [
+      "Gupta",
+      "Mughal",
+      "Chola",
+      "Maurya"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Art 115: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Punjab",
+      "Assam",
+      "Tamil Nadu",
+      "Gujarat"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Science 116: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Stem only",
+      "Leaves",
+      "Roots",
+      "Flowers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Economy 117: RBI is the central bank of which country?",
+    "options": [
+      "USA",
+      "India",
+      "Japan",
+      "Brazil"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Environment 118: Ozone layer protects Earth from which rays?",
+    "options": [
+      "X-rays only",
+      "Ultraviolet rays",
+      "Radio waves",
+      "Sound waves"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Geography 119: Western Ghats are known as what?",
+    "options": [
+      "Plain only",
+      "Biodiversity hotspot",
+      "Cold desert",
+      "Oil field"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 120: The Constitution is the supreme law of which country here?",
+    "options": [
+      "Japan",
+      "India",
+      "Brazil",
+      "France"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 121: Fundamental Duties were added by which amendment?",
+    "options": [
+      "86th Amendment",
+      "73rd Amendment",
+      "44th Amendment",
+      "42nd Amendment"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Economy 122: Inflation means what?",
+    "options": [
+      "Increase in forests",
+      "Fall in population",
+      "Rise in rainfall",
+      "General rise in prices"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 123: Ramsar Convention is related to what?",
+    "options": [
+      "Deserts",
+      "Mines",
+      "Wetlands",
+      "Mountains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC History 124: Ashoka belonged to which dynasty?",
+    "options": [
+      "Gupta",
+      "Maurya",
+      "Chola",
+      "Mughal"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Art 125: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Assam",
+      "Gujarat",
+      "Tamil Nadu",
+      "Punjab"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Science 126: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Flowers",
+      "Roots",
+      "Stem only",
+      "Leaves"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Economy 127: RBI is the central bank of which country?",
+    "options": [
+      "India",
+      "Japan",
+      "USA",
+      "Brazil"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Environment 128: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Radio waves",
+      "Sound waves",
+      "X-rays only",
+      "Ultraviolet rays"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Geography 129: Western Ghats are known as what?",
+    "options": [
+      "Oil field",
+      "Biodiversity hotspot",
+      "Plain only",
+      "Cold desert"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 130: The Constitution is the supreme law of which country here?",
+    "options": [
+      "India",
+      "Brazil",
+      "France",
+      "Japan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Polity 131: Fundamental Duties were added by which amendment?",
+    "options": [
+      "86th Amendment",
+      "73rd Amendment",
+      "42nd Amendment",
+      "44th Amendment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Economy 132: Inflation means what?",
+    "options": [
+      "Fall in population",
+      "Rise in rainfall",
+      "General rise in prices",
+      "Increase in forests"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 133: Ramsar Convention is related to what?",
+    "options": [
+      "Wetlands",
+      "Mountains",
+      "Mines",
+      "Deserts"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC History 134: Ashoka belonged to which dynasty?",
+    "options": [
+      "Chola",
+      "Gupta",
+      "Maurya",
+      "Mughal"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Art 135: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Tamil Nadu",
+      "Gujarat",
+      "Punjab",
+      "Assam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Science 136: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Roots",
+      "Flowers",
+      "Leaves",
+      "Stem only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Economy 137: RBI is the central bank of which country?",
+    "options": [
+      "Brazil",
+      "USA",
+      "Japan",
+      "India"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 138: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Sound waves",
+      "X-rays only",
+      "Ultraviolet rays",
+      "Radio waves"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Geography 139: Western Ghats are known as what?",
+    "options": [
+      "Oil field",
+      "Plain only",
+      "Biodiversity hotspot",
+      "Cold desert"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Polity 140: The Constitution is the supreme law of which country here?",
+    "options": [
+      "India",
+      "Brazil",
+      "France",
+      "Japan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Polity 141: Fundamental Duties were added by which amendment?",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "73rd Amendment",
+      "86th Amendment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Economy 142: Inflation means what?",
+    "options": [
+      "General rise in prices",
+      "Rise in rainfall",
+      "Increase in forests",
+      "Fall in population"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Environment 143: Ramsar Convention is related to what?",
+    "options": [
+      "Mines",
+      "Wetlands",
+      "Mountains",
+      "Deserts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC History 144: Ashoka belonged to which dynasty?",
+    "options": [
+      "Maurya",
+      "Chola",
+      "Mughal",
+      "Gupta"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Art 145: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Tamil Nadu",
+      "Gujarat",
+      "Punjab",
+      "Assam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Science 146: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Stem only",
+      "Roots",
+      "Flowers",
+      "Leaves"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Economy 147: RBI is the central bank of which country?",
+    "options": [
+      "Japan",
+      "Brazil",
+      "India",
+      "USA"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 148: Ozone layer protects Earth from which rays?",
+    "options": [
+      "X-rays only",
+      "Radio waves",
+      "Sound waves",
+      "Ultraviolet rays"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Geography 149: Western Ghats are known as what?",
+    "options": [
+      "Biodiversity hotspot",
+      "Plain only",
+      "Cold desert",
+      "Oil field"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Polity 150: The Constitution is the supreme law of which country here?",
+    "options": [
+      "India",
+      "Brazil",
+      "France",
+      "Japan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Polity 151: Fundamental Duties were added by which amendment?",
+    "options": [
+      "86th Amendment",
+      "73rd Amendment",
+      "42nd Amendment",
+      "44th Amendment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Economy 152: Inflation means what?",
+    "options": [
+      "Fall in population",
+      "Rise in rainfall",
+      "Increase in forests",
+      "General rise in prices"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 153: Ramsar Convention is related to what?",
+    "options": [
+      "Wetlands",
+      "Mountains",
+      "Mines",
+      "Deserts"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC History 154: Ashoka belonged to which dynasty?",
+    "options": [
+      "Maurya",
+      "Gupta",
+      "Mughal",
+      "Chola"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Art 155: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Gujarat",
+      "Tamil Nadu",
+      "Assam",
+      "Punjab"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Science 156: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Roots",
+      "Flowers",
+      "Leaves",
+      "Stem only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Economy 157: RBI is the central bank of which country?",
+    "options": [
+      "USA",
+      "India",
+      "Brazil",
+      "Japan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Environment 158: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Ultraviolet rays",
+      "Radio waves",
+      "Sound waves",
+      "X-rays only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Geography 159: Western Ghats are known as what?",
+    "options": [
+      "Oil field",
+      "Biodiversity hotspot",
+      "Cold desert",
+      "Plain only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 160: The Constitution is the supreme law of which country here?",
+    "options": [
+      "France",
+      "India",
+      "Japan",
+      "Brazil"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 161: Fundamental Duties were added by which amendment?",
+    "options": [
+      "42nd Amendment",
+      "86th Amendment",
+      "44th Amendment",
+      "73rd Amendment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Economy 162: Inflation means what?",
+    "options": [
+      "Fall in population",
+      "Increase in forests",
+      "Rise in rainfall",
+      "General rise in prices"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 163: Ramsar Convention is related to what?",
+    "options": [
+      "Mountains",
+      "Wetlands",
+      "Deserts",
+      "Mines"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC History 164: Ashoka belonged to which dynasty?",
+    "options": [
+      "Maurya",
+      "Chola",
+      "Gupta",
+      "Mughal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Art 165: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Assam",
+      "Punjab",
+      "Tamil Nadu",
+      "Gujarat"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Science 166: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Roots",
+      "Leaves",
+      "Flowers",
+      "Stem only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Economy 167: RBI is the central bank of which country?",
+    "options": [
+      "Brazil",
+      "USA",
+      "India",
+      "Japan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 168: Ozone layer protects Earth from which rays?",
+    "options": [
+      "X-rays only",
+      "Sound waves",
+      "Ultraviolet rays",
+      "Radio waves"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Geography 169: Western Ghats are known as what?",
+    "options": [
+      "Oil field",
+      "Plain only",
+      "Biodiversity hotspot",
+      "Cold desert"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Polity 170: The Constitution is the supreme law of which country here?",
+    "options": [
+      "India",
+      "Japan",
+      "France",
+      "Brazil"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Polity 171: Fundamental Duties were added by which amendment?",
+    "options": [
+      "44th Amendment",
+      "42nd Amendment",
+      "86th Amendment",
+      "73rd Amendment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Economy 172: Inflation means what?",
+    "options": [
+      "General rise in prices",
+      "Rise in rainfall",
+      "Increase in forests",
+      "Fall in population"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Environment 173: Ramsar Convention is related to what?",
+    "options": [
+      "Mines",
+      "Mountains",
+      "Wetlands",
+      "Deserts"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC History 174: Ashoka belonged to which dynasty?",
+    "options": [
+      "Maurya",
+      "Chola",
+      "Gupta",
+      "Mughal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Art 175: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Tamil Nadu",
+      "Assam",
+      "Punjab",
+      "Gujarat"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Science 176: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Leaves",
+      "Roots",
+      "Stem only",
+      "Flowers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Economy 177: RBI is the central bank of which country?",
+    "options": [
+      "Brazil",
+      "Japan",
+      "India",
+      "USA"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 178: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Radio waves",
+      "Sound waves",
+      "X-rays only",
+      "Ultraviolet rays"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Geography 179: Western Ghats are known as what?",
+    "options": [
+      "Plain only",
+      "Cold desert",
+      "Oil field",
+      "Biodiversity hotspot"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Polity 180: The Constitution is the supreme law of which country here?",
+    "options": [
+      "Brazil",
+      "Japan",
+      "France",
+      "India"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Polity 181: Fundamental Duties were added by which amendment?",
+    "options": [
+      "42nd Amendment",
+      "86th Amendment",
+      "44th Amendment",
+      "73rd Amendment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Economy 182: Inflation means what?",
+    "options": [
+      "General rise in prices",
+      "Rise in rainfall",
+      "Increase in forests",
+      "Fall in population"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Environment 183: Ramsar Convention is related to what?",
+    "options": [
+      "Mountains",
+      "Wetlands",
+      "Deserts",
+      "Mines"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC History 184: Ashoka belonged to which dynasty?",
+    "options": [
+      "Maurya",
+      "Chola",
+      "Gupta",
+      "Mughal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Art 185: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Assam",
+      "Punjab",
+      "Tamil Nadu",
+      "Gujarat"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Science 186: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Roots",
+      "Leaves",
+      "Stem only",
+      "Flowers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Economy 187: RBI is the central bank of which country?",
+    "options": [
+      "Brazil",
+      "India",
+      "USA",
+      "Japan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Environment 188: Ozone layer protects Earth from which rays?",
+    "options": [
+      "X-rays only",
+      "Radio waves",
+      "Ultraviolet rays",
+      "Sound waves"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Geography 189: Western Ghats are known as what?",
+    "options": [
+      "Oil field",
+      "Biodiversity hotspot",
+      "Cold desert",
+      "Plain only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 190: The Constitution is the supreme law of which country here?",
+    "options": [
+      "Japan",
+      "France",
+      "India",
+      "Brazil"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Polity 191: Fundamental Duties were added by which amendment?",
+    "options": [
+      "42nd Amendment",
+      "86th Amendment",
+      "73rd Amendment",
+      "44th Amendment"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Economy 192: Inflation means what?",
+    "options": [
+      "Increase in forests",
+      "Fall in population",
+      "Rise in rainfall",
+      "General rise in prices"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 193: Ramsar Convention is related to what?",
+    "options": [
+      "Wetlands",
+      "Mines",
+      "Mountains",
+      "Deserts"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC History 194: Ashoka belonged to which dynasty?",
+    "options": [
+      "Chola",
+      "Maurya",
+      "Gupta",
+      "Mughal"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Art 195: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Assam",
+      "Tamil Nadu",
+      "Gujarat",
+      "Punjab"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Science 196: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Roots",
+      "Leaves",
+      "Stem only",
+      "Flowers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Economy 197: RBI is the central bank of which country?",
+    "options": [
+      "USA",
+      "Brazil",
+      "India",
+      "Japan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Environment 198: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Sound waves",
+      "Ultraviolet rays",
+      "Radio waves",
+      "X-rays only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Geography 199: Western Ghats are known as what?",
+    "options": [
+      "Cold desert",
+      "Biodiversity hotspot",
+      "Plain only",
+      "Oil field"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Polity 200: The Constitution is the supreme law of which country here?",
+    "options": [
+      "India",
+      "France",
+      "Japan",
+      "Brazil"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Polity 201: Fundamental Duties were added by which amendment?",
+    "options": [
+      "86th Amendment",
+      "42nd Amendment",
+      "44th Amendment",
+      "73rd Amendment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Economy 202: Inflation means what?",
+    "options": [
+      "Increase in forests",
+      "General rise in prices",
+      "Rise in rainfall",
+      "Fall in population"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Environment 203: Ramsar Convention is related to what?",
+    "options": [
+      "Wetlands",
+      "Mines",
+      "Deserts",
+      "Mountains"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC History 204: Ashoka belonged to which dynasty?",
+    "options": [
+      "Mughal",
+      "Maurya",
+      "Gupta",
+      "Chola"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Art 205: Bharatanatyam is mainly associated with which state?",
+    "options": [
+      "Tamil Nadu",
+      "Punjab",
+      "Assam",
+      "Gujarat"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Science 206: Photosynthesis mainly occurs in which part of plant?",
+    "options": [
+      "Flowers",
+      "Leaves",
+      "Stem only",
+      "Roots"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "UPSC Economy 207: RBI is the central bank of which country?",
+    "options": [
+      "Brazil",
+      "Japan",
+      "USA",
+      "India"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "UPSC Environment 208: Ozone layer protects Earth from which rays?",
+    "options": [
+      "Ultraviolet rays",
+      "Radio waves",
+      "X-rays only",
+      "Sound waves"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "UPSC Geography 209: Western Ghats are known as what?",
+    "options": [
+      "Oil field",
+      "Cold desert",
+      "Biodiversity hotspot",
+      "Plain only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "UPSC Polity 210: The Constitution is the supreme law of which country here?",
+    "options": [
+      "India",
+      "Brazil",
+      "France",
+      "Japan"
+    ],
+    "answer": 0
+  }
+]
