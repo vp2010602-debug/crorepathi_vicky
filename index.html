@@ -1,1 +1,73 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><title>Crorepati Pookie Ultimate</title><link rel="stylesheet" href="style.css"/></head><body><div class="float f1">💖</div><div class="float f2">✨</div><div class="float f3">🎀</div><div class="float f4">💰</div><main class="app"><section id="homeScreen" class="screen active"><div class="hero"><div class="logo">💖💰</div><h1>Crorepati Pookie Ultimate</h1><p class="sub">2 or 3 players • 1000+ questions • UPSC + fun + riddles • no-repeat survival mode</p><div class="homeGrid"><div class="card"><h2>Create Room</h2><input id="createName" placeholder="Your name" maxlength="18"/><select id="createAvatar"><option>🐰</option><option>🐻</option><option>🦋</option><option>🌙</option><option>💃</option><option>😎</option></select><label>Players</label><select id="playerMode"><option value="2">2 Player Mode</option><option value="3" selected>3 Player Mode</option></select><label>Category</label><select id="category"><option value="mixed">🎲 Mixed All</option><option value="riddles">🧩 Riddles</option><option value="funny">😂 Funny</option><option value="love">💖 Love</option><option value="upsc">🏛️ UPSC</option><option value="currentAffairs">📰 Current Affairs</option><option value="football">⚽ Football</option><option value="gaming">🎮 Gaming</option><option value="movies">🎬 Movies</option><option value="food">🍔 Food</option><option value="brainTeasers">🧠 Brain</option><option value="college">🏫 College</option></select><button id="createBtn" class="btn primary">Create Room 🎀</button></div><div class="card"><h2>Join Room</h2><input id="joinName" placeholder="Your name" maxlength="18"/><input id="joinCode" placeholder="Room code" maxlength="8"/><select id="joinAvatar"><option>🐰</option><option>🐻</option><option>🦋</option><option>🌙</option><option>💃</option><option>😎</option></select><button id="joinBtn" class="btn secondary">Join Room 💫</button></div></div><p id="homeMsg" class="msg">Loading question packs...</p></div></section><section id="lobbyScreen" class="screen"><div class="top"><div><small>Room Code</small><h2 id="roomCode">------</h2></div><button id="copyBtn" class="btn mini">Copy</button></div><div class="card"><h2>Waiting Room 🎀</h2><p id="modeText"></p><div id="lobbyPlayers" class="players"></div><button id="startBtn" class="btn primary">Start Game 🚀</button><p id="lobbyMsg" class="msg"></p></div></section><section id="gameScreen" class="screen"><div class="layout"><div><div class="host card"><div class="hostFace">🎙️</div><div><h2>Pookie Host</h2><p id="hostText"></p></div></div><div class="card questionCard"><div class="badges"><span id="turnBadge" class="pill"></span><span id="qBadge" class="pill"></span><span id="catBadge" class="pill"></span><span id="leftBadge" class="pill"></span></div><div id="timer" class="timer">30</div><h2 id="questionText"></h2><div id="options" class="options"></div></div><div class="card"><h3>Lifelines 💝</h3><div class="lifelines"><button id="fifty" class="btn life">50:50 ✂️</button><button id="audience" class="btn life">Audience 👥</button><button id="friend" class="btn life">Call Pookie ☎️</button><button id="ai" class="btn life">AI 🤖</button><button id="swap" class="btn life">Swap 🔄</button><button id="skip" class="btn life">Skip ⏭️</button></div></div><div id="resultCard" class="card hidden"><h3 id="resultTitle"></h3><div id="resultText"></div></div></div><aside><div class="card"><h3>Players 🏆</h3><div id="scoreBoard"></div></div><div class="card"><h3>Money Ladder 💰</h3><div id="ladder" class="ladder"></div></div><div class="card"><h3>Room Chat 💬</h3><div id="chatBox" class="chat"></div><div class="chatRow"><input id="chatInput" placeholder="Say something cute..." maxlength="80"/><button id="sendChat" class="btn mini">Send</button></div></div></aside></div></section><section id="finalScreen" class="screen"><div class="card final"><div class="trophy">🏆💖</div><h1>Game Over</h1><div id="winnerBox"></div><button onclick="location.reload()" class="btn primary">Play Again 🔁</button></div></section></main><script src="questions.js"></script><script type="module" src="firebase.js"></script><script type="module" src="script.js"></script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Today Paper Crorepati Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="bg-glow one"></div>
+  <div class="bg-glow two"></div>
+  <main class="app-shell">
+    <section class="hero" id="startScreen">
+      <div class="badge">The Hindu International • 17 June 2026</div>
+      <h1>Today Paper<br><span>Crorepati Quiz</span></h1>
+      <p>80 current-affairs questions from today's uploaded newspaper. Every game selects 15 questions without repeating used questions.</p>
+      <div class="hero-actions">
+        <button class="primary" id="startBtn">Start Game</button>
+        <button class="ghost" id="resetMemoryBtn">Reset Used Questions</button>
+      </div>
+      <div class="stats-row">
+        <div><b id="totalQ">80</b><small>Total Questions</small></div>
+        <div><b>15</b><small>Per Round</small></div>
+        <div><b>45s</b><small>Timer</small></div>
+      </div>
+    </section>
+
+    <section class="game hidden" id="gameScreen">
+      <header class="topbar">
+        <div>
+          <small>Question</small>
+          <b id="qCounter">1 / 15</b>
+        </div>
+        <div>
+          <small>Prize</small>
+          <b id="currentPrize">₹1,000</b>
+        </div>
+        <div class="timer" id="timer">45</div>
+      </header>
+
+      <div class="lifelines">
+        <button id="fiftyBtn">50:50</button>
+        <button id="pollBtn">Audience Poll</button>
+        <button id="flipBtn">Flip</button>
+        <button id="hintBtn">Hint</button>
+      </div>
+
+      <article class="question-card">
+        <div class="meta"><span id="category">Category</span><span id="difficulty">Easy</span><span id="source">Page</span></div>
+        <h2 id="questionText">Question will appear here</h2>
+        <div class="options" id="options"></div>
+      </article>
+
+      <aside class="side-panel">
+        <div class="message" id="message">Choose the correct answer.</div>
+        <div class="ladder" id="ladder"></div>
+      </aside>
+    </section>
+
+    <section class="result hidden" id="resultScreen">
+      <h2 id="resultTitle">Game Over</h2>
+      <p id="resultText"></p>
+      <div class="hero-actions">
+        <button class="primary" id="playAgainBtn">Play Again</button>
+        <button class="ghost" id="homeBtn">Home</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="data/questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
