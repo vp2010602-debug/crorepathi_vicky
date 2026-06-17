@@ -1,0 +1,802 @@
+[
+  {
+    "question": "Most common group project result?",
+    "options": [
+      "Everyone works",
+      "Teacher does it",
+      "No work",
+      "One person does all"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Before exam everyone becomes?",
+    "options": [
+      "Pilot",
+      "Dancer",
+      "Chef",
+      "Motivational speaker"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Best seat in class for fun?",
+    "options": [
+      "Outside",
+      "Teacher chair",
+      "Front bench",
+      "Back bench"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 1: Most scary college word?",
+    "options": [
+      "Internal",
+      "Sports",
+      "Lunch",
+      "Festival"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 2: Best college memory usually involves?",
+    "options": [
+      "Fine",
+      "Friends",
+      "Attendance shortage",
+      "Assignment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 3: Last day assignment style is usually?",
+    "options": [
+      "Slow research",
+      "Speed writing",
+      "Meditation",
+      "Vacation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 4: Canteen is mainly for what?",
+    "options": [
+      "Only exams",
+      "Only sleep",
+      "Only silence",
+      "Food and gossip"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 5: Group study often becomes what?",
+    "options": [
+      "Yoga",
+      "Chat session",
+      "Office meeting",
+      "Silent exam"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 6: Most scary college word?",
+    "options": [
+      "Festival",
+      "Internal",
+      "Sports",
+      "Lunch"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 7: Best college memory usually involves?",
+    "options": [
+      "Assignment",
+      "Attendance shortage",
+      "Friends",
+      "Fine"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 8: Last day assignment style is usually?",
+    "options": [
+      "Slow research",
+      "Vacation",
+      "Speed writing",
+      "Meditation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 9: Canteen is mainly for what?",
+    "options": [
+      "Only silence",
+      "Food and gossip",
+      "Only sleep",
+      "Only exams"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 10: Group study often becomes what?",
+    "options": [
+      "Chat session",
+      "Office meeting",
+      "Yoga",
+      "Silent exam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 11: Most scary college word?",
+    "options": [
+      "Festival",
+      "Sports",
+      "Internal",
+      "Lunch"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 12: Best college memory usually involves?",
+    "options": [
+      "Fine",
+      "Attendance shortage",
+      "Friends",
+      "Assignment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 13: Last day assignment style is usually?",
+    "options": [
+      "Vacation",
+      "Meditation",
+      "Slow research",
+      "Speed writing"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 14: Canteen is mainly for what?",
+    "options": [
+      "Only exams",
+      "Food and gossip",
+      "Only silence",
+      "Only sleep"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 15: Group study often becomes what?",
+    "options": [
+      "Chat session",
+      "Yoga",
+      "Silent exam",
+      "Office meeting"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 16: Most scary college word?",
+    "options": [
+      "Festival",
+      "Lunch",
+      "Internal",
+      "Sports"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 17: Best college memory usually involves?",
+    "options": [
+      "Assignment",
+      "Friends",
+      "Attendance shortage",
+      "Fine"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 18: Last day assignment style is usually?",
+    "options": [
+      "Vacation",
+      "Speed writing",
+      "Meditation",
+      "Slow research"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 19: Canteen is mainly for what?",
+    "options": [
+      "Only silence",
+      "Food and gossip",
+      "Only exams",
+      "Only sleep"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 20: Group study often becomes what?",
+    "options": [
+      "Office meeting",
+      "Yoga",
+      "Chat session",
+      "Silent exam"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 21: Most scary college word?",
+    "options": [
+      "Internal",
+      "Festival",
+      "Lunch",
+      "Sports"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 22: Best college memory usually involves?",
+    "options": [
+      "Attendance shortage",
+      "Fine",
+      "Assignment",
+      "Friends"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 23: Last day assignment style is usually?",
+    "options": [
+      "Vacation",
+      "Slow research",
+      "Speed writing",
+      "Meditation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 24: Canteen is mainly for what?",
+    "options": [
+      "Only exams",
+      "Food and gossip",
+      "Only sleep",
+      "Only silence"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 25: Group study often becomes what?",
+    "options": [
+      "Office meeting",
+      "Yoga",
+      "Silent exam",
+      "Chat session"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 26: Most scary college word?",
+    "options": [
+      "Lunch",
+      "Internal",
+      "Festival",
+      "Sports"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 27: Best college memory usually involves?",
+    "options": [
+      "Fine",
+      "Attendance shortage",
+      "Assignment",
+      "Friends"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 28: Last day assignment style is usually?",
+    "options": [
+      "Vacation",
+      "Speed writing",
+      "Meditation",
+      "Slow research"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 29: Canteen is mainly for what?",
+    "options": [
+      "Food and gossip",
+      "Only exams",
+      "Only sleep",
+      "Only silence"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 30: Group study often becomes what?",
+    "options": [
+      "Office meeting",
+      "Chat session",
+      "Yoga",
+      "Silent exam"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 31: Most scary college word?",
+    "options": [
+      "Internal",
+      "Lunch",
+      "Sports",
+      "Festival"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 32: Best college memory usually involves?",
+    "options": [
+      "Attendance shortage",
+      "Fine",
+      "Friends",
+      "Assignment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 33: Last day assignment style is usually?",
+    "options": [
+      "Meditation",
+      "Slow research",
+      "Vacation",
+      "Speed writing"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 34: Canteen is mainly for what?",
+    "options": [
+      "Only silence",
+      "Only sleep",
+      "Food and gossip",
+      "Only exams"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 35: Group study often becomes what?",
+    "options": [
+      "Yoga",
+      "Silent exam",
+      "Chat session",
+      "Office meeting"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 36: Most scary college word?",
+    "options": [
+      "Lunch",
+      "Internal",
+      "Sports",
+      "Festival"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 37: Best college memory usually involves?",
+    "options": [
+      "Friends",
+      "Assignment",
+      "Fine",
+      "Attendance shortage"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 38: Last day assignment style is usually?",
+    "options": [
+      "Vacation",
+      "Meditation",
+      "Speed writing",
+      "Slow research"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 39: Canteen is mainly for what?",
+    "options": [
+      "Only silence",
+      "Only exams",
+      "Only sleep",
+      "Food and gossip"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 40: Group study often becomes what?",
+    "options": [
+      "Chat session",
+      "Office meeting",
+      "Silent exam",
+      "Yoga"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 41: Most scary college word?",
+    "options": [
+      "Sports",
+      "Festival",
+      "Internal",
+      "Lunch"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 42: Best college memory usually involves?",
+    "options": [
+      "Fine",
+      "Friends",
+      "Attendance shortage",
+      "Assignment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 43: Last day assignment style is usually?",
+    "options": [
+      "Meditation",
+      "Slow research",
+      "Vacation",
+      "Speed writing"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 44: Canteen is mainly for what?",
+    "options": [
+      "Only exams",
+      "Food and gossip",
+      "Only sleep",
+      "Only silence"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 45: Group study often becomes what?",
+    "options": [
+      "Chat session",
+      "Yoga",
+      "Office meeting",
+      "Silent exam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 46: Most scary college word?",
+    "options": [
+      "Festival",
+      "Lunch",
+      "Internal",
+      "Sports"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 47: Best college memory usually involves?",
+    "options": [
+      "Friends",
+      "Assignment",
+      "Fine",
+      "Attendance shortage"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 48: Last day assignment style is usually?",
+    "options": [
+      "Speed writing",
+      "Vacation",
+      "Meditation",
+      "Slow research"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 49: Canteen is mainly for what?",
+    "options": [
+      "Food and gossip",
+      "Only silence",
+      "Only exams",
+      "Only sleep"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 50: Group study often becomes what?",
+    "options": [
+      "Office meeting",
+      "Yoga",
+      "Chat session",
+      "Silent exam"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 51: Most scary college word?",
+    "options": [
+      "Internal",
+      "Lunch",
+      "Sports",
+      "Festival"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 52: Best college memory usually involves?",
+    "options": [
+      "Friends",
+      "Fine",
+      "Assignment",
+      "Attendance shortage"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 53: Last day assignment style is usually?",
+    "options": [
+      "Speed writing",
+      "Slow research",
+      "Vacation",
+      "Meditation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 54: Canteen is mainly for what?",
+    "options": [
+      "Only exams",
+      "Only sleep",
+      "Only silence",
+      "Food and gossip"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 55: Group study often becomes what?",
+    "options": [
+      "Chat session",
+      "Office meeting",
+      "Yoga",
+      "Silent exam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 56: Most scary college word?",
+    "options": [
+      "Sports",
+      "Lunch",
+      "Internal",
+      "Festival"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 57: Best college memory usually involves?",
+    "options": [
+      "Friends",
+      "Fine",
+      "Assignment",
+      "Attendance shortage"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 58: Last day assignment style is usually?",
+    "options": [
+      "Meditation",
+      "Slow research",
+      "Speed writing",
+      "Vacation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 59: Canteen is mainly for what?",
+    "options": [
+      "Only exams",
+      "Only sleep",
+      "Only silence",
+      "Food and gossip"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 60: Group study often becomes what?",
+    "options": [
+      "Chat session",
+      "Yoga",
+      "Office meeting",
+      "Silent exam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "College 61: Most scary college word?",
+    "options": [
+      "Lunch",
+      "Festival",
+      "Sports",
+      "Internal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 62: Best college memory usually involves?",
+    "options": [
+      "Attendance shortage",
+      "Friends",
+      "Fine",
+      "Assignment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 63: Last day assignment style is usually?",
+    "options": [
+      "Slow research",
+      "Meditation",
+      "Speed writing",
+      "Vacation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 64: Canteen is mainly for what?",
+    "options": [
+      "Only silence",
+      "Only exams",
+      "Food and gossip",
+      "Only sleep"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 65: Group study often becomes what?",
+    "options": [
+      "Yoga",
+      "Office meeting",
+      "Chat session",
+      "Silent exam"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 66: Most scary college word?",
+    "options": [
+      "Sports",
+      "Lunch",
+      "Festival",
+      "Internal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 67: Best college memory usually involves?",
+    "options": [
+      "Attendance shortage",
+      "Fine",
+      "Assignment",
+      "Friends"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 68: Last day assignment style is usually?",
+    "options": [
+      "Meditation",
+      "Vacation",
+      "Speed writing",
+      "Slow research"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 69: Canteen is mainly for what?",
+    "options": [
+      "Only sleep",
+      "Only silence",
+      "Food and gossip",
+      "Only exams"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 70: Group study often becomes what?",
+    "options": [
+      "Office meeting",
+      "Silent exam",
+      "Yoga",
+      "Chat session"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 71: Most scary college word?",
+    "options": [
+      "Sports",
+      "Lunch",
+      "Festival",
+      "Internal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 72: Best college memory usually involves?",
+    "options": [
+      "Fine",
+      "Assignment",
+      "Attendance shortage",
+      "Friends"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 73: Last day assignment style is usually?",
+    "options": [
+      "Slow research",
+      "Vacation",
+      "Speed writing",
+      "Meditation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "College 74: Canteen is mainly for what?",
+    "options": [
+      "Only exams",
+      "Only silence",
+      "Only sleep",
+      "Food and gossip"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 75: Group study often becomes what?",
+    "options": [
+      "Yoga",
+      "Chat session",
+      "Silent exam",
+      "Office meeting"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "College 76: Most scary college word?",
+    "options": [
+      "Festival",
+      "Sports",
+      "Lunch",
+      "Internal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "College 77: Best college memory usually involves?",
+    "options": [
+      "Friends",
+      "Fine",
+      "Assignment",
+      "Attendance shortage"
+    ],
+    "answer": 0
+  }
+]
