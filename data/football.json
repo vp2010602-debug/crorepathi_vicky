@@ -1,0 +1,902 @@
+[
+  {
+    "question": "How many players are on field for one football team?",
+    "options": [
+      "10",
+      "9",
+      "12",
+      "11"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What does GK mean?",
+    "options": [
+      "Game King",
+      "Ground Keeper",
+      "Goal Kick",
+      "Goal Keeper"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A hat-trick means scoring how many goals?",
+    "options": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which card means player is sent off?",
+    "options": [
+      "Blue",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Who is known as La Pulga?",
+    "options": [
+      "Ronaldo",
+      "Messi",
+      "Mbappe",
+      "Neymar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which country won FIFA World Cup 2022?",
+    "options": [
+      "Germany",
+      "France",
+      "Argentina",
+      "Brazil"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 1: Which position mainly defends?",
+    "options": [
+      "Defender",
+      "Coach",
+      "Striker",
+      "Winger"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 2: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Knees only",
+      "Hands",
+      "Head only",
+      "Elbow only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 3: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Referee",
+      "Defending team",
+      "Coach",
+      "Crowd"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 4: A football match normal time is how many minutes?",
+    "options": [
+      "70 minutes",
+      "90 minutes",
+      "100 minutes",
+      "60 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 5: Which trophy is for national teams globally?",
+    "options": [
+      "IPL",
+      "FIFA World Cup",
+      "NBA Finals",
+      "Wimbledon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 6: Which position mainly defends?",
+    "options": [
+      "Striker",
+      "Coach",
+      "Winger",
+      "Defender"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 7: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Knees only",
+      "Elbow only",
+      "Head only",
+      "Hands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 8: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Referee",
+      "Coach",
+      "Defending team",
+      "Crowd"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 9: A football match normal time is how many minutes?",
+    "options": [
+      "70 minutes",
+      "60 minutes",
+      "100 minutes",
+      "90 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 10: Which trophy is for national teams globally?",
+    "options": [
+      "FIFA World Cup",
+      "NBA Finals",
+      "IPL",
+      "Wimbledon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 11: Which position mainly defends?",
+    "options": [
+      "Defender",
+      "Striker",
+      "Winger",
+      "Coach"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 12: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Knees only",
+      "Elbow only",
+      "Hands",
+      "Head only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 13: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Defending team",
+      "Coach",
+      "Crowd",
+      "Referee"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 14: A football match normal time is how many minutes?",
+    "options": [
+      "100 minutes",
+      "70 minutes",
+      "90 minutes",
+      "60 minutes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 15: Which trophy is for national teams globally?",
+    "options": [
+      "IPL",
+      "FIFA World Cup",
+      "Wimbledon",
+      "NBA Finals"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 16: Which position mainly defends?",
+    "options": [
+      "Striker",
+      "Coach",
+      "Winger",
+      "Defender"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 17: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Head only",
+      "Knees only",
+      "Elbow only",
+      "Hands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 18: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Crowd",
+      "Referee",
+      "Defending team",
+      "Coach"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 19: A football match normal time is how many minutes?",
+    "options": [
+      "60 minutes",
+      "100 minutes",
+      "70 minutes",
+      "90 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 20: Which trophy is for national teams globally?",
+    "options": [
+      "Wimbledon",
+      "NBA Finals",
+      "FIFA World Cup",
+      "IPL"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 21: Which position mainly defends?",
+    "options": [
+      "Coach",
+      "Defender",
+      "Winger",
+      "Striker"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 22: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Knees only",
+      "Elbow only",
+      "Hands",
+      "Head only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 23: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Defending team",
+      "Coach",
+      "Referee",
+      "Crowd"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 24: A football match normal time is how many minutes?",
+    "options": [
+      "60 minutes",
+      "70 minutes",
+      "90 minutes",
+      "100 minutes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 25: Which trophy is for national teams globally?",
+    "options": [
+      "IPL",
+      "NBA Finals",
+      "Wimbledon",
+      "FIFA World Cup"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 26: Which position mainly defends?",
+    "options": [
+      "Striker",
+      "Coach",
+      "Winger",
+      "Defender"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 27: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Hands",
+      "Elbow only",
+      "Knees only",
+      "Head only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 28: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Crowd",
+      "Referee",
+      "Defending team",
+      "Coach"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 29: A football match normal time is how many minutes?",
+    "options": [
+      "70 minutes",
+      "60 minutes",
+      "90 minutes",
+      "100 minutes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 30: Which trophy is for national teams globally?",
+    "options": [
+      "FIFA World Cup",
+      "NBA Finals",
+      "Wimbledon",
+      "IPL"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 31: Which position mainly defends?",
+    "options": [
+      "Coach",
+      "Winger",
+      "Striker",
+      "Defender"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 32: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Head only",
+      "Knees only",
+      "Hands",
+      "Elbow only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 33: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Coach",
+      "Defending team",
+      "Crowd",
+      "Referee"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 34: A football match normal time is how many minutes?",
+    "options": [
+      "70 minutes",
+      "60 minutes",
+      "100 minutes",
+      "90 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 35: Which trophy is for national teams globally?",
+    "options": [
+      "IPL",
+      "NBA Finals",
+      "FIFA World Cup",
+      "Wimbledon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 36: Which position mainly defends?",
+    "options": [
+      "Defender",
+      "Coach",
+      "Winger",
+      "Striker"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 37: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Hands",
+      "Head only",
+      "Elbow only",
+      "Knees only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 38: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Referee",
+      "Crowd",
+      "Coach",
+      "Defending team"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 39: A football match normal time is how many minutes?",
+    "options": [
+      "70 minutes",
+      "90 minutes",
+      "60 minutes",
+      "100 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 40: Which trophy is for national teams globally?",
+    "options": [
+      "FIFA World Cup",
+      "IPL",
+      "NBA Finals",
+      "Wimbledon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 41: Which position mainly defends?",
+    "options": [
+      "Winger",
+      "Defender",
+      "Striker",
+      "Coach"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 42: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Hands",
+      "Elbow only",
+      "Head only",
+      "Knees only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 43: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Referee",
+      "Coach",
+      "Defending team",
+      "Crowd"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 44: A football match normal time is how many minutes?",
+    "options": [
+      "100 minutes",
+      "70 minutes",
+      "90 minutes",
+      "60 minutes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 45: Which trophy is for national teams globally?",
+    "options": [
+      "IPL",
+      "NBA Finals",
+      "Wimbledon",
+      "FIFA World Cup"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 46: Which position mainly defends?",
+    "options": [
+      "Winger",
+      "Defender",
+      "Striker",
+      "Coach"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 47: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Head only",
+      "Elbow only",
+      "Hands",
+      "Knees only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 48: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Coach",
+      "Crowd",
+      "Defending team",
+      "Referee"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 49: A football match normal time is how many minutes?",
+    "options": [
+      "100 minutes",
+      "70 minutes",
+      "90 minutes",
+      "60 minutes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 50: Which trophy is for national teams globally?",
+    "options": [
+      "NBA Finals",
+      "Wimbledon",
+      "IPL",
+      "FIFA World Cup"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 51: Which position mainly defends?",
+    "options": [
+      "Striker",
+      "Defender",
+      "Coach",
+      "Winger"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 52: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Head only",
+      "Hands",
+      "Elbow only",
+      "Knees only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 53: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Coach",
+      "Referee",
+      "Crowd",
+      "Defending team"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 54: A football match normal time is how many minutes?",
+    "options": [
+      "100 minutes",
+      "70 minutes",
+      "90 minutes",
+      "60 minutes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 55: Which trophy is for national teams globally?",
+    "options": [
+      "FIFA World Cup",
+      "NBA Finals",
+      "IPL",
+      "Wimbledon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 56: Which position mainly defends?",
+    "options": [
+      "Defender",
+      "Coach",
+      "Striker",
+      "Winger"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 57: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Elbow only",
+      "Knees only",
+      "Head only",
+      "Hands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 58: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Coach",
+      "Referee",
+      "Crowd",
+      "Defending team"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 59: A football match normal time is how many minutes?",
+    "options": [
+      "90 minutes",
+      "70 minutes",
+      "100 minutes",
+      "60 minutes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 60: Which trophy is for national teams globally?",
+    "options": [
+      "NBA Finals",
+      "FIFA World Cup",
+      "IPL",
+      "Wimbledon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 61: Which position mainly defends?",
+    "options": [
+      "Striker",
+      "Defender",
+      "Coach",
+      "Winger"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 62: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Elbow only",
+      "Hands",
+      "Head only",
+      "Knees only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 63: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Defending team",
+      "Referee",
+      "Crowd",
+      "Coach"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 64: A football match normal time is how many minutes?",
+    "options": [
+      "100 minutes",
+      "90 minutes",
+      "70 minutes",
+      "60 minutes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 65: Which trophy is for national teams globally?",
+    "options": [
+      "IPL",
+      "NBA Finals",
+      "FIFA World Cup",
+      "Wimbledon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 66: Which position mainly defends?",
+    "options": [
+      "Winger",
+      "Striker",
+      "Coach",
+      "Defender"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 67: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Knees only",
+      "Elbow only",
+      "Head only",
+      "Hands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 68: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Crowd",
+      "Coach",
+      "Referee",
+      "Defending team"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 69: A football match normal time is how many minutes?",
+    "options": [
+      "60 minutes",
+      "70 minutes",
+      "90 minutes",
+      "100 minutes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 70: Which trophy is for national teams globally?",
+    "options": [
+      "FIFA World Cup",
+      "IPL",
+      "NBA Finals",
+      "Wimbledon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 71: Which position mainly defends?",
+    "options": [
+      "Coach",
+      "Winger",
+      "Striker",
+      "Defender"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 72: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Elbow only",
+      "Head only",
+      "Hands",
+      "Knees only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 73: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Crowd",
+      "Defending team",
+      "Coach",
+      "Referee"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 74: A football match normal time is how many minutes?",
+    "options": [
+      "60 minutes",
+      "100 minutes",
+      "70 minutes",
+      "90 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 75: Which trophy is for national teams globally?",
+    "options": [
+      "Wimbledon",
+      "FIFA World Cup",
+      "IPL",
+      "NBA Finals"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 76: Which position mainly defends?",
+    "options": [
+      "Defender",
+      "Coach",
+      "Winger",
+      "Striker"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 77: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Head only",
+      "Elbow only",
+      "Hands",
+      "Knees only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Football 78: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Referee",
+      "Coach",
+      "Crowd",
+      "Defending team"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 79: A football match normal time is how many minutes?",
+    "options": [
+      "100 minutes",
+      "70 minutes",
+      "60 minutes",
+      "90 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 80: Which trophy is for national teams globally?",
+    "options": [
+      "FIFA World Cup",
+      "NBA Finals",
+      "IPL",
+      "Wimbledon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 81: Which position mainly defends?",
+    "options": [
+      "Winger",
+      "Defender",
+      "Striker",
+      "Coach"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Football 82: A goalkeeper mainly uses which body part legally in penalty box?",
+    "options": [
+      "Head only",
+      "Knees only",
+      "Elbow only",
+      "Hands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Football 83: A corner kick happens when ball goes out after touching whom?",
+    "options": [
+      "Defending team",
+      "Crowd",
+      "Referee",
+      "Coach"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Football 84: A football match normal time is how many minutes?",
+    "options": [
+      "100 minutes",
+      "60 minutes",
+      "90 minutes",
+      "70 minutes"
+    ],
+    "answer": 2
+  }
+]
