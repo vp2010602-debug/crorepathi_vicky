@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Which country is famous for sushi?",
+    "options": [
+      "Brazil",
+      "Japan",
+      "Italy",
+      "India"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Pizza is strongly linked with which country?",
+    "options": [
+      "Japan",
+      "Mexico",
+      "Italy",
+      "China"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which is a South Indian breakfast item?",
+    "options": [
+      "Pasta",
+      "Idli",
+      "Pizza",
+      "Burger"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Biryani is usually served with?",
+    "options": [
+      "Tea",
+      "Chocolate",
+      "Jam",
+      "Raita"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Food 1: Paneer is made from what?",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Milk",
+      "Potato"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 2: Dosa batter mainly uses what?",
+    "options": [
+      "Only chocolate",
+      "Only apple",
+      "Only tea",
+      "Rice and dal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Food 3: Pani puri is mostly what type of food?",
+    "options": [
+      "Medicine",
+      "Soup only",
+      "Street food",
+      "Dessert only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 4: Coffee is made from what?",
+    "options": [
+      "Tea leaves",
+      "Potato",
+      "Coffee beans",
+      "Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 5: Ice cream is usually served how?",
+    "options": [
+      "Raw",
+      "Dry",
+      "Cold",
+      "Burning hot"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 6: Paneer is made from what?",
+    "options": [
+      "Wheat",
+      "Milk",
+      "Potato",
+      "Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 7: Dosa batter mainly uses what?",
+    "options": [
+      "Only chocolate",
+      "Only apple",
+      "Rice and dal",
+      "Only tea"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 8: Pani puri is mostly what type of food?",
+    "options": [
+      "Street food",
+      "Medicine",
+      "Dessert only",
+      "Soup only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 9: Coffee is made from what?",
+    "options": [
+      "Coffee beans",
+      "Rice",
+      "Potato",
+      "Tea leaves"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 10: Ice cream is usually served how?",
+    "options": [
+      "Burning hot",
+      "Dry",
+      "Cold",
+      "Raw"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 11: Paneer is made from what?",
+    "options": [
+      "Potato",
+      "Rice",
+      "Milk",
+      "Wheat"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 12: Dosa batter mainly uses what?",
+    "options": [
+      "Only tea",
+      "Only apple",
+      "Only chocolate",
+      "Rice and dal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Food 13: Pani puri is mostly what type of food?",
+    "options": [
+      "Soup only",
+      "Medicine",
+      "Dessert only",
+      "Street food"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Food 14: Coffee is made from what?",
+    "options": [
+      "Coffee beans",
+      "Rice",
+      "Tea leaves",
+      "Potato"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 15: Ice cream is usually served how?",
+    "options": [
+      "Burning hot",
+      "Raw",
+      "Cold",
+      "Dry"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 16: Paneer is made from what?",
+    "options": [
+      "Wheat",
+      "Milk",
+      "Rice",
+      "Potato"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 17: Dosa batter mainly uses what?",
+    "options": [
+      "Only chocolate",
+      "Rice and dal",
+      "Only tea",
+      "Only apple"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 18: Pani puri is mostly what type of food?",
+    "options": [
+      "Medicine",
+      "Dessert only",
+      "Street food",
+      "Soup only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 19: Coffee is made from what?",
+    "options": [
+      "Tea leaves",
+      "Coffee beans",
+      "Rice",
+      "Potato"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 20: Ice cream is usually served how?",
+    "options": [
+      "Dry",
+      "Burning hot",
+      "Raw",
+      "Cold"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Food 21: Paneer is made from what?",
+    "options": [
+      "Potato",
+      "Rice",
+      "Wheat",
+      "Milk"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Food 22: Dosa batter mainly uses what?",
+    "options": [
+      "Only apple",
+      "Rice and dal",
+      "Only chocolate",
+      "Only tea"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 23: Pani puri is mostly what type of food?",
+    "options": [
+      "Soup only",
+      "Dessert only",
+      "Medicine",
+      "Street food"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Food 24: Coffee is made from what?",
+    "options": [
+      "Tea leaves",
+      "Coffee beans",
+      "Rice",
+      "Potato"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 25: Ice cream is usually served how?",
+    "options": [
+      "Raw",
+      "Cold",
+      "Burning hot",
+      "Dry"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 26: Paneer is made from what?",
+    "options": [
+      "Wheat",
+      "Milk",
+      "Rice",
+      "Potato"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 27: Dosa batter mainly uses what?",
+    "options": [
+      "Rice and dal",
+      "Only apple",
+      "Only tea",
+      "Only chocolate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 28: Pani puri is mostly what type of food?",
+    "options": [
+      "Medicine",
+      "Dessert only",
+      "Street food",
+      "Soup only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 29: Coffee is made from what?",
+    "options": [
+      "Coffee beans",
+      "Rice",
+      "Potato",
+      "Tea leaves"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 30: Ice cream is usually served how?",
+    "options": [
+      "Dry",
+      "Raw",
+      "Cold",
+      "Burning hot"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 31: Paneer is made from what?",
+    "options": [
+      "Potato",
+      "Milk",
+      "Rice",
+      "Wheat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 32: Dosa batter mainly uses what?",
+    "options": [
+      "Only chocolate",
+      "Rice and dal",
+      "Only tea",
+      "Only apple"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 33: Pani puri is mostly what type of food?",
+    "options": [
+      "Medicine",
+      "Street food",
+      "Dessert only",
+      "Soup only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 34: Coffee is made from what?",
+    "options": [
+      "Tea leaves",
+      "Potato",
+      "Coffee beans",
+      "Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 35: Ice cream is usually served how?",
+    "options": [
+      "Cold",
+      "Raw",
+      "Dry",
+      "Burning hot"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 36: Paneer is made from what?",
+    "options": [
+      "Milk",
+      "Wheat",
+      "Potato",
+      "Rice"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 37: Dosa batter mainly uses what?",
+    "options": [
+      "Only chocolate",
+      "Rice and dal",
+      "Only apple",
+      "Only tea"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 38: Pani puri is mostly what type of food?",
+    "options": [
+      "Soup only",
+      "Medicine",
+      "Street food",
+      "Dessert only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 39: Coffee is made from what?",
+    "options": [
+      "Rice",
+      "Tea leaves",
+      "Coffee beans",
+      "Potato"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 40: Ice cream is usually served how?",
+    "options": [
+      "Raw",
+      "Cold",
+      "Dry",
+      "Burning hot"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 41: Paneer is made from what?",
+    "options": [
+      "Milk",
+      "Rice",
+      "Wheat",
+      "Potato"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 42: Dosa batter mainly uses what?",
+    "options": [
+      "Rice and dal",
+      "Only tea",
+      "Only chocolate",
+      "Only apple"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 43: Pani puri is mostly what type of food?",
+    "options": [
+      "Dessert only",
+      "Medicine",
+      "Street food",
+      "Soup only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 44: Coffee is made from what?",
+    "options": [
+      "Potato",
+      "Coffee beans",
+      "Tea leaves",
+      "Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 45: Ice cream is usually served how?",
+    "options": [
+      "Dry",
+      "Burning hot",
+      "Cold",
+      "Raw"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 46: Paneer is made from what?",
+    "options": [
+      "Rice",
+      "Wheat",
+      "Milk",
+      "Potato"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 47: Dosa batter mainly uses what?",
+    "options": [
+      "Only tea",
+      "Rice and dal",
+      "Only apple",
+      "Only chocolate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 48: Pani puri is mostly what type of food?",
+    "options": [
+      "Soup only",
+      "Street food",
+      "Medicine",
+      "Dessert only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 49: Coffee is made from what?",
+    "options": [
+      "Potato",
+      "Coffee beans",
+      "Tea leaves",
+      "Rice"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 50: Ice cream is usually served how?",
+    "options": [
+      "Cold",
+      "Raw",
+      "Dry",
+      "Burning hot"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 51: Paneer is made from what?",
+    "options": [
+      "Rice",
+      "Wheat",
+      "Milk",
+      "Potato"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 52: Dosa batter mainly uses what?",
+    "options": [
+      "Rice and dal",
+      "Only apple",
+      "Only tea",
+      "Only chocolate"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 53: Pani puri is mostly what type of food?",
+    "options": [
+      "Soup only",
+      "Dessert only",
+      "Street food",
+      "Medicine"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 54: Coffee is made from what?",
+    "options": [
+      "Coffee beans",
+      "Tea leaves",
+      "Potato",
+      "Rice"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 55: Ice cream is usually served how?",
+    "options": [
+      "Burning hot",
+      "Raw",
+      "Cold",
+      "Dry"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 56: Paneer is made from what?",
+    "options": [
+      "Rice",
+      "Milk",
+      "Potato",
+      "Wheat"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 57: Dosa batter mainly uses what?",
+    "options": [
+      "Only apple",
+      "Only chocolate",
+      "Only tea",
+      "Rice and dal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Food 58: Pani puri is mostly what type of food?",
+    "options": [
+      "Dessert only",
+      "Street food",
+      "Medicine",
+      "Soup only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 59: Coffee is made from what?",
+    "options": [
+      "Coffee beans",
+      "Potato",
+      "Rice",
+      "Tea leaves"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 60: Ice cream is usually served how?",
+    "options": [
+      "Cold",
+      "Burning hot",
+      "Raw",
+      "Dry"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 61: Paneer is made from what?",
+    "options": [
+      "Milk",
+      "Potato",
+      "Wheat",
+      "Rice"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Food 62: Dosa batter mainly uses what?",
+    "options": [
+      "Only chocolate",
+      "Only apple",
+      "Only tea",
+      "Rice and dal"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Food 63: Pani puri is mostly what type of food?",
+    "options": [
+      "Medicine",
+      "Street food",
+      "Dessert only",
+      "Soup only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 64: Coffee is made from what?",
+    "options": [
+      "Tea leaves",
+      "Rice",
+      "Coffee beans",
+      "Potato"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food 65: Ice cream is usually served how?",
+    "options": [
+      "Raw",
+      "Cold",
+      "Dry",
+      "Burning hot"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Food 66: Paneer is made from what?",
+    "options": [
+      "Rice",
+      "Milk",
+      "Potato",
+      "Wheat"
+    ],
+    "answer": 1
+  }
+]
