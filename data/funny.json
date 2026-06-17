@@ -1,0 +1,1602 @@
+[
+  {
+    "question": "If a friend says 'I'm almost there', where are they usually?",
+    "options": [
+      "Still at home",
+      "In lift",
+      "Near gate",
+      "At destination"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Most dangerous phone notification?",
+    "options": [
+      "Storage full",
+      "Low battery",
+      "Mom: Call me",
+      "Update available"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens when mom calls your full name?",
+    "options": [
+      "Love",
+      "Gift",
+      "Danger",
+      "Food ready"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Best excuse for not replying?",
+    "options": [
+      "Sleeping",
+      "Network issue",
+      "Battery dead",
+      "All of these"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "After saying 'last reel', what happens?",
+    "options": [
+      "Study",
+      "Sleep",
+      "50 more reels",
+      "Delete app"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Universal Indian remote fixing method?",
+    "options": [
+      "Charge it",
+      "Buy new TV",
+      "Hit twice",
+      "Update software"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Fastest thing in a family group?",
+    "options": [
+      "Train",
+      "Internet",
+      "Cheetah",
+      "Rumour"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What disappears first in biryani?",
+    "options": [
+      "Raita",
+      "Onion",
+      "Chicken piece",
+      "Rice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Most common gym plan?",
+    "options": [
+      "Today",
+      "Next month",
+      "Monday",
+      "After buying shoes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What does 'I am not angry' usually mean?",
+    "options": [
+      "Very angry",
+      "Little angry",
+      "Not angry",
+      "Game over"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 1: What usually happens when WiFi stops?",
+    "options": [
+      "People meditate",
+      "Everyone blames the router",
+      "Everyone studies",
+      "Nobody notices"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 2: What is the first reaction when charger is missing?",
+    "options": [
+      "Peace begins",
+      "Everyone sleeps",
+      "Homework starts",
+      "Family investigation starts"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 3: What does 'one minute' usually mean?",
+    "options": [
+      "Minimum 20 minutes",
+      "Never",
+      "Exactly 60 seconds",
+      "Tomorrow"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 4: What is the biggest lie before exams?",
+    "options": [
+      "I studied nothing",
+      "I wrote with pencil",
+      "I love exams",
+      "Paper was cancelled"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 5: What is the real meaning of 'last episode'?",
+    "options": [
+      "Three more episodes",
+      "Sleep now",
+      "Phone off",
+      "Study now"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 6: Which item vanishes mysteriously at home?",
+    "options": [
+      "Ceiling fan",
+      "Fridge",
+      "Charger",
+      "Wall"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 7: What is the official group project rule?",
+    "options": [
+      "No one joins",
+      "Teacher does it",
+      "Everyone works equally",
+      "One person does everything"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 8: What makes a person suddenly religious?",
+    "options": [
+      "Exam results",
+      "Pizza",
+      "Shoes",
+      "Bluetooth"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 9: What is the scariest message from a friend?",
+    "options": [
+      "Nice weather",
+      "Bro, small problem",
+      "Send meme",
+      "Good morning"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 10: What happens after saying 'I will wake early'?",
+    "options": [
+      "Perfect discipline",
+      "Alarm gets snoozed",
+      "No phone usage",
+      "5 AM yoga"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 11: What usually happens when WiFi stops?",
+    "options": [
+      "Everyone studies",
+      "Everyone blames the router",
+      "People meditate",
+      "Nobody notices"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 12: What is the first reaction when charger is missing?",
+    "options": [
+      "Homework starts",
+      "Peace begins",
+      "Everyone sleeps",
+      "Family investigation starts"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 13: What does 'one minute' usually mean?",
+    "options": [
+      "Tomorrow",
+      "Never",
+      "Minimum 20 minutes",
+      "Exactly 60 seconds"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 14: What is the biggest lie before exams?",
+    "options": [
+      "I love exams",
+      "I studied nothing",
+      "Paper was cancelled",
+      "I wrote with pencil"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 15: What is the real meaning of 'last episode'?",
+    "options": [
+      "Three more episodes",
+      "Phone off",
+      "Sleep now",
+      "Study now"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 16: Which item vanishes mysteriously at home?",
+    "options": [
+      "Ceiling fan",
+      "Wall",
+      "Charger",
+      "Fridge"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 17: What is the official group project rule?",
+    "options": [
+      "One person does everything",
+      "No one joins",
+      "Everyone works equally",
+      "Teacher does it"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 18: What makes a person suddenly religious?",
+    "options": [
+      "Shoes",
+      "Bluetooth",
+      "Pizza",
+      "Exam results"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 19: What is the scariest message from a friend?",
+    "options": [
+      "Send meme",
+      "Nice weather",
+      "Good morning",
+      "Bro, small problem"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 20: What happens after saying 'I will wake early'?",
+    "options": [
+      "No phone usage",
+      "5 AM yoga",
+      "Alarm gets snoozed",
+      "Perfect discipline"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 21: What usually happens when WiFi stops?",
+    "options": [
+      "People meditate",
+      "Everyone studies",
+      "Everyone blames the router",
+      "Nobody notices"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 22: What is the first reaction when charger is missing?",
+    "options": [
+      "Homework starts",
+      "Family investigation starts",
+      "Everyone sleeps",
+      "Peace begins"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 23: What does 'one minute' usually mean?",
+    "options": [
+      "Minimum 20 minutes",
+      "Exactly 60 seconds",
+      "Tomorrow",
+      "Never"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 24: What is the biggest lie before exams?",
+    "options": [
+      "I studied nothing",
+      "Paper was cancelled",
+      "I love exams",
+      "I wrote with pencil"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 25: What is the real meaning of 'last episode'?",
+    "options": [
+      "Phone off",
+      "Three more episodes",
+      "Sleep now",
+      "Study now"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 26: Which item vanishes mysteriously at home?",
+    "options": [
+      "Charger",
+      "Fridge",
+      "Wall",
+      "Ceiling fan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 27: What is the official group project rule?",
+    "options": [
+      "No one joins",
+      "Teacher does it",
+      "Everyone works equally",
+      "One person does everything"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 28: What makes a person suddenly religious?",
+    "options": [
+      "Exam results",
+      "Pizza",
+      "Bluetooth",
+      "Shoes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 29: What is the scariest message from a friend?",
+    "options": [
+      "Bro, small problem",
+      "Send meme",
+      "Good morning",
+      "Nice weather"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 30: What happens after saying 'I will wake early'?",
+    "options": [
+      "Perfect discipline",
+      "Alarm gets snoozed",
+      "No phone usage",
+      "5 AM yoga"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 31: What usually happens when WiFi stops?",
+    "options": [
+      "Everyone blames the router",
+      "People meditate",
+      "Everyone studies",
+      "Nobody notices"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 32: What is the first reaction when charger is missing?",
+    "options": [
+      "Family investigation starts",
+      "Everyone sleeps",
+      "Homework starts",
+      "Peace begins"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 33: What does 'one minute' usually mean?",
+    "options": [
+      "Exactly 60 seconds",
+      "Minimum 20 minutes",
+      "Never",
+      "Tomorrow"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 34: What is the biggest lie before exams?",
+    "options": [
+      "Paper was cancelled",
+      "I studied nothing",
+      "I wrote with pencil",
+      "I love exams"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 35: What is the real meaning of 'last episode'?",
+    "options": [
+      "Three more episodes",
+      "Sleep now",
+      "Study now",
+      "Phone off"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 36: Which item vanishes mysteriously at home?",
+    "options": [
+      "Ceiling fan",
+      "Fridge",
+      "Charger",
+      "Wall"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 37: What is the official group project rule?",
+    "options": [
+      "Teacher does it",
+      "No one joins",
+      "One person does everything",
+      "Everyone works equally"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 38: What makes a person suddenly religious?",
+    "options": [
+      "Pizza",
+      "Bluetooth",
+      "Exam results",
+      "Shoes"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 39: What is the scariest message from a friend?",
+    "options": [
+      "Send meme",
+      "Nice weather",
+      "Good morning",
+      "Bro, small problem"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 40: What happens after saying 'I will wake early'?",
+    "options": [
+      "Alarm gets snoozed",
+      "5 AM yoga",
+      "No phone usage",
+      "Perfect discipline"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 41: What usually happens when WiFi stops?",
+    "options": [
+      "People meditate",
+      "Everyone studies",
+      "Everyone blames the router",
+      "Nobody notices"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 42: What is the first reaction when charger is missing?",
+    "options": [
+      "Family investigation starts",
+      "Peace begins",
+      "Everyone sleeps",
+      "Homework starts"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 43: What does 'one minute' usually mean?",
+    "options": [
+      "Exactly 60 seconds",
+      "Never",
+      "Tomorrow",
+      "Minimum 20 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 44: What is the biggest lie before exams?",
+    "options": [
+      "I wrote with pencil",
+      "I studied nothing",
+      "Paper was cancelled",
+      "I love exams"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 45: What is the real meaning of 'last episode'?",
+    "options": [
+      "Phone off",
+      "Sleep now",
+      "Study now",
+      "Three more episodes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 46: Which item vanishes mysteriously at home?",
+    "options": [
+      "Charger",
+      "Wall",
+      "Fridge",
+      "Ceiling fan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 47: What is the official group project rule?",
+    "options": [
+      "No one joins",
+      "One person does everything",
+      "Teacher does it",
+      "Everyone works equally"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 48: What makes a person suddenly religious?",
+    "options": [
+      "Exam results",
+      "Bluetooth",
+      "Pizza",
+      "Shoes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 49: What is the scariest message from a friend?",
+    "options": [
+      "Bro, small problem",
+      "Send meme",
+      "Good morning",
+      "Nice weather"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 50: What happens after saying 'I will wake early'?",
+    "options": [
+      "No phone usage",
+      "Alarm gets snoozed",
+      "5 AM yoga",
+      "Perfect discipline"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 51: What usually happens when WiFi stops?",
+    "options": [
+      "Everyone studies",
+      "Nobody notices",
+      "People meditate",
+      "Everyone blames the router"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 52: What is the first reaction when charger is missing?",
+    "options": [
+      "Peace begins",
+      "Everyone sleeps",
+      "Family investigation starts",
+      "Homework starts"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 53: What does 'one minute' usually mean?",
+    "options": [
+      "Exactly 60 seconds",
+      "Minimum 20 minutes",
+      "Never",
+      "Tomorrow"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 54: What is the biggest lie before exams?",
+    "options": [
+      "Paper was cancelled",
+      "I studied nothing",
+      "I wrote with pencil",
+      "I love exams"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 55: What is the real meaning of 'last episode'?",
+    "options": [
+      "Sleep now",
+      "Three more episodes",
+      "Study now",
+      "Phone off"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 56: Which item vanishes mysteriously at home?",
+    "options": [
+      "Fridge",
+      "Charger",
+      "Wall",
+      "Ceiling fan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 57: What is the official group project rule?",
+    "options": [
+      "Everyone works equally",
+      "No one joins",
+      "Teacher does it",
+      "One person does everything"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 58: What makes a person suddenly religious?",
+    "options": [
+      "Exam results",
+      "Bluetooth",
+      "Shoes",
+      "Pizza"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 59: What is the scariest message from a friend?",
+    "options": [
+      "Good morning",
+      "Send meme",
+      "Bro, small problem",
+      "Nice weather"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 60: What happens after saying 'I will wake early'?",
+    "options": [
+      "Alarm gets snoozed",
+      "Perfect discipline",
+      "No phone usage",
+      "5 AM yoga"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 61: What usually happens when WiFi stops?",
+    "options": [
+      "Everyone studies",
+      "Nobody notices",
+      "Everyone blames the router",
+      "People meditate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 62: What is the first reaction when charger is missing?",
+    "options": [
+      "Peace begins",
+      "Homework starts",
+      "Family investigation starts",
+      "Everyone sleeps"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 63: What does 'one minute' usually mean?",
+    "options": [
+      "Exactly 60 seconds",
+      "Minimum 20 minutes",
+      "Tomorrow",
+      "Never"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 64: What is the biggest lie before exams?",
+    "options": [
+      "Paper was cancelled",
+      "I wrote with pencil",
+      "I studied nothing",
+      "I love exams"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 65: What is the real meaning of 'last episode'?",
+    "options": [
+      "Sleep now",
+      "Phone off",
+      "Three more episodes",
+      "Study now"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 66: Which item vanishes mysteriously at home?",
+    "options": [
+      "Charger",
+      "Wall",
+      "Fridge",
+      "Ceiling fan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 67: What is the official group project rule?",
+    "options": [
+      "One person does everything",
+      "No one joins",
+      "Everyone works equally",
+      "Teacher does it"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 68: What makes a person suddenly religious?",
+    "options": [
+      "Shoes",
+      "Bluetooth",
+      "Exam results",
+      "Pizza"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 69: What is the scariest message from a friend?",
+    "options": [
+      "Send meme",
+      "Bro, small problem",
+      "Good morning",
+      "Nice weather"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 70: What happens after saying 'I will wake early'?",
+    "options": [
+      "Alarm gets snoozed",
+      "5 AM yoga",
+      "Perfect discipline",
+      "No phone usage"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 71: What usually happens when WiFi stops?",
+    "options": [
+      "Nobody notices",
+      "Everyone blames the router",
+      "Everyone studies",
+      "People meditate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 72: What is the first reaction when charger is missing?",
+    "options": [
+      "Peace begins",
+      "Everyone sleeps",
+      "Homework starts",
+      "Family investigation starts"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 73: What does 'one minute' usually mean?",
+    "options": [
+      "Never",
+      "Minimum 20 minutes",
+      "Tomorrow",
+      "Exactly 60 seconds"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 74: What is the biggest lie before exams?",
+    "options": [
+      "Paper was cancelled",
+      "I love exams",
+      "I wrote with pencil",
+      "I studied nothing"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 75: What is the real meaning of 'last episode'?",
+    "options": [
+      "Study now",
+      "Three more episodes",
+      "Sleep now",
+      "Phone off"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 76: Which item vanishes mysteriously at home?",
+    "options": [
+      "Charger",
+      "Fridge",
+      "Wall",
+      "Ceiling fan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 77: What is the official group project rule?",
+    "options": [
+      "One person does everything",
+      "Teacher does it",
+      "Everyone works equally",
+      "No one joins"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 78: What makes a person suddenly religious?",
+    "options": [
+      "Pizza",
+      "Exam results",
+      "Shoes",
+      "Bluetooth"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 79: What is the scariest message from a friend?",
+    "options": [
+      "Send meme",
+      "Nice weather",
+      "Good morning",
+      "Bro, small problem"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 80: What happens after saying 'I will wake early'?",
+    "options": [
+      "5 AM yoga",
+      "Perfect discipline",
+      "No phone usage",
+      "Alarm gets snoozed"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 81: What usually happens when WiFi stops?",
+    "options": [
+      "Nobody notices",
+      "Everyone studies",
+      "People meditate",
+      "Everyone blames the router"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 82: What is the first reaction when charger is missing?",
+    "options": [
+      "Family investigation starts",
+      "Homework starts",
+      "Everyone sleeps",
+      "Peace begins"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 83: What does 'one minute' usually mean?",
+    "options": [
+      "Tomorrow",
+      "Never",
+      "Minimum 20 minutes",
+      "Exactly 60 seconds"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 84: What is the biggest lie before exams?",
+    "options": [
+      "I studied nothing",
+      "I wrote with pencil",
+      "Paper was cancelled",
+      "I love exams"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 85: What is the real meaning of 'last episode'?",
+    "options": [
+      "Three more episodes",
+      "Sleep now",
+      "Study now",
+      "Phone off"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 86: Which item vanishes mysteriously at home?",
+    "options": [
+      "Wall",
+      "Charger",
+      "Ceiling fan",
+      "Fridge"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 87: What is the official group project rule?",
+    "options": [
+      "Everyone works equally",
+      "No one joins",
+      "Teacher does it",
+      "One person does everything"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 88: What makes a person suddenly religious?",
+    "options": [
+      "Shoes",
+      "Pizza",
+      "Exam results",
+      "Bluetooth"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 89: What is the scariest message from a friend?",
+    "options": [
+      "Good morning",
+      "Bro, small problem",
+      "Send meme",
+      "Nice weather"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 90: What happens after saying 'I will wake early'?",
+    "options": [
+      "5 AM yoga",
+      "Alarm gets snoozed",
+      "No phone usage",
+      "Perfect discipline"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 91: What usually happens when WiFi stops?",
+    "options": [
+      "Everyone blames the router",
+      "People meditate",
+      "Nobody notices",
+      "Everyone studies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 92: What is the first reaction when charger is missing?",
+    "options": [
+      "Family investigation starts",
+      "Peace begins",
+      "Homework starts",
+      "Everyone sleeps"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 93: What does 'one minute' usually mean?",
+    "options": [
+      "Tomorrow",
+      "Never",
+      "Exactly 60 seconds",
+      "Minimum 20 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 94: What is the biggest lie before exams?",
+    "options": [
+      "I love exams",
+      "I wrote with pencil",
+      "I studied nothing",
+      "Paper was cancelled"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 95: What is the real meaning of 'last episode'?",
+    "options": [
+      "Three more episodes",
+      "Study now",
+      "Sleep now",
+      "Phone off"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 96: Which item vanishes mysteriously at home?",
+    "options": [
+      "Fridge",
+      "Wall",
+      "Ceiling fan",
+      "Charger"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 97: What is the official group project rule?",
+    "options": [
+      "One person does everything",
+      "No one joins",
+      "Teacher does it",
+      "Everyone works equally"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 98: What makes a person suddenly religious?",
+    "options": [
+      "Exam results",
+      "Pizza",
+      "Shoes",
+      "Bluetooth"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 99: What is the scariest message from a friend?",
+    "options": [
+      "Send meme",
+      "Good morning",
+      "Nice weather",
+      "Bro, small problem"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 100: What happens after saying 'I will wake early'?",
+    "options": [
+      "Alarm gets snoozed",
+      "Perfect discipline",
+      "No phone usage",
+      "5 AM yoga"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 101: What usually happens when WiFi stops?",
+    "options": [
+      "Everyone blames the router",
+      "People meditate",
+      "Nobody notices",
+      "Everyone studies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 102: What is the first reaction when charger is missing?",
+    "options": [
+      "Family investigation starts",
+      "Homework starts",
+      "Everyone sleeps",
+      "Peace begins"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 103: What does 'one minute' usually mean?",
+    "options": [
+      "Tomorrow",
+      "Minimum 20 minutes",
+      "Exactly 60 seconds",
+      "Never"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 104: What is the biggest lie before exams?",
+    "options": [
+      "I studied nothing",
+      "Paper was cancelled",
+      "I wrote with pencil",
+      "I love exams"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 105: What is the real meaning of 'last episode'?",
+    "options": [
+      "Three more episodes",
+      "Study now",
+      "Sleep now",
+      "Phone off"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 106: Which item vanishes mysteriously at home?",
+    "options": [
+      "Charger",
+      "Fridge",
+      "Ceiling fan",
+      "Wall"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 107: What is the official group project rule?",
+    "options": [
+      "One person does everything",
+      "No one joins",
+      "Everyone works equally",
+      "Teacher does it"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 108: What makes a person suddenly religious?",
+    "options": [
+      "Pizza",
+      "Shoes",
+      "Bluetooth",
+      "Exam results"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 109: What is the scariest message from a friend?",
+    "options": [
+      "Nice weather",
+      "Good morning",
+      "Send meme",
+      "Bro, small problem"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 110: What happens after saying 'I will wake early'?",
+    "options": [
+      "5 AM yoga",
+      "Alarm gets snoozed",
+      "Perfect discipline",
+      "No phone usage"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 111: What usually happens when WiFi stops?",
+    "options": [
+      "Everyone blames the router",
+      "Nobody notices",
+      "People meditate",
+      "Everyone studies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 112: What is the first reaction when charger is missing?",
+    "options": [
+      "Peace begins",
+      "Homework starts",
+      "Everyone sleeps",
+      "Family investigation starts"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 113: What does 'one minute' usually mean?",
+    "options": [
+      "Never",
+      "Exactly 60 seconds",
+      "Minimum 20 minutes",
+      "Tomorrow"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 114: What is the biggest lie before exams?",
+    "options": [
+      "Paper was cancelled",
+      "I love exams",
+      "I studied nothing",
+      "I wrote with pencil"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 115: What is the real meaning of 'last episode'?",
+    "options": [
+      "Study now",
+      "Three more episodes",
+      "Sleep now",
+      "Phone off"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 116: Which item vanishes mysteriously at home?",
+    "options": [
+      "Ceiling fan",
+      "Charger",
+      "Fridge",
+      "Wall"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 117: What is the official group project rule?",
+    "options": [
+      "Teacher does it",
+      "One person does everything",
+      "No one joins",
+      "Everyone works equally"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 118: What makes a person suddenly religious?",
+    "options": [
+      "Pizza",
+      "Shoes",
+      "Bluetooth",
+      "Exam results"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 119: What is the scariest message from a friend?",
+    "options": [
+      "Good morning",
+      "Bro, small problem",
+      "Nice weather",
+      "Send meme"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 120: What happens after saying 'I will wake early'?",
+    "options": [
+      "Perfect discipline",
+      "No phone usage",
+      "Alarm gets snoozed",
+      "5 AM yoga"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 121: What usually happens when WiFi stops?",
+    "options": [
+      "Nobody notices",
+      "Everyone blames the router",
+      "Everyone studies",
+      "People meditate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 122: What is the first reaction when charger is missing?",
+    "options": [
+      "Family investigation starts",
+      "Peace begins",
+      "Homework starts",
+      "Everyone sleeps"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 123: What does 'one minute' usually mean?",
+    "options": [
+      "Never",
+      "Minimum 20 minutes",
+      "Exactly 60 seconds",
+      "Tomorrow"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 124: What is the biggest lie before exams?",
+    "options": [
+      "I studied nothing",
+      "I love exams",
+      "Paper was cancelled",
+      "I wrote with pencil"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 125: What is the real meaning of 'last episode'?",
+    "options": [
+      "Three more episodes",
+      "Study now",
+      "Sleep now",
+      "Phone off"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 126: Which item vanishes mysteriously at home?",
+    "options": [
+      "Wall",
+      "Ceiling fan",
+      "Fridge",
+      "Charger"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 127: What is the official group project rule?",
+    "options": [
+      "No one joins",
+      "One person does everything",
+      "Everyone works equally",
+      "Teacher does it"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 128: What makes a person suddenly religious?",
+    "options": [
+      "Pizza",
+      "Exam results",
+      "Shoes",
+      "Bluetooth"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 129: What is the scariest message from a friend?",
+    "options": [
+      "Nice weather",
+      "Good morning",
+      "Bro, small problem",
+      "Send meme"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 130: What happens after saying 'I will wake early'?",
+    "options": [
+      "Alarm gets snoozed",
+      "5 AM yoga",
+      "Perfect discipline",
+      "No phone usage"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 131: What usually happens when WiFi stops?",
+    "options": [
+      "Everyone blames the router",
+      "Nobody notices",
+      "People meditate",
+      "Everyone studies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 132: What is the first reaction when charger is missing?",
+    "options": [
+      "Family investigation starts",
+      "Homework starts",
+      "Peace begins",
+      "Everyone sleeps"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 133: What does 'one minute' usually mean?",
+    "options": [
+      "Minimum 20 minutes",
+      "Exactly 60 seconds",
+      "Never",
+      "Tomorrow"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 134: What is the biggest lie before exams?",
+    "options": [
+      "I wrote with pencil",
+      "Paper was cancelled",
+      "I studied nothing",
+      "I love exams"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 135: What is the real meaning of 'last episode'?",
+    "options": [
+      "Study now",
+      "Phone off",
+      "Three more episodes",
+      "Sleep now"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 136: Which item vanishes mysteriously at home?",
+    "options": [
+      "Ceiling fan",
+      "Fridge",
+      "Wall",
+      "Charger"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 137: What is the official group project rule?",
+    "options": [
+      "Teacher does it",
+      "No one joins",
+      "One person does everything",
+      "Everyone works equally"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 138: What makes a person suddenly religious?",
+    "options": [
+      "Bluetooth",
+      "Exam results",
+      "Pizza",
+      "Shoes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 139: What is the scariest message from a friend?",
+    "options": [
+      "Good morning",
+      "Send meme",
+      "Bro, small problem",
+      "Nice weather"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Funny 140: What happens after saying 'I will wake early'?",
+    "options": [
+      "No phone usage",
+      "Alarm gets snoozed",
+      "5 AM yoga",
+      "Perfect discipline"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 141: What usually happens when WiFi stops?",
+    "options": [
+      "Everyone blames the router",
+      "Nobody notices",
+      "People meditate",
+      "Everyone studies"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 142: What is the first reaction when charger is missing?",
+    "options": [
+      "Family investigation starts",
+      "Homework starts",
+      "Everyone sleeps",
+      "Peace begins"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 143: What does 'one minute' usually mean?",
+    "options": [
+      "Tomorrow",
+      "Exactly 60 seconds",
+      "Never",
+      "Minimum 20 minutes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 144: What is the biggest lie before exams?",
+    "options": [
+      "I wrote with pencil",
+      "I love exams",
+      "Paper was cancelled",
+      "I studied nothing"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Funny 145: What is the real meaning of 'last episode'?",
+    "options": [
+      "Study now",
+      "Three more episodes",
+      "Phone off",
+      "Sleep now"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 146: Which item vanishes mysteriously at home?",
+    "options": [
+      "Charger",
+      "Wall",
+      "Fridge",
+      "Ceiling fan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 147: What is the official group project rule?",
+    "options": [
+      "Teacher does it",
+      "One person does everything",
+      "Everyone works equally",
+      "No one joins"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Funny 148: What makes a person suddenly religious?",
+    "options": [
+      "Exam results",
+      "Shoes",
+      "Bluetooth",
+      "Pizza"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 149: What is the scariest message from a friend?",
+    "options": [
+      "Bro, small problem",
+      "Send meme",
+      "Nice weather",
+      "Good morning"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Funny 150: What happens after saying 'I will wake early'?",
+    "options": [
+      "No phone usage",
+      "5 AM yoga",
+      "Perfect discipline",
+      "Alarm gets snoozed"
+    ],
+    "answer": 3
+  }
+]
