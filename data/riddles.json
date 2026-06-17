@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "What has keys but cannot open locks?",
+    "options": [
+      "Car",
+      "Door",
+      "Wallet",
+      "Piano"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What gets wetter the more it dries?",
+    "options": [
+      "Rain",
+      "Soap",
+      "Towel",
+      "River"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What has a neck but no head?",
+    "options": [
+      "Bottle",
+      "Snake",
+      "Shirt",
+      "Tree"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What has hands but cannot clap?",
+    "options": [
+      "Baby",
+      "Robot",
+      "Clock",
+      "Tree"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What has many teeth but cannot bite?",
+    "options": [
+      "Tiger",
+      "Comb",
+      "Dog",
+      "Shark"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What can travel around the world while staying in one corner?",
+    "options": [
+      "Stamp",
+      "Plane",
+      "Bird",
+      "Map"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What has one eye but cannot see?",
+    "options": [
+      "Human",
+      "Camera",
+      "Needle",
+      "Cyclops"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What has legs but does not walk?",
+    "options": [
+      "Table",
+      "Person",
+      "Dog",
+      "Horse"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What has words but never speaks?",
+    "options": [
+      "Radio",
+      "Book",
+      "Teacher",
+      "Phone"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is full of holes but still holds water?",
+    "options": [
+      "Sponge",
+      "Basket",
+      "Net",
+      "Cup"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What goes up but never comes down?",
+    "options": [
+      "Balloon",
+      "Bird",
+      "Smoke",
+      "Age"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What can you catch but never throw?",
+    "options": [
+      "Ball",
+      "Fish",
+      "Cold",
+      "Stone"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What has cities but no houses?",
+    "options": [
+      "Map",
+      "Island",
+      "Country",
+      "Village"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What has rivers but no water?",
+    "options": [
+      "Map",
+      "Bottle",
+      "Ocean",
+      "Cloud"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What comes down but never goes up?",
+    "options": [
+      "Rocket",
+      "Lift",
+      "Bird",
+      "Rain"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What belongs to you but others use more?",
+    "options": [
+      "Phone",
+      "Shoes",
+      "Your name",
+      "Bag"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What building has the most stories?",
+    "options": [
+      "Hospital",
+      "Library",
+      "Hotel",
+      "Mall"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What runs but never walks?",
+    "options": [
+      "Human",
+      "Car",
+      "Dog",
+      "Water"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What can fill a room but takes no space?",
+    "options": [
+      "Chair",
+      "Table",
+      "Light",
+      "Fan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What has a thumb and four fingers but is not alive?",
+    "options": [
+      "Hand",
+      "Toy",
+      "Robot",
+      "Glove"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What gets bigger when more is taken away?",
+    "options": [
+      "Room",
+      "Hole",
+      "Money",
+      "Cake"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What begins with T, ends with T, and has T inside?",
+    "options": [
+      "Tent",
+      "Toast",
+      "Teapot",
+      "Ticket"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What has a ring but no finger?",
+    "options": [
+      "Telephone",
+      "Gold ring",
+      "Bell",
+      "Planet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What has a head and a tail but no body?",
+    "options": [
+      "Snake",
+      "Fish",
+      "Dog",
+      "Coin"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What has branches but no fruit or leaves?",
+    "options": [
+      "Tree",
+      "River",
+      "Bank",
+      "Shop"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What has a bed but never sleeps?",
+    "options": [
+      "River",
+      "Dog",
+      "Human",
+      "Hotel"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What can you break without touching?",
+    "options": [
+      "Plate",
+      "Promise",
+      "Glass",
+      "Stone"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is always in front of you but cannot be seen?",
+    "options": [
+      "Shadow",
+      "Air",
+      "Screen",
+      "Future"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What has four wheels and flies?",
+    "options": [
+      "Car",
+      "Garbage truck",
+      "Bus",
+      "Airplane"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What can you hold in your right hand but not your left?",
+    "options": [
+      "Your left hand",
+      "Bottle",
+      "Pen",
+      "Phone"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 1: I follow you in light but vanish in darkness. What am I?",
+    "options": [
+      "Mirror",
+      "Shadow",
+      "Echo",
+      "Cloud"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 2: I speak only when someone speaks first. What am I?",
+    "options": [
+      "Book",
+      "Echo",
+      "Radio",
+      "Phone"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 3: I become shorter the more I work. What am I?",
+    "options": [
+      "Book",
+      "Pencil",
+      "Phone",
+      "Table"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 4: I fly without wings and cry without eyes. What am I?",
+    "options": [
+      "Kite",
+      "Bird",
+      "Plane",
+      "Cloud"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 5: I am taken before you get it. What am I?",
+    "options": [
+      "Exam",
+      "Money",
+      "Photo",
+      "Food"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 6: I have branches but no fruit or leaves. What am I?",
+    "options": [
+      "Tree",
+      "River",
+      "Bank",
+      "Shop"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 7: I can be cracked, made, told and played. What am I?",
+    "options": [
+      "Story",
+      "Egg",
+      "Joke",
+      "Game"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 8: I have a spine but no bones. What am I?",
+    "options": [
+      "Snake",
+      "Book",
+      "Human",
+      "Fish"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 9: I go through cities and fields but never move. What am I?",
+    "options": [
+      "River",
+      "Train",
+      "Road",
+      "Car"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 10: I start with E, end with E, and hold one letter. What am I?",
+    "options": [
+      "Engine",
+      "Envelope",
+      "Eye",
+      "Eagle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 11: I have ears but cannot hear. What am I?",
+    "options": [
+      "Human",
+      "Corn",
+      "Dog",
+      "Elephant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 12: I can go through glass without breaking it. What am I?",
+    "options": [
+      "Stone",
+      "Hammer",
+      "Light",
+      "Ball"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 13: I am black when clean and white when dirty. What am I?",
+    "options": [
+      "Shirt",
+      "Blackboard",
+      "Plate",
+      "Sky"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 14: I have a tongue but cannot talk. What am I?",
+    "options": [
+      "Dog",
+      "Shoe",
+      "Bell",
+      "Human"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 15: I have a crown but I am not a king. What am I?",
+    "options": [
+      "Lion",
+      "Tooth",
+      "Coin",
+      "Queen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 16: I follow you in light but vanish in darkness. What am I?",
+    "options": [
+      "Mirror",
+      "Shadow",
+      "Cloud",
+      "Echo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 17: I speak only when someone speaks first. What am I?",
+    "options": [
+      "Radio",
+      "Echo",
+      "Book",
+      "Phone"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 18: I become shorter the more I work. What am I?",
+    "options": [
+      "Table",
+      "Phone",
+      "Pencil",
+      "Book"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 19: I fly without wings and cry without eyes. What am I?",
+    "options": [
+      "Bird",
+      "Kite",
+      "Cloud",
+      "Plane"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 20: I am taken before you get it. What am I?",
+    "options": [
+      "Food",
+      "Exam",
+      "Photo",
+      "Money"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 21: I have branches but no fruit or leaves. What am I?",
+    "options": [
+      "Shop",
+      "River",
+      "Tree",
+      "Bank"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 22: I can be cracked, made, told and played. What am I?",
+    "options": [
+      "Joke",
+      "Game",
+      "Egg",
+      "Story"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 23: I have a spine but no bones. What am I?",
+    "options": [
+      "Human",
+      "Fish",
+      "Book",
+      "Snake"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 24: I go through cities and fields but never move. What am I?",
+    "options": [
+      "Car",
+      "Train",
+      "Road",
+      "River"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 25: I start with E, end with E, and hold one letter. What am I?",
+    "options": [
+      "Envelope",
+      "Eagle",
+      "Engine",
+      "Eye"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 26: I have ears but cannot hear. What am I?",
+    "options": [
+      "Dog",
+      "Human",
+      "Elephant",
+      "Corn"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 27: I can go through glass without breaking it. What am I?",
+    "options": [
+      "Stone",
+      "Light",
+      "Ball",
+      "Hammer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 28: I am black when clean and white when dirty. What am I?",
+    "options": [
+      "Sky",
+      "Blackboard",
+      "Plate",
+      "Shirt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 29: I have a tongue but cannot talk. What am I?",
+    "options": [
+      "Bell",
+      "Dog",
+      "Shoe",
+      "Human"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 30: I have a crown but I am not a king. What am I?",
+    "options": [
+      "Tooth",
+      "Lion",
+      "Coin",
+      "Queen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 31: I follow you in light but vanish in darkness. What am I?",
+    "options": [
+      "Mirror",
+      "Cloud",
+      "Shadow",
+      "Echo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 32: I speak only when someone speaks first. What am I?",
+    "options": [
+      "Echo",
+      "Book",
+      "Phone",
+      "Radio"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 33: I become shorter the more I work. What am I?",
+    "options": [
+      "Pencil",
+      "Table",
+      "Phone",
+      "Book"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 34: I fly without wings and cry without eyes. What am I?",
+    "options": [
+      "Plane",
+      "Cloud",
+      "Kite",
+      "Bird"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 35: I am taken before you get it. What am I?",
+    "options": [
+      "Exam",
+      "Photo",
+      "Money",
+      "Food"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 36: I have branches but no fruit or leaves. What am I?",
+    "options": [
+      "River",
+      "Shop",
+      "Bank",
+      "Tree"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 37: I can be cracked, made, told and played. What am I?",
+    "options": [
+      "Story",
+      "Game",
+      "Egg",
+      "Joke"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 38: I have a spine but no bones. What am I?",
+    "options": [
+      "Fish",
+      "Human",
+      "Snake",
+      "Book"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 39: I go through cities and fields but never move. What am I?",
+    "options": [
+      "River",
+      "Train",
+      "Road",
+      "Car"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 40: I start with E, end with E, and hold one letter. What am I?",
+    "options": [
+      "Envelope",
+      "Engine",
+      "Eye",
+      "Eagle"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 41: I have ears but cannot hear. What am I?",
+    "options": [
+      "Elephant",
+      "Corn",
+      "Dog",
+      "Human"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 42: I can go through glass without breaking it. What am I?",
+    "options": [
+      "Stone",
+      "Hammer",
+      "Ball",
+      "Light"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 43: I am black when clean and white when dirty. What am I?",
+    "options": [
+      "Blackboard",
+      "Shirt",
+      "Plate",
+      "Sky"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 44: I have a tongue but cannot talk. What am I?",
+    "options": [
+      "Human",
+      "Dog",
+      "Bell",
+      "Shoe"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 45: I have a crown but I am not a king. What am I?",
+    "options": [
+      "Lion",
+      "Coin",
+      "Tooth",
+      "Queen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 46: I follow you in light but vanish in darkness. What am I?",
+    "options": [
+      "Mirror",
+      "Echo",
+      "Shadow",
+      "Cloud"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 47: I speak only when someone speaks first. What am I?",
+    "options": [
+      "Radio",
+      "Book",
+      "Phone",
+      "Echo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 48: I become shorter the more I work. What am I?",
+    "options": [
+      "Table",
+      "Book",
+      "Phone",
+      "Pencil"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 49: I fly without wings and cry without eyes. What am I?",
+    "options": [
+      "Plane",
+      "Kite",
+      "Cloud",
+      "Bird"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 50: I am taken before you get it. What am I?",
+    "options": [
+      "Money",
+      "Food",
+      "Photo",
+      "Exam"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 51: I have branches but no fruit or leaves. What am I?",
+    "options": [
+      "Tree",
+      "Bank",
+      "River",
+      "Shop"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 52: I can be cracked, made, told and played. What am I?",
+    "options": [
+      "Game",
+      "Egg",
+      "Story",
+      "Joke"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 53: I have a spine but no bones. What am I?",
+    "options": [
+      "Snake",
+      "Book",
+      "Human",
+      "Fish"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 54: I go through cities and fields but never move. What am I?",
+    "options": [
+      "Train",
+      "River",
+      "Car",
+      "Road"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 55: I start with E, end with E, and hold one letter. What am I?",
+    "options": [
+      "Eagle",
+      "Engine",
+      "Eye",
+      "Envelope"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 56: I have ears but cannot hear. What am I?",
+    "options": [
+      "Dog",
+      "Corn",
+      "Human",
+      "Elephant"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 57: I can go through glass without breaking it. What am I?",
+    "options": [
+      "Stone",
+      "Light",
+      "Ball",
+      "Hammer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 58: I am black when clean and white when dirty. What am I?",
+    "options": [
+      "Sky",
+      "Plate",
+      "Shirt",
+      "Blackboard"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 59: I have a tongue but cannot talk. What am I?",
+    "options": [
+      "Shoe",
+      "Dog",
+      "Human",
+      "Bell"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 60: I have a crown but I am not a king. What am I?",
+    "options": [
+      "Tooth",
+      "Coin",
+      "Lion",
+      "Queen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 61: I follow you in light but vanish in darkness. What am I?",
+    "options": [
+      "Cloud",
+      "Mirror",
+      "Echo",
+      "Shadow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 62: I speak only when someone speaks first. What am I?",
+    "options": [
+      "Echo",
+      "Book",
+      "Radio",
+      "Phone"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 63: I become shorter the more I work. What am I?",
+    "options": [
+      "Table",
+      "Phone",
+      "Book",
+      "Pencil"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 64: I fly without wings and cry without eyes. What am I?",
+    "options": [
+      "Plane",
+      "Bird",
+      "Kite",
+      "Cloud"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 65: I am taken before you get it. What am I?",
+    "options": [
+      "Food",
+      "Photo",
+      "Exam",
+      "Money"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 66: I have branches but no fruit or leaves. What am I?",
+    "options": [
+      "Shop",
+      "River",
+      "Bank",
+      "Tree"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 67: I can be cracked, made, told and played. What am I?",
+    "options": [
+      "Game",
+      "Egg",
+      "Joke",
+      "Story"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 68: I have a spine but no bones. What am I?",
+    "options": [
+      "Snake",
+      "Book",
+      "Human",
+      "Fish"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 69: I go through cities and fields but never move. What am I?",
+    "options": [
+      "Car",
+      "Train",
+      "River",
+      "Road"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 70: I start with E, end with E, and hold one letter. What am I?",
+    "options": [
+      "Engine",
+      "Eagle",
+      "Envelope",
+      "Eye"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 71: I have ears but cannot hear. What am I?",
+    "options": [
+      "Dog",
+      "Human",
+      "Corn",
+      "Elephant"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 72: I can go through glass without breaking it. What am I?",
+    "options": [
+      "Stone",
+      "Hammer",
+      "Light",
+      "Ball"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 73: I am black when clean and white when dirty. What am I?",
+    "options": [
+      "Shirt",
+      "Blackboard",
+      "Plate",
+      "Sky"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 74: I have a tongue but cannot talk. What am I?",
+    "options": [
+      "Human",
+      "Dog",
+      "Shoe",
+      "Bell"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 75: I have a crown but I am not a king. What am I?",
+    "options": [
+      "Queen",
+      "Lion",
+      "Coin",
+      "Tooth"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 76: I follow you in light but vanish in darkness. What am I?",
+    "options": [
+      "Echo",
+      "Cloud",
+      "Shadow",
+      "Mirror"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 77: I speak only when someone speaks first. What am I?",
+    "options": [
+      "Phone",
+      "Book",
+      "Echo",
+      "Radio"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 78: I become shorter the more I work. What am I?",
+    "options": [
+      "Table",
+      "Phone",
+      "Pencil",
+      "Book"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 79: I fly without wings and cry without eyes. What am I?",
+    "options": [
+      "Cloud",
+      "Bird",
+      "Plane",
+      "Kite"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 80: I am taken before you get it. What am I?",
+    "options": [
+      "Money",
+      "Food",
+      "Exam",
+      "Photo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 81: I have branches but no fruit or leaves. What am I?",
+    "options": [
+      "Shop",
+      "Tree",
+      "Bank",
+      "River"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 82: I can be cracked, made, told and played. What am I?",
+    "options": [
+      "Egg",
+      "Story",
+      "Joke",
+      "Game"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 83: I have a spine but no bones. What am I?",
+    "options": [
+      "Human",
+      "Snake",
+      "Fish",
+      "Book"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 84: I go through cities and fields but never move. What am I?",
+    "options": [
+      "Road",
+      "River",
+      "Car",
+      "Train"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 85: I start with E, end with E, and hold one letter. What am I?",
+    "options": [
+      "Eagle",
+      "Engine",
+      "Eye",
+      "Envelope"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 86: I have ears but cannot hear. What am I?",
+    "options": [
+      "Elephant",
+      "Corn",
+      "Human",
+      "Dog"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 87: I can go through glass without breaking it. What am I?",
+    "options": [
+      "Stone",
+      "Ball",
+      "Light",
+      "Hammer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 88: I am black when clean and white when dirty. What am I?",
+    "options": [
+      "Plate",
+      "Blackboard",
+      "Sky",
+      "Shirt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 89: I have a tongue but cannot talk. What am I?",
+    "options": [
+      "Bell",
+      "Shoe",
+      "Human",
+      "Dog"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 90: I have a crown but I am not a king. What am I?",
+    "options": [
+      "Tooth",
+      "Queen",
+      "Coin",
+      "Lion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 91: I follow you in light but vanish in darkness. What am I?",
+    "options": [
+      "Echo",
+      "Cloud",
+      "Mirror",
+      "Shadow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 92: I speak only when someone speaks first. What am I?",
+    "options": [
+      "Book",
+      "Echo",
+      "Radio",
+      "Phone"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 93: I become shorter the more I work. What am I?",
+    "options": [
+      "Phone",
+      "Pencil",
+      "Book",
+      "Table"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 94: I fly without wings and cry without eyes. What am I?",
+    "options": [
+      "Cloud",
+      "Plane",
+      "Kite",
+      "Bird"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 95: I am taken before you get it. What am I?",
+    "options": [
+      "Money",
+      "Photo",
+      "Exam",
+      "Food"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 96: I have branches but no fruit or leaves. What am I?",
+    "options": [
+      "Tree",
+      "River",
+      "Shop",
+      "Bank"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 97: I can be cracked, made, told and played. What am I?",
+    "options": [
+      "Game",
+      "Story",
+      "Joke",
+      "Egg"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 98: I have a spine but no bones. What am I?",
+    "options": [
+      "Fish",
+      "Human",
+      "Book",
+      "Snake"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 99: I go through cities and fields but never move. What am I?",
+    "options": [
+      "Car",
+      "Road",
+      "Train",
+      "River"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 100: I start with E, end with E, and hold one letter. What am I?",
+    "options": [
+      "Eye",
+      "Engine",
+      "Envelope",
+      "Eagle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 101: I have ears but cannot hear. What am I?",
+    "options": [
+      "Dog",
+      "Corn",
+      "Elephant",
+      "Human"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 102: I can go through glass without breaking it. What am I?",
+    "options": [
+      "Ball",
+      "Stone",
+      "Hammer",
+      "Light"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 103: I am black when clean and white when dirty. What am I?",
+    "options": [
+      "Plate",
+      "Sky",
+      "Blackboard",
+      "Shirt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 104: I have a tongue but cannot talk. What am I?",
+    "options": [
+      "Human",
+      "Shoe",
+      "Bell",
+      "Dog"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 105: I have a crown but I am not a king. What am I?",
+    "options": [
+      "Coin",
+      "Queen",
+      "Lion",
+      "Tooth"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 106: I follow you in light but vanish in darkness. What am I?",
+    "options": [
+      "Mirror",
+      "Echo",
+      "Cloud",
+      "Shadow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 107: I speak only when someone speaks first. What am I?",
+    "options": [
+      "Radio",
+      "Echo",
+      "Book",
+      "Phone"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 108: I become shorter the more I work. What am I?",
+    "options": [
+      "Table",
+      "Book",
+      "Phone",
+      "Pencil"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 109: I fly without wings and cry without eyes. What am I?",
+    "options": [
+      "Kite",
+      "Bird",
+      "Plane",
+      "Cloud"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 110: I am taken before you get it. What am I?",
+    "options": [
+      "Food",
+      "Money",
+      "Exam",
+      "Photo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 111: I have branches but no fruit or leaves. What am I?",
+    "options": [
+      "Tree",
+      "Shop",
+      "River",
+      "Bank"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 112: I can be cracked, made, told and played. What am I?",
+    "options": [
+      "Story",
+      "Egg",
+      "Game",
+      "Joke"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Riddle 113: I have a spine but no bones. What am I?",
+    "options": [
+      "Snake",
+      "Human",
+      "Book",
+      "Fish"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 114: I go through cities and fields but never move. What am I?",
+    "options": [
+      "Road",
+      "Car",
+      "River",
+      "Train"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 115: I start with E, end with E, and hold one letter. What am I?",
+    "options": [
+      "Envelope",
+      "Eagle",
+      "Eye",
+      "Engine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Riddle 116: I have ears but cannot hear. What am I?",
+    "options": [
+      "Human",
+      "Dog",
+      "Corn",
+      "Elephant"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 117: I can go through glass without breaking it. What am I?",
+    "options": [
+      "Stone",
+      "Light",
+      "Ball",
+      "Hammer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 118: I am black when clean and white when dirty. What am I?",
+    "options": [
+      "Plate",
+      "Sky",
+      "Blackboard",
+      "Shirt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Riddle 119: I have a tongue but cannot talk. What am I?",
+    "options": [
+      "Dog",
+      "Shoe",
+      "Human",
+      "Bell"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Riddle 120: I have a crown but I am not a king. What am I?",
+    "options": [
+      "Coin",
+      "Lion",
+      "Queen",
+      "Tooth"
+    ],
+    "answer": 3
+  }
+]
