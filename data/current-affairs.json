@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "Which Indian mission landed near the Moon's south pole?",
+    "options": [
+      "Chandrayaan-2",
+      "Chandrayaan-3",
+      "Chandrayaan-1",
+      "Mangalyaan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "India hosted which major summit in 2023?",
+    "options": [
+      "G7",
+      "BRICS",
+      "ASEAN",
+      "G20"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which Indian digital payment system is popular globally?",
+    "options": [
+      "DD",
+      "Cheque",
+      "UPI",
+      "NEFT"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which institution controls monetary policy in India?",
+    "options": [
+      "SEBI",
+      "RBI",
+      "CBI",
+      "NITI Aayog"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which organisation releases the Human Development Report?",
+    "options": [
+      "IMF",
+      "UNDP",
+      "WHO",
+      "WTO"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "COP climate summits mainly discuss what?",
+    "options": [
+      "Cinema",
+      "Sports",
+      "Gaming",
+      "Climate change"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "GST in India is related to what?",
+    "options": [
+      "Space",
+      "Railways",
+      "Tax",
+      "Sports"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which body conducts elections in India?",
+    "options": [
+      "UPSC",
+      "NITI Aayog",
+      "Election Commission",
+      "Finance Commission"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 1: Digital India mainly promotes what?",
+    "options": [
+      "Only football",
+      "Only farming",
+      "Only cinema",
+      "Technology access"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 2: Ayushman Bharat is mainly linked with what?",
+    "options": [
+      "Health",
+      "Railways",
+      "Space",
+      "Ports"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 3: PM-KISAN supports which group?",
+    "options": [
+      "Students",
+      "Farmers",
+      "Actors",
+      "Pilots"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 4: UDAN scheme is linked with what?",
+    "options": [
+      "Regional air connectivity",
+      "Space mission",
+      "Sports",
+      "Banking"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 5: ISRO is related to what?",
+    "options": [
+      "Space",
+      "Elections",
+      "Banking",
+      "Football"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 6: SEBI regulates which market?",
+    "options": [
+      "Cinema",
+      "Securities market",
+      "Weather",
+      "Food market"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 7: WHO is related to what?",
+    "options": [
+      "Football",
+      "Trade",
+      "Cinema",
+      "Global health"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 8: WTO is related to what?",
+    "options": [
+      "Education only",
+      "Space",
+      "Trade rules",
+      "Health"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 9: Ramsar sites are related to what?",
+    "options": [
+      "Deserts",
+      "Roads",
+      "Wetlands",
+      "Mountains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 10: The Paris Agreement is related to what?",
+    "options": [
+      "Cricket",
+      "Cinema",
+      "Trade only",
+      "Climate"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 11: Digital India mainly promotes what?",
+    "options": [
+      "Only football",
+      "Technology access",
+      "Only cinema",
+      "Only farming"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 12: Ayushman Bharat is mainly linked with what?",
+    "options": [
+      "Health",
+      "Ports",
+      "Space",
+      "Railways"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 13: PM-KISAN supports which group?",
+    "options": [
+      "Pilots",
+      "Students",
+      "Farmers",
+      "Actors"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 14: UDAN scheme is linked with what?",
+    "options": [
+      "Banking",
+      "Sports",
+      "Regional air connectivity",
+      "Space mission"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 15: ISRO is related to what?",
+    "options": [
+      "Football",
+      "Elections",
+      "Space",
+      "Banking"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 16: SEBI regulates which market?",
+    "options": [
+      "Food market",
+      "Weather",
+      "Securities market",
+      "Cinema"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 17: WHO is related to what?",
+    "options": [
+      "Trade",
+      "Global health",
+      "Football",
+      "Cinema"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 18: WTO is related to what?",
+    "options": [
+      "Trade rules",
+      "Education only",
+      "Space",
+      "Health"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 19: Ramsar sites are related to what?",
+    "options": [
+      "Deserts",
+      "Wetlands",
+      "Mountains",
+      "Roads"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 20: The Paris Agreement is related to what?",
+    "options": [
+      "Trade only",
+      "Cinema",
+      "Cricket",
+      "Climate"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 21: Digital India mainly promotes what?",
+    "options": [
+      "Only football",
+      "Only farming",
+      "Technology access",
+      "Only cinema"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 22: Ayushman Bharat is mainly linked with what?",
+    "options": [
+      "Space",
+      "Health",
+      "Ports",
+      "Railways"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 23: PM-KISAN supports which group?",
+    "options": [
+      "Farmers",
+      "Students",
+      "Pilots",
+      "Actors"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 24: UDAN scheme is linked with what?",
+    "options": [
+      "Space mission",
+      "Sports",
+      "Banking",
+      "Regional air connectivity"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 25: ISRO is related to what?",
+    "options": [
+      "Banking",
+      "Football",
+      "Space",
+      "Elections"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 26: SEBI regulates which market?",
+    "options": [
+      "Securities market",
+      "Cinema",
+      "Food market",
+      "Weather"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 27: WHO is related to what?",
+    "options": [
+      "Trade",
+      "Cinema",
+      "Football",
+      "Global health"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 28: WTO is related to what?",
+    "options": [
+      "Trade rules",
+      "Education only",
+      "Space",
+      "Health"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 29: Ramsar sites are related to what?",
+    "options": [
+      "Deserts",
+      "Roads",
+      "Mountains",
+      "Wetlands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 30: The Paris Agreement is related to what?",
+    "options": [
+      "Cinema",
+      "Trade only",
+      "Climate",
+      "Cricket"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 31: Digital India mainly promotes what?",
+    "options": [
+      "Only football",
+      "Technology access",
+      "Only cinema",
+      "Only farming"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 32: Ayushman Bharat is mainly linked with what?",
+    "options": [
+      "Health",
+      "Ports",
+      "Space",
+      "Railways"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 33: PM-KISAN supports which group?",
+    "options": [
+      "Pilots",
+      "Actors",
+      "Students",
+      "Farmers"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 34: UDAN scheme is linked with what?",
+    "options": [
+      "Banking",
+      "Regional air connectivity",
+      "Space mission",
+      "Sports"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 35: ISRO is related to what?",
+    "options": [
+      "Elections",
+      "Banking",
+      "Football",
+      "Space"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 36: SEBI regulates which market?",
+    "options": [
+      "Cinema",
+      "Food market",
+      "Securities market",
+      "Weather"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 37: WHO is related to what?",
+    "options": [
+      "Trade",
+      "Cinema",
+      "Global health",
+      "Football"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 38: WTO is related to what?",
+    "options": [
+      "Trade rules",
+      "Education only",
+      "Space",
+      "Health"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 39: Ramsar sites are related to what?",
+    "options": [
+      "Deserts",
+      "Mountains",
+      "Wetlands",
+      "Roads"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 40: The Paris Agreement is related to what?",
+    "options": [
+      "Cinema",
+      "Climate",
+      "Cricket",
+      "Trade only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 41: Digital India mainly promotes what?",
+    "options": [
+      "Only cinema",
+      "Only football",
+      "Technology access",
+      "Only farming"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 42: Ayushman Bharat is mainly linked with what?",
+    "options": [
+      "Health",
+      "Railways",
+      "Space",
+      "Ports"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 43: PM-KISAN supports which group?",
+    "options": [
+      "Farmers",
+      "Pilots",
+      "Students",
+      "Actors"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 44: UDAN scheme is linked with what?",
+    "options": [
+      "Regional air connectivity",
+      "Sports",
+      "Space mission",
+      "Banking"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 45: ISRO is related to what?",
+    "options": [
+      "Football",
+      "Space",
+      "Elections",
+      "Banking"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 46: SEBI regulates which market?",
+    "options": [
+      "Securities market",
+      "Food market",
+      "Cinema",
+      "Weather"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 47: WHO is related to what?",
+    "options": [
+      "Trade",
+      "Global health",
+      "Football",
+      "Cinema"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 48: WTO is related to what?",
+    "options": [
+      "Trade rules",
+      "Health",
+      "Space",
+      "Education only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 49: Ramsar sites are related to what?",
+    "options": [
+      "Deserts",
+      "Wetlands",
+      "Mountains",
+      "Roads"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 50: The Paris Agreement is related to what?",
+    "options": [
+      "Cinema",
+      "Trade only",
+      "Cricket",
+      "Climate"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 51: Digital India mainly promotes what?",
+    "options": [
+      "Only football",
+      "Only farming",
+      "Technology access",
+      "Only cinema"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 52: Ayushman Bharat is mainly linked with what?",
+    "options": [
+      "Railways",
+      "Health",
+      "Ports",
+      "Space"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 53: PM-KISAN supports which group?",
+    "options": [
+      "Farmers",
+      "Actors",
+      "Students",
+      "Pilots"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 54: UDAN scheme is linked with what?",
+    "options": [
+      "Regional air connectivity",
+      "Space mission",
+      "Sports",
+      "Banking"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 55: ISRO is related to what?",
+    "options": [
+      "Space",
+      "Elections",
+      "Football",
+      "Banking"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 56: SEBI regulates which market?",
+    "options": [
+      "Weather",
+      "Cinema",
+      "Securities market",
+      "Food market"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 57: WHO is related to what?",
+    "options": [
+      "Trade",
+      "Cinema",
+      "Global health",
+      "Football"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 58: WTO is related to what?",
+    "options": [
+      "Education only",
+      "Space",
+      "Trade rules",
+      "Health"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 59: Ramsar sites are related to what?",
+    "options": [
+      "Wetlands",
+      "Mountains",
+      "Roads",
+      "Deserts"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 60: The Paris Agreement is related to what?",
+    "options": [
+      "Climate",
+      "Cricket",
+      "Trade only",
+      "Cinema"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 61: Digital India mainly promotes what?",
+    "options": [
+      "Only cinema",
+      "Only football",
+      "Technology access",
+      "Only farming"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 62: Ayushman Bharat is mainly linked with what?",
+    "options": [
+      "Railways",
+      "Health",
+      "Ports",
+      "Space"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 63: PM-KISAN supports which group?",
+    "options": [
+      "Actors",
+      "Pilots",
+      "Farmers",
+      "Students"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 64: UDAN scheme is linked with what?",
+    "options": [
+      "Banking",
+      "Space mission",
+      "Sports",
+      "Regional air connectivity"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 65: ISRO is related to what?",
+    "options": [
+      "Football",
+      "Banking",
+      "Space",
+      "Elections"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 66: SEBI regulates which market?",
+    "options": [
+      "Food market",
+      "Securities market",
+      "Weather",
+      "Cinema"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 67: WHO is related to what?",
+    "options": [
+      "Football",
+      "Trade",
+      "Cinema",
+      "Global health"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 68: WTO is related to what?",
+    "options": [
+      "Trade rules",
+      "Space",
+      "Health",
+      "Education only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 69: Ramsar sites are related to what?",
+    "options": [
+      "Wetlands",
+      "Deserts",
+      "Roads",
+      "Mountains"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 70: The Paris Agreement is related to what?",
+    "options": [
+      "Climate",
+      "Trade only",
+      "Cricket",
+      "Cinema"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 71: Digital India mainly promotes what?",
+    "options": [
+      "Technology access",
+      "Only cinema",
+      "Only football",
+      "Only farming"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 72: Ayushman Bharat is mainly linked with what?",
+    "options": [
+      "Space",
+      "Health",
+      "Ports",
+      "Railways"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 73: PM-KISAN supports which group?",
+    "options": [
+      "Pilots",
+      "Farmers",
+      "Actors",
+      "Students"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 74: UDAN scheme is linked with what?",
+    "options": [
+      "Sports",
+      "Regional air connectivity",
+      "Banking",
+      "Space mission"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 75: ISRO is related to what?",
+    "options": [
+      "Football",
+      "Banking",
+      "Space",
+      "Elections"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 76: SEBI regulates which market?",
+    "options": [
+      "Food market",
+      "Securities market",
+      "Cinema",
+      "Weather"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 77: WHO is related to what?",
+    "options": [
+      "Cinema",
+      "Football",
+      "Trade",
+      "Global health"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 78: WTO is related to what?",
+    "options": [
+      "Education only",
+      "Trade rules",
+      "Health",
+      "Space"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 79: Ramsar sites are related to what?",
+    "options": [
+      "Deserts",
+      "Roads",
+      "Mountains",
+      "Wetlands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 80: The Paris Agreement is related to what?",
+    "options": [
+      "Cricket",
+      "Climate",
+      "Trade only",
+      "Cinema"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 81: Digital India mainly promotes what?",
+    "options": [
+      "Only football",
+      "Technology access",
+      "Only farming",
+      "Only cinema"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 82: Ayushman Bharat is mainly linked with what?",
+    "options": [
+      "Health",
+      "Ports",
+      "Space",
+      "Railways"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 83: PM-KISAN supports which group?",
+    "options": [
+      "Farmers",
+      "Actors",
+      "Pilots",
+      "Students"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 84: UDAN scheme is linked with what?",
+    "options": [
+      "Regional air connectivity",
+      "Space mission",
+      "Banking",
+      "Sports"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 85: ISRO is related to what?",
+    "options": [
+      "Banking",
+      "Football",
+      "Elections",
+      "Space"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 86: SEBI regulates which market?",
+    "options": [
+      "Weather",
+      "Food market",
+      "Securities market",
+      "Cinema"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 87: WHO is related to what?",
+    "options": [
+      "Football",
+      "Global health",
+      "Cinema",
+      "Trade"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 88: WTO is related to what?",
+    "options": [
+      "Health",
+      "Education only",
+      "Trade rules",
+      "Space"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 89: Ramsar sites are related to what?",
+    "options": [
+      "Mountains",
+      "Deserts",
+      "Wetlands",
+      "Roads"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 90: The Paris Agreement is related to what?",
+    "options": [
+      "Trade only",
+      "Cinema",
+      "Climate",
+      "Cricket"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 91: Digital India mainly promotes what?",
+    "options": [
+      "Only cinema",
+      "Technology access",
+      "Only football",
+      "Only farming"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 92: Ayushman Bharat is mainly linked with what?",
+    "options": [
+      "Railways",
+      "Space",
+      "Health",
+      "Ports"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 93: PM-KISAN supports which group?",
+    "options": [
+      "Farmers",
+      "Actors",
+      "Pilots",
+      "Students"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 94: UDAN scheme is linked with what?",
+    "options": [
+      "Regional air connectivity",
+      "Banking",
+      "Space mission",
+      "Sports"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 95: ISRO is related to what?",
+    "options": [
+      "Space",
+      "Banking",
+      "Elections",
+      "Football"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 96: SEBI regulates which market?",
+    "options": [
+      "Weather",
+      "Cinema",
+      "Food market",
+      "Securities market"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 97: WHO is related to what?",
+    "options": [
+      "Global health",
+      "Football",
+      "Cinema",
+      "Trade"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 98: WTO is related to what?",
+    "options": [
+      "Trade rules",
+      "Health",
+      "Space",
+      "Education only"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 99: Ramsar sites are related to what?",
+    "options": [
+      "Roads",
+      "Mountains",
+      "Deserts",
+      "Wetlands"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 100: The Paris Agreement is related to what?",
+    "options": [
+      "Climate",
+      "Cricket",
+      "Trade only",
+      "Cinema"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 101: Digital India mainly promotes what?",
+    "options": [
+      "Technology access",
+      "Only football",
+      "Only farming",
+      "Only cinema"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 102: Ayushman Bharat is mainly linked with what?",
+    "options": [
+      "Railways",
+      "Ports",
+      "Health",
+      "Space"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 103: PM-KISAN supports which group?",
+    "options": [
+      "Students",
+      "Farmers",
+      "Pilots",
+      "Actors"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 104: UDAN scheme is linked with what?",
+    "options": [
+      "Space mission",
+      "Sports",
+      "Banking",
+      "Regional air connectivity"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 105: ISRO is related to what?",
+    "options": [
+      "Football",
+      "Banking",
+      "Space",
+      "Elections"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 106: SEBI regulates which market?",
+    "options": [
+      "Securities market",
+      "Weather",
+      "Cinema",
+      "Food market"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Current Affairs 107: WHO is related to what?",
+    "options": [
+      "Trade",
+      "Cinema",
+      "Football",
+      "Global health"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 108: WTO is related to what?",
+    "options": [
+      "Health",
+      "Space",
+      "Trade rules",
+      "Education only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 109: Ramsar sites are related to what?",
+    "options": [
+      "Deserts",
+      "Roads",
+      "Wetlands",
+      "Mountains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Current Affairs 110: The Paris Agreement is related to what?",
+    "options": [
+      "Cinema",
+      "Cricket",
+      "Trade only",
+      "Climate"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Current Affairs 111: Digital India mainly promotes what?",
+    "options": [
+      "Only farming",
+      "Technology access",
+      "Only cinema",
+      "Only football"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Current Affairs 112: Ayushman Bharat is mainly linked with what?",
+    "options": [
+      "Ports",
+      "Space",
+      "Railways",
+      "Health"
+    ],
+    "answer": 3
+  }
+]
